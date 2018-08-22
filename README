@@ -22,7 +22,6 @@ cdm
 cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
-compiz-plugins-unsupported
 csmith
 dnscrypt-proxy
 doclifter
@@ -41,7 +40,6 @@ enemies-of-carlotta
 evopop-gtk-theme
 evopop-icon-theme
 fbset
-fest-reflect
 fotowall
 freehoo
 frepple
@@ -71,7 +69,6 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
-icon-naming-utils
 ike
 impallari-lobster-fonts
 iniparser
@@ -95,19 +92,16 @@ libnatpmp
 libpuzzle
 libpwiz
 libqxt
-libskindesignerapi
 log4shib
 lzma
 madplay
 makedepf90
-mate-keyring
 mbox2eml
 metamorphose2
 min12xxw
 mindi-busybox
 minion
 mMass
-moblin-app-installer
 modplugtools
 moka-icon-theme
 monitor-edid
@@ -257,7 +251,6 @@ php-pecl-sphinx
 php-tracy
 pix
 pixz
-pki-tps
 plv8
 pnmixer
 pop-gtk-theme
@@ -444,7 +437,6 @@ typemade-josefinsansstd-light-fonts
 udunits
 vdr-ttxtsubs
 vdr-tvonscreen
-virt-df
 vldocking
 vnc-ltsp-config
 waffle
