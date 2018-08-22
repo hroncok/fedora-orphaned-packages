@@ -1,4 +1,3 @@
-2ping
 adonthell
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
@@ -23,12 +22,11 @@ cdm
 cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
-cpptest
+compiz-plugins-unsupported
 csmith
 dnscrypt-proxy
 doclifter
 dojo
-dokuwiki
 dpkg
 dreamchess-tools
 dzen2
@@ -43,6 +41,7 @@ enemies-of-carlotta
 evopop-gtk-theme
 evopop-icon-theme
 fbset
+fest-reflect
 fotowall
 freehoo
 frepple
@@ -56,6 +55,7 @@ ghc-setlocale
 git-bugzilla
 gmusicbrowser
 gnome-hearts
+gnome-pie
 gnome-shell-extension-calc
 gnudiff
 golang-github-docopt-docopt-go
@@ -69,9 +69,9 @@ hive
 hoard
 hornetq
 htmlparser
-httrack
 hunspell-de
 hyphen-de
+icon-naming-utils
 ike
 impallari-lobster-fonts
 iniparser
@@ -95,16 +95,19 @@ libnatpmp
 libpuzzle
 libpwiz
 libqxt
+libskindesignerapi
 log4shib
 lzma
 madplay
 makedepf90
+mate-keyring
 mbox2eml
 metamorphose2
 min12xxw
 mindi-busybox
 minion
 mMass
+moblin-app-installer
 modplugtools
 moka-icon-theme
 monitor-edid
@@ -252,7 +255,9 @@ php-pecl-geoip
 php-pecl-lzf
 php-pecl-sphinx
 php-tracy
+pix
 pixz
+pki-tps
 plv8
 pnmixer
 pop-gtk-theme
@@ -270,8 +275,6 @@ python3-openid
 python-4Suite-XML
 python-afl
 python-backport_collections
-python-beaker
-python-botocore
 python-cclib
 python-celery
 python-characteristic
@@ -286,6 +289,7 @@ python-gnupg
 python-html2text
 python-importanize
 python-importlib
+python-ivi
 python-jmespath
 python-lasagna
 python-libcnml
@@ -305,11 +309,12 @@ python-pymtp
 python-pythonz-bd
 python-rangehttpserver
 python-resumable-urlretrieve
-python-rply
 python-s3transfer
 python-simplepath
 python-social-auth
-python-tlslite
+python-testify
+python-usbtmc
+python-vxi11
 python-wcwidth
 pytorctl
 qmforge
@@ -431,6 +436,7 @@ tlsdate
 tong
 trabajo-fonts
 trac-code-comments-plugin
+transgui
 ttname
 tuladha-jejeg-fonts
 tuxcmd
@@ -438,6 +444,7 @@ typemade-josefinsansstd-light-fonts
 udunits
 vdr-ttxtsubs
 vdr-tvonscreen
+virt-df
 vldocking
 vnc-ltsp-config
 waffle
@@ -447,8 +454,12 @@ wyrd
 xboxdrv
 xcftools
 xls2csv
+xplayer
+xplayer-plparser
 xsettingsd
 xsupplicant
 xtv
+xviewer
+xviewer-plugins
 yafc
 zopfli
