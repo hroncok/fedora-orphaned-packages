@@ -10,7 +10,7 @@ cache:
     - $HOME/.cache/pip
 install:
   - pip install aiohttp
-  - git clone https://pagure.io/forks/churchyard/fedora-misc-package-utilities.git --single-branch -b find-orphaned-packages --depth 1
+  - git clone https://pagure.io/fedora-misc-package-utilities.git --single-branch -b master --depth 1
 script:
   - python fedora-misc-package-utilities/find-orphaned-packages | sort | tee README
 after_success:
