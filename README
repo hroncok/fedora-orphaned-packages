@@ -84,14 +84,10 @@ jinput
 jktestpackage
 js-jquery1
 js-jquery2
-kdebase4
-kdelibs4
 knapsen
 ladspa-swh-plugins
 ldd-pdf
-libconcord
 libcryptui
-libfreebob
 libnatpmp
 libpuzzle
 libpwiz
@@ -100,7 +96,6 @@ log4shib
 lzma
 madplay
 makedepf90
-maven-timestamp-plugin
 mbox2eml
 metamorphose2
 min12xxw
@@ -205,7 +200,6 @@ oflb-sportrop-fonts
 ofono
 openjfx
 openmx
-openstack-neutron-gbp
 OpenTK
 pagul-fonts
 pam_pkcs11
@@ -255,10 +249,8 @@ php-pecl-geoip
 php-pecl-lzf
 php-pecl-sphinx
 php-tracy
-php-twig-Twig
 pix
 pixz
-pki-native-tools
 plv8
 pnmixer
 pop-gtk-theme
@@ -282,8 +274,6 @@ python-celery
 python-characteristic
 python-configobj
 python-contexttimer
-python-cvstoys
-python-django15
 python-django-classy-tags
 python-django-fas
 python-django-markdown2
