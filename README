@@ -23,6 +23,7 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 csmith
+django-notification
 dnscrypt-proxy
 doclifter
 dojo
@@ -210,6 +211,7 @@ perl-Net-Ping-External
 perl-Net-Telnet
 perl-Satcon
 perl-Term-Animation
+perl-Time-modules
 pew
 phatch
 phetsarath-fonts
@@ -251,6 +253,7 @@ php-pecl-sphinx
 php-tracy
 pix
 pixz
+plexus-registry
 plv8
 pnmixer
 pop-gtk-theme
