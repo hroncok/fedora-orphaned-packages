@@ -23,13 +23,10 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 csmith
-django-notification
-dnscrypt-proxy
 doclifter
 dojo
 dpkg
 dreamchess-tools
-dzen2
 eclipse-emf-mwe
 eclipse-emf-transaction
 eclipse-xpand
@@ -85,6 +82,7 @@ jinput
 jktestpackage
 js-jquery1
 js-jquery2
+kinput2
 knapsen
 ladspa-swh-plugins
 ldd-pdf
@@ -211,7 +209,6 @@ perl-Net-Ping-External
 perl-Net-Telnet
 perl-Satcon
 perl-Term-Animation
-perl-Time-modules
 pew
 phatch
 phetsarath-fonts
@@ -253,7 +250,6 @@ php-pecl-sphinx
 php-tracy
 pix
 pixz
-plexus-registry
 plv8
 pnmixer
 pop-gtk-theme
@@ -267,7 +263,6 @@ pyjoke
 PySolFC
 PySolFC-cardsets
 PySolFC-music
-python3-openid
 python-4Suite-XML
 python-afl
 python-assimulo
@@ -429,7 +424,6 @@ tesla-pom
 tharlon-fonts
 tinyxpath
 tlomt-orbitron-fonts
-tlsdate
 tong
 trabajo-fonts
 trac-code-comments-plugin
