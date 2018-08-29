@@ -7,7 +7,6 @@ arc-theme
 arm-none-eabi-gdb
 ascii-design
 ath_info
-audiofile
 autodocksuite
 aws-shell
 balloontip
@@ -16,7 +15,6 @@ bouml
 bouml-doc
 brightnessctl
 Canna
-caribou
 cclive
 cdm
 cf-sorts-mill-goudy-fonts
@@ -43,7 +41,6 @@ freehoo
 frepple
 gausssum
 gdesklets-goodweather
-getdata
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -87,7 +84,6 @@ knapsen
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
-libnatpmp
 libpuzzle
 libpwiz
 libqxt
@@ -110,7 +106,6 @@ mozvoikko
 mph-2b-damase-fonts
 mylvmbackup
 mythes-de
-ncftp
 NetPIPE
 ngrep
 nodejs-accepts
@@ -268,7 +263,6 @@ python-afl
 python-assimulo
 python-backport_collections
 python-cclib
-python-celery
 python-characteristic
 python-configobj
 python-contexttimer
@@ -277,7 +271,6 @@ python-django-fas
 python-django-markdown2
 python-django-rest-framework-braces
 python-flock
-python-gnupg
 python-html2text
 python-importanize
 python-importlib
@@ -294,7 +287,6 @@ python-netjsonconfig
 python-os-client-config
 python-oslo-i18n
 python-pgpdump
-python-prompt_toolkit
 python-PSI
 python-pylcdsysinfo
 python-pymtp
@@ -307,7 +299,6 @@ python-social-auth
 python-testify
 python-usbtmc
 python-vxi11
-python-wcwidth
 pytorctl
 qmforge
 qtiocompressor
@@ -349,7 +340,6 @@ rubygem-escape_utils
 rubygem-exception_notification
 rubygem-facade
 rubygem-facets
-rubygem-fattr
 rubygem-ferret
 rubygem-font-awesome-rails
 rubygem-gemcutter
@@ -370,16 +360,13 @@ rubygem-middleware
 rubygem-net-dns
 rubygem-pathname2
 rubygem-pcaprub
-rubygem-pdf-core
 rubygem-pervasives
 rubygem-picnic
 rubygem-pkgwat
 rubygem-posix-spawn
-rubygem-prawn
 rubygem-prawn-icon
 rubygem-prawn-manual_builder
 rubygem-prawn-svg
-rubygem-prawn-table
 rubygem-prawn-templates
 rubygem-rack-openid
 rubygem-rack-ssl
@@ -437,12 +424,13 @@ vdr-ttxtsubs
 vdr-tvonscreen
 vldocking
 vnc-ltsp-config
-waffle
 webcpp
 webkit-sharp
+wmweather
 wyrd
 xboxdrv
 xcftools
+xfce4-remmina-plugin
 xls2csv
 xplayer
 xplayer-plparser
@@ -452,4 +440,4 @@ xtv
 xviewer
 xviewer-plugins
 yafc
-zopfli
+zarafa-webaccess
