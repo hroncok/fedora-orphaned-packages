@@ -11,8 +11,6 @@ autodocksuite
 aws-shell
 balloontip
 bonesi
-bouml
-bouml-doc
 brightnessctl
 Canna
 cclive
@@ -20,10 +18,8 @@ cdm
 cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
-csmith
 doclifter
 dojo
-dpkg
 dreamchess-tools
 eclipse-emf-mwe
 eclipse-emf-transaction
@@ -55,20 +51,20 @@ golang-github-docopt-docopt-go
 golang-github-go-errors-error
 google-roboto-mono-fonts
 gsview
+hamster-applet
 herbstluftwm
 hex-a-hop
 hexalate
 hive
 hoard
 hornetq
+htb-util
 htmlparser
 hunspell-de
 hyphen-de
 ike
 impallari-lobster-fonts
-iniparser
 inkboy-fonts
-ioping
 ipplan
 isrcsubmit
 jacknativeclient
@@ -82,8 +78,10 @@ js-jquery2
 kinput2
 knapsen
 ladspa-swh-plugins
+lastuser
 ldd-pdf
 libcryptui
+libdom
 libpuzzle
 libpwiz
 libqxt
@@ -107,7 +105,7 @@ mph-2b-damase-fonts
 mylvmbackup
 mythes-de
 NetPIPE
-ngrep
+nitroshare
 nodejs-accepts
 nodejs-agent-base
 nodejs-as-number
@@ -186,7 +184,6 @@ novprog
 npush
 ntetris
 ntop
-nudoku
 oflb-brett-fonts
 oflb-icelandic-fonts
 oflb-roadstencil-fonts
@@ -200,8 +197,6 @@ pam_pkcs11
 peervpn
 peg-solitaire
 perl-GO-TermFinder
-perl-Net-Ping-External
-perl-Net-Telnet
 perl-Satcon
 perl-Term-Animation
 pew
@@ -302,7 +297,6 @@ python-vxi11
 pytorctl
 qmforge
 qtiocompressor
-qtkeychain
 Quake2
 rb_libtorrent
 recoverjpeg
@@ -398,6 +392,7 @@ spacewalk-koan
 spacewalk-proxy-docs
 spacewalk-proxy-html
 spamassassin-FuzzyOcr
+speedometer
 sqljet
 stevetraylen
 stupid-package
@@ -426,11 +421,9 @@ vldocking
 vnc-ltsp-config
 webcpp
 webkit-sharp
-wmweather
 wyrd
 xboxdrv
 xcftools
-xfce4-remmina-plugin
 xls2csv
 xplayer
 xplayer-plparser
@@ -440,4 +433,3 @@ xtv
 xviewer
 xviewer-plugins
 yafc
-zarafa-webaccess
