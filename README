@@ -37,8 +37,11 @@ freehoo
 frepple
 gausssum
 gdesklets-goodweather
+gentium-fonts
 ghc-fgl
+ghc-haskell-src
 ghc-hgettext
+ghc-network-enumerator
 ghc-pcap
 ghc-setlocale
 git-bugzilla
@@ -50,6 +53,7 @@ gnudiff
 golang-github-docopt-docopt-go
 golang-github-go-errors-error
 google-roboto-mono-fonts
+gstreamer08-plugins
 gsview
 herbstluftwm
 hex-a-hop
@@ -75,7 +79,6 @@ js-jquery1
 js-jquery2
 kinput2
 knapsen
-kradio4
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
@@ -237,7 +240,6 @@ php-pecl-sphinx
 php-tracy
 pix
 pixz
-plexus-mail-sender
 plv8
 pnmixer
 pop-gtk-theme
