@@ -7,7 +7,6 @@ arc-theme
 arm-none-eabi-gdb
 ascii-design
 ath_info
-autodocksuite
 aws-shell
 balloontip
 bonesi
@@ -18,7 +17,7 @@ cdm
 cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
-django-pylibmc
+clementine
 doclifter
 dojo
 dreamchess-tools
@@ -33,7 +32,6 @@ enemies-of-carlotta
 evopop-gtk-theme
 evopop-icon-theme
 fbset
-firecontrol
 fotowall
 freehoo
 frepple
@@ -203,8 +201,6 @@ phetsarath-fonts
 photoprint
 php-apigen-theme-bootstrap
 php-apigen-theme-default
-php-email-address-validation
-php-facedetect
 php-kdyby-events
 php-kdyby-strict-objects
 php-latte
@@ -236,6 +232,8 @@ php-pecl-geoip
 php-pecl-lzf
 php-pecl-sphinx
 php-tracy
+pidgin-gfire
+piggyback
 pix
 pixz
 plv8
@@ -350,6 +348,7 @@ rubygem-main
 rubygem-markaby
 rubygem-middleware
 rubygem-net-dns
+rubygem-ohai
 rubygem-pathname2
 rubygem-pcaprub
 rubygem-pervasives
@@ -401,6 +400,7 @@ tabish-eeyek-fonts
 tangerine-fonts
 tanglet
 tesla-pom
+texmakerx
 tharlon-fonts
 tinyxpath
 tlomt-orbitron-fonts
@@ -413,6 +413,7 @@ tuladha-jejeg-fonts
 tuxcmd
 typemade-josefinsansstd-light-fonts
 udunits
+vdrift-data
 vdr-ttxtsubs
 vdr-tvonscreen
 vldocking
@@ -423,9 +424,9 @@ wyrd
 xboxdrv
 xcftools
 xls2csv
+xml-commons-apis12
 xplayer
 xplayer-plparser
-xsettingsd
 xsupplicant
 xtv
 xviewer
