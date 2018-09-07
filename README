@@ -186,6 +186,7 @@ oflb-roadstencil-fonts
 oflb-sportrop-fonts
 ofono
 openjfx
+openlmi-storage
 openmx
 OpenTK
 pagul-fonts
@@ -253,16 +254,13 @@ python-assimulo
 python-backport_collections
 python-cclib
 python-characteristic
-python-configobj
 python-contexttimer
 python-django-classy-tags
 python-django-fas
 python-django-markdown2
 python-django-rest-framework-braces
 python-flock
-python-html2text
 python-importanize
-python-importlib
 python-ivi
 python-jmespath
 python-lasagna
@@ -274,7 +272,6 @@ python-ncclient
 python-netdiff
 python-netjsonconfig
 python-os-client-config
-python-oslo-i18n
 python-pgpdump
 python-PSI
 python-pylcdsysinfo
@@ -288,6 +285,7 @@ python-social-auth
 python-testify
 python-usbtmc
 python-vxi11
+python-webob1.2
 pytorctl
 qmforge
 qtiocompressor
@@ -333,6 +331,7 @@ rubygem-font-awesome-rails
 rubygem-gemcutter
 rubygem-gemnasium-parser
 rubygem-geoip
+rubygem-git-up
 rubygem-haml-rails
 rubygem-hawler
 rubygem-hipchat
@@ -419,6 +418,7 @@ wyrd
 xboxdrv
 xcftools
 xls2csv
+xorg-x11-drv-digitaledge
 xplayer
 xplayer-plparser
 xsupplicant
