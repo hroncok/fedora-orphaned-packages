@@ -9,6 +9,8 @@ ascii-design
 ath_info
 aws-shell
 balloontip
+blueberry
+bluez-tools
 bonesi
 brightnessctl
 Canna
@@ -65,8 +67,11 @@ impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
+jabbin
 jacknativeclient
 javasysmon
+jaxen-bootstrap
+jbosgi-resolver1
 jbosscache-support
 jemmy
 jinput
@@ -75,7 +80,6 @@ js-jquery1
 js-jquery2
 kinput2
 knapsen
-knutclient
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
@@ -99,6 +103,7 @@ monkeystudio
 moyogo-molengo-fonts
 mozvoikko
 mph-2b-damase-fonts
+mutter-wayland
 mylvmbackup
 mythes-de
 NetPIPE
@@ -336,6 +341,7 @@ rubygem-ice_nine
 rubygem-innertube
 rubygem-joiner
 rubygem-just_paginate
+rubygem-linecache19
 rubygem-literati
 rubygem-logging
 rubygem-main
