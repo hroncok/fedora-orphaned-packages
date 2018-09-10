@@ -3,14 +3,11 @@ aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 ambari
 apigen
-arc-theme
 arm-none-eabi-gdb
 ascii-design
 ath_info
 aws-shell
 balloontip
-blueberry
-bluez-tools
 bonesi
 brightnessctl
 Canna
@@ -23,8 +20,6 @@ clementine
 doclifter
 dojo
 dreamchess-tools
-eclipse-emf-mwe
-eclipse-emf-transaction
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
@@ -67,11 +62,8 @@ impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
-jabbin
 jacknativeclient
 javasysmon
-jaxen-bootstrap
-jbosgi-resolver1
 jbosscache-support
 jemmy
 jinput
@@ -103,7 +95,6 @@ monkeystudio
 moyogo-molengo-fonts
 mozvoikko
 mph-2b-damase-fonts
-mutter-wayland
 mylvmbackup
 mythes-de
 NetPIPE
@@ -184,6 +175,8 @@ nodejs-yauzl
 not-yet-commons-ssl
 novprog
 npush
+nssbackup
+nss-ldapd
 ntetris
 ntop
 oflb-brett-fonts
@@ -196,6 +189,7 @@ openmx
 OpenTK
 pagul-fonts
 pam_pkcs11
+panelfm
 peervpn
 peg-solitaire
 perl-GO-TermFinder
@@ -234,14 +228,15 @@ php-nette-tokenizer
 php-nette-utils
 php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
-php-pecl-geoip
-php-pecl-lzf
 php-pecl-sphinx
 php-tracy
 pix
 pixz
+pki-util
+plexus-xmlrpc
 plv8
 pnmixer
+podcatcher
 pop-gtk-theme
 pop-icon-theme
 portecle
@@ -266,6 +261,7 @@ python-django-markdown2
 python-django-rest-framework-braces
 python-flock
 python-importanize
+python-irclib
 python-ivi
 python-lasagna
 python-libcnml
@@ -341,7 +337,6 @@ rubygem-ice_nine
 rubygem-innertube
 rubygem-joiner
 rubygem-just_paginate
-rubygem-linecache19
 rubygem-literati
 rubygem-logging
 rubygem-main
@@ -353,7 +348,6 @@ rubygem-pcaprub
 rubygem-pervasives
 rubygem-picnic
 rubygem-pkgwat
-rubygem-posix-spawn
 rubygem-prawn-icon
 rubygem-prawn-manual_builder
 rubygem-prawn-svg
