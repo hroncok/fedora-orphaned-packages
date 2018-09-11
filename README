@@ -7,6 +7,7 @@ arm-none-eabi-gdb
 ascii-design
 ath_info
 aws-shell
+b43-fwcutter
 balloontip
 bonesi
 brightnessctl
@@ -175,8 +176,6 @@ nodejs-yauzl
 not-yet-commons-ssl
 novprog
 npush
-nssbackup
-nss-ldapd
 ntetris
 ntop
 oflb-brett-fonts
@@ -189,7 +188,6 @@ openmx
 OpenTK
 pagul-fonts
 pam_pkcs11
-panelfm
 peervpn
 peg-solitaire
 perl-GO-TermFinder
@@ -229,14 +227,12 @@ php-nette-utils
 php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
+php-symfony2-Locale
 php-tracy
 pix
 pixz
-pki-util
-plexus-xmlrpc
 plv8
 pnmixer
-podcatcher
 pop-gtk-theme
 pop-icon-theme
 portecle
@@ -287,6 +283,7 @@ python-usbtmc
 python-vxi11
 pytorctl
 qmforge
+qtcurve-kde4
 qtiocompressor
 Quake2
 rb_libtorrent
@@ -352,6 +349,7 @@ rubygem-prawn-icon
 rubygem-prawn-manual_builder
 rubygem-prawn-svg
 rubygem-prawn-templates
+rubygem-qpid
 rubygem-rack-openid
 rubygem-rack-ssl
 rubygem-rails_autolink
@@ -365,9 +363,11 @@ rubygem-ruby-openid
 rubygem-thinking-sphinx
 rubygem-tiltout
 rubygem-virtus
+rubygem-will_paginate
 ruby-RRDtool
 sap
 sarai-fonts
+scim-sinhala
 senamirmir-washra-font
 sequence-library
 simple-tpm-pk11
@@ -414,7 +414,9 @@ webkit-sharp
 wyrd
 xboxdrv
 xcftools
+xinha
 xls2csv
+xml-commons-which
 xplayer
 xplayer-plparser
 xsupplicant
@@ -422,3 +424,5 @@ xtv
 xviewer
 xviewer-plugins
 yafc
+yafray
+zorba
