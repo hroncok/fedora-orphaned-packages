@@ -13,6 +13,7 @@ bonesi
 brightnessctl
 Canna
 cclive
+cdi-api11
 cdm
 cf-sorts-mill-goudy-fonts
 chck
@@ -41,11 +42,17 @@ ghc-hgettext
 ghc-pcap
 ghc-setlocale
 git-bugzilla
+glib-java
+globus-rls-client
 gmusicbrowser
+gnome-compiz-manager
 gnome-hearts
 gnome-pie
+gnomescan
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
+gnomesword
+gnubiff
 gnudiff
 gobby
 golang-github-docopt-docopt-go
@@ -61,6 +68,11 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
+ibus-gucharmap
+ibus-hunspell-table
+ibus-panel-extensions
+ibus-table-array30
+ibus-table-erbi
 ike
 impallari-lobster-fonts
 inkboy-fonts
@@ -314,6 +326,7 @@ python-vxi11
 python-webob1.1
 pytorctl
 qmforge
+qt5-qtwebengine
 qtiocompressor
 Quake2
 rb_libtorrent
@@ -416,6 +429,7 @@ stevetraylen
 stupid-package
 sudoku-savant
 sugar-calendario
+SuperLU43
 svnkit
 tabish-eeyek-fonts
 tangerine-fonts
