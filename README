@@ -76,7 +76,6 @@ js-jquery1
 js-jquery2
 kinput2
 knapsen
-knetstats
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
@@ -192,7 +191,6 @@ ofono
 opencity
 openjfx
 openmx
-openstack-sahara
 OpenTK
 pagul-fonts
 pam_pkcs11
@@ -263,7 +261,6 @@ python-contexttimer
 python-decoratortools
 python-django-classy-tags
 python-django-fas
-python-django-mako
 python-django-markdown2
 python-django-rest-framework-braces
 python-feedcache
@@ -330,7 +327,6 @@ ripright
 rocksdb
 rogue
 rpm-ostree-toolbox
-rt3
 rubygem-activerecord-nulldb-adapter
 rubygem-acts-as-taggable-on
 rubygem-arrayfields
@@ -393,12 +389,9 @@ rubygem-review
 rubygem-riddle
 rubygem-rots
 rubygem-ruby-openid
-rubygem-rvm
 rubygem-thinking-sphinx
 rubygem-tiltout
 rubygem-virtus
-ruby-gettext-package
-ruby-hpricot
 ruby-RRDtool
 sap
 sarai-fonts
@@ -427,8 +420,6 @@ svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
-tclsoap
-tclxml
 tesla-pom
 tharlon-fonts
 tinyxpath
@@ -456,8 +447,6 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
-xorg-x11-drv-acecad
-xorg-x11-drv-suncg6
 xplayer
 xplayer-plparser
 xsupplicant
@@ -465,5 +454,4 @@ xtv
 xviewer
 xviewer-plugins
 yafc
-zikula-module-scribite
 zorba
