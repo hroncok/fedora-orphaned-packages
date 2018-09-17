@@ -256,17 +256,14 @@ python-assimulo
 python-backport_collections
 python-cclib
 python-characteristic
-python-clientform
 python-contexttimer
 python-decoratortools
 python-django-classy-tags
 python-django-fas
 python-django-markdown2
 python-django-rest-framework-braces
-python-feedcache
 python-flock
 python-importanize
-python-irclib
 python-ivi
 python-kid
 python-lasagna
@@ -275,7 +272,6 @@ python-librosa
 python-markups
 python-multiprocessing
 python-myghty
-python-ncclient
 python-netdiff
 python-netjsonconfig
 python-os-client-config
@@ -286,10 +282,8 @@ python-peak-util-assembler
 python-peak-util-extremes
 python-peak-util-symbols
 python-pgpdump
-python-PSI
 python-pycallgraph
 python-pylcdsysinfo
-python-pymtp
 python-pyramid-chameleon
 python-pythonz-bd
 python-rangehttpserver
@@ -311,8 +305,6 @@ python-turbokid
 python-TurboMail
 python-usbtmc
 python-vxi11
-python-webob1.1
-pytorctl
 qmforge
 qtiocompressor
 Quake2
