@@ -247,9 +247,6 @@ preload
 publican-genome
 pyjoke
 pyrasite
-PySolFC
-PySolFC-cardsets
-PySolFC-music
 python-4Suite-XML
 python-afl
 python-assimulo
@@ -391,7 +388,6 @@ senamirmir-washra-font
 sequence-library
 simple-tpm-pk11
 simsu
-sion
 snmptt
 sobby
 sonar
@@ -410,15 +406,13 @@ stupid-package
 sudoku-savant
 sugar-calendario
 svnkit
-symkey
-sysprof-kmod
+system-config-soundcard
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
+tclcompiler
 tesla-pom
 tharlon-fonts
-tintii
-tinyows
 tinyxpath
 tlomt-orbitron-fonts
 tong
@@ -429,6 +423,7 @@ ttname
 tuladha-jejeg-fonts
 TurboGears
 tuxcmd
+tuxkart
 typemade-josefinsansstd-light-fonts
 udunits
 unclutter
