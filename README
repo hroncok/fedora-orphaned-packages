@@ -46,7 +46,6 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
-gnome-shell-search-github-repositories
 gnudiff
 gobby
 golang-github-docopt-docopt-go
@@ -197,6 +196,8 @@ pagul-fonts
 pam_pkcs11
 peervpn
 peg-solitaire
+perl-Bio-Graphics
+perl-Class-XSAccessor-Array
 perl-GO-TermFinder
 perl-Satcon
 perl-Term-Animation
@@ -206,6 +207,9 @@ phetsarath-fonts
 photoprint
 php-apigen-theme-bootstrap
 php-apigen-theme-default
+php-channel-theseer
+php-channel-twig
+php-cloudfiles
 php-kdyby-events
 php-kdyby-strict-objects
 php-latte
@@ -429,12 +433,16 @@ vdr-ttxtsubs
 vdr-tvonscreen
 vldocking
 vnc-ltsp-config
+wallaby
 wastesedge
 webcpp
 webkit-sharp
+wmbinclock
+wxsvg
 wyrd
 xboxdrv
 xcftools
+xfce-utils
 xls2csv
 xonsh
 xplayer
