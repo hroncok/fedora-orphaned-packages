@@ -90,12 +90,7 @@ mbox2eml
 metamorphose2
 min12xxw
 mindi-busybox
-mingw32-curl
-mingw32-enchant
-mingw32-OpenSceneGraph
 minion
-mkdst
-mkinitrd
 mMass
 modplugtools
 moka-icon-theme
@@ -205,15 +200,8 @@ pam_pkcs11
 peervpn
 peg-solitaire
 perl-GO-TermFinder
-perl-Gtk2-MozEmbed
-perl-Regexp-Copy
-perl-RT-Authen-ExternalAuth
 perl-Satcon
-perl-SOAP-Transport-TCP
 perl-Term-Animation
-perl-Test-Builder-Tester
-perl-Time-modules
-petera
 petit
 pew
 phatch
@@ -352,6 +340,7 @@ rubygem-columnize
 rubygem-css_parser
 rubygem-dependor
 rubygem-descendants_tracker
+rubygem-dynect_rest
 rubygem-equalizer
 rubygem-escape_utils
 rubygem-exception_notification
@@ -452,6 +441,7 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
+xorg-x11-drv-i810
 xplayer
 xplayer-plparser
 xsupplicant
