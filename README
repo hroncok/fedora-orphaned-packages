@@ -46,6 +46,7 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
+gnomesword
 gnudiff
 gobby
 golang-github-docopt-docopt-go
@@ -288,7 +289,6 @@ python-pylcdsysinfo
 python-pyramid-chameleon
 python-pythonz-bd
 python-rangehttpserver
-python-repoze-what-plugins-sql
 python-resumable-urlretrieve
 python-s3transfer
 python-shove
@@ -441,7 +441,6 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
-xorg-x11-drv-i810
 xplayer
 xplayer-plparser
 xsupplicant
