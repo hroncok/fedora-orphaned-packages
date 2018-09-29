@@ -21,6 +21,8 @@ clementine
 doclifter
 dojo
 dreamchess-tools
+drupal-date
+drupal-service_links
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
@@ -46,7 +48,6 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
-gnomesword
 gnudiff
 gobby
 golang-github-docopt-docopt-go
@@ -252,6 +253,7 @@ preload
 publican-genome
 pyjoke
 pyrasite
+python2-matplotlib
 python-4Suite-XML
 python-afl
 python-assimulo
@@ -391,6 +393,7 @@ sap
 sarai-fonts
 senamirmir-washra-font
 sequence-library
+shared-color-profiles
 simple-tpm-pk11
 simsu
 snmptt
@@ -441,6 +444,7 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
+xorg-x11-drv-void
 xplayer
 xplayer-plparser
 xsupplicant
