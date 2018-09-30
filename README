@@ -5,6 +5,7 @@ ambari
 apigen
 arm-none-eabi-gdb
 ascii-design
+astromenace-data
 ath_info
 aws-shell
 b43-fwcutter
@@ -18,11 +19,10 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 clementine
+comoonics-cluster-py
 doclifter
 dojo
 dreamchess-tools
-drupal-date
-drupal-service_links
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
@@ -33,6 +33,7 @@ evopop-gtk-theme
 evopop-icon-theme
 fbset
 fedmsg-notify
+fedora-review-plugin-java
 fotowall
 freehoo
 frepple
@@ -68,7 +69,9 @@ impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
+iwl6050-firmware
 jacknativeclient
+jadetex
 javasysmon
 jbosscache-support
 jemmy
@@ -99,6 +102,7 @@ moka-icon-theme
 monitor-edid
 monkeystudio
 moyogo-molengo-fonts
+mozilla-requestpolicy
 mozvoikko
 mph-2b-damase-fonts
 mylvmbackup
@@ -319,6 +323,7 @@ RepetierHost
 retext
 rhnmd
 ripright
+R-Matrix
 rocksdb
 rogue
 rpm-ostree-toolbox
@@ -393,7 +398,6 @@ sap
 sarai-fonts
 senamirmir-washra-font
 sequence-library
-shared-color-profiles
 simple-tpm-pk11
 simsu
 snmptt
@@ -421,6 +425,7 @@ tesla-pom
 tharlon-fonts
 tinyxpath
 tlomt-orbitron-fonts
+TnL
 tong
 trabajo-fonts
 trac-code-comments-plugin
@@ -444,7 +449,6 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
-xorg-x11-drv-void
 xplayer
 xplayer-plparser
 xsupplicant
