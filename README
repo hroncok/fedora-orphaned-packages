@@ -2,10 +2,10 @@ adonthell
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 ambari
+ansible1.9
 apigen
 arm-none-eabi-gdb
 ascii-design
-astromenace-data
 ath_info
 aws-shell
 b43-fwcutter
@@ -19,7 +19,8 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 clementine
-comoonics-cluster-py
+compat-libcdio-paranoia1
+django-authority
 doclifter
 dojo
 dreamchess-tools
@@ -39,6 +40,11 @@ freehoo
 frepple
 gausssum
 gdesklets-goodweather
+gdhcpd
+gdmap
+gdome2
+gdpc
+geanyvc
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -69,9 +75,7 @@ impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
-iwl6050-firmware
 jacknativeclient
-jadetex
 javasysmon
 jbosscache-support
 jemmy
@@ -257,7 +261,6 @@ preload
 publican-genome
 pyjoke
 pyrasite
-python2-matplotlib
 python-4Suite-XML
 python-afl
 python-assimulo
@@ -323,7 +326,6 @@ RepetierHost
 retext
 rhnmd
 ripright
-R-Matrix
 rocksdb
 rogue
 rpm-ostree-toolbox
@@ -398,6 +400,7 @@ sap
 sarai-fonts
 senamirmir-washra-font
 sequence-library
+SevenZip
 simple-tpm-pk11
 simsu
 snmptt
@@ -425,7 +428,6 @@ tesla-pom
 tharlon-fonts
 tinyxpath
 tlomt-orbitron-fonts
-TnL
 tong
 trabajo-fonts
 trac-code-comments-plugin
