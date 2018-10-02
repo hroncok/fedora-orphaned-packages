@@ -2,7 +2,6 @@ adonthell
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 ambari
-ansible1.9
 apigen
 arm-none-eabi-gdb
 ascii-design
@@ -19,11 +18,10 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 clementine
-compat-libcdio-paranoia1
-django-authority
 doclifter
 dojo
 dreamchess-tools
+eclipse-mylyn-versions
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
@@ -40,11 +38,6 @@ freehoo
 frepple
 gausssum
 gdesklets-goodweather
-gdhcpd
-gdmap
-gdome2
-gdpc
-geanyvc
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -400,7 +393,6 @@ sap
 sarai-fonts
 senamirmir-washra-font
 sequence-library
-SevenZip
 simple-tpm-pk11
 simsu
 snmptt
