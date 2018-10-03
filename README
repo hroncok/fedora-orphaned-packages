@@ -21,11 +21,11 @@ clementine
 doclifter
 dojo
 dreamchess-tools
-eclipse-mylyn-versions
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
+elilo
 emacs-mew
 enemies-of-carlotta
 evopop-gtk-theme
@@ -36,8 +36,10 @@ fedora-review-plugin-java
 fotowall
 freehoo
 frepple
+gai-pal
 gausssum
 gdesklets-goodweather
+geanyvc
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -48,6 +50,7 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
+gnome-theme-clearlooks
 gnudiff
 gobby
 golang-github-docopt-docopt-go
