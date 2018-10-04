@@ -25,7 +25,6 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
-elilo
 emacs-mew
 enemies-of-carlotta
 evopop-gtk-theme
@@ -36,10 +35,8 @@ fedora-review-plugin-java
 fotowall
 freehoo
 frepple
-gai-pal
 gausssum
 gdesklets-goodweather
-geanyvc
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -50,7 +47,6 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
-gnome-theme-clearlooks
 gnudiff
 gobby
 golang-github-docopt-docopt-go
@@ -92,6 +88,7 @@ lzma
 madplay
 makedepf90
 mbox2eml
+metacafe-dl
 metamorphose2
 min12xxw
 mindi-busybox
@@ -105,6 +102,7 @@ moyogo-molengo-fonts
 mozilla-requestpolicy
 mozvoikko
 mph-2b-damase-fonts
+museek+
 mylvmbackup
 mythes-de
 net6
@@ -200,12 +198,14 @@ ofono
 opencity
 openjfx
 openmx
+openstack-sahara
 OpenTK
 pagul-fonts
 pam_pkcs11
 peervpn
 peg-solitaire
 perl-GO-TermFinder
+perl-MooseX-Traits-Attribute-CascadeClear
 perl-Satcon
 perl-Term-Animation
 petit
