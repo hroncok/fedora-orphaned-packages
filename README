@@ -88,7 +88,6 @@ lzma
 madplay
 makedepf90
 mbox2eml
-metacafe-dl
 metamorphose2
 min12xxw
 mindi-busybox
@@ -102,7 +101,6 @@ moyogo-molengo-fonts
 mozilla-requestpolicy
 mozvoikko
 mph-2b-damase-fonts
-museek+
 mylvmbackup
 mythes-de
 net6
@@ -198,14 +196,12 @@ ofono
 opencity
 openjfx
 openmx
-openstack-sahara
 OpenTK
 pagul-fonts
 pam_pkcs11
 peervpn
 peg-solitaire
 perl-GO-TermFinder
-perl-MooseX-Traits-Attribute-CascadeClear
 perl-Satcon
 perl-Term-Animation
 petit
@@ -289,6 +285,7 @@ python-peak-util-assembler
 python-peak-util-extremes
 python-peak-util-symbols
 python-pgpdump
+python-power
 python-pycallgraph
 python-pylcdsysinfo
 python-pyramid-chameleon
