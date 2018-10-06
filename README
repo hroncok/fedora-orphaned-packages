@@ -185,6 +185,7 @@ nodejs-yauzl
 not-yet-commons-ssl
 novprog
 npush
+nss-myhostname
 ntetris
 ntop
 obby
@@ -193,6 +194,9 @@ oflb-icelandic-fonts
 oflb-roadstencil-fonts
 oflb-sportrop-fonts
 ofono
+online-desktop
+openalpp
+opencdk
 opencity
 openjfx
 openmx
@@ -250,9 +254,12 @@ portecle
 posterazor
 postscriptbarcode
 preload
+procps
 publican-genome
 pyjoke
+pypoker-eval
 pyrasite
+pytc
 python-4Suite-XML
 python-afl
 python-assimulo
@@ -445,7 +452,6 @@ xls2csv
 xonsh
 xplayer
 xplayer-plparser
-xsupplicant
 xtv
 xviewer
 xviewer-plugins
