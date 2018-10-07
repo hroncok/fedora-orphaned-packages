@@ -1,4 +1,5 @@
 adonthell
+aeolus-all
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 ambari
@@ -18,6 +19,7 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 clementine
+crossvc
 doclifter
 dojo
 dreamchess-tools
@@ -29,13 +31,16 @@ emacs-mew
 enemies-of-carlotta
 evopop-gtk-theme
 evopop-icon-theme
+exonerate
 fbset
 fedmsg-notify
 fedora-review-plugin-java
 fotowall
 freehoo
 frepple
+gap-Browse
 gausssum
+gcalctool
 gdesklets-goodweather
 ghc-fgl
 ghc-hgettext
@@ -48,6 +53,7 @@ gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
 gnudiff
+gnu-smalltalk
 gobby
 golang-github-docopt-docopt-go
 golang-github-go-errors-error
@@ -60,7 +66,9 @@ hive
 hoard
 hornetq
 htmlparser
+httraqt
 hunspell-de
+hunspell-nb
 hyphen-de
 ike
 impallari-lobster-fonts
@@ -77,6 +85,9 @@ js-jquery1
 js-jquery2
 kinput2
 knapsen
+knm_new-fonts
+koan
+kopete-protocol-facebook
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
@@ -86,7 +97,9 @@ libqxt
 log4shib
 lzma
 madplay
+mailgraph
 makedepf90
+mars-sim
 mbox2eml
 metamorphose2
 min12xxw
@@ -95,6 +108,7 @@ minion
 mMass
 modplugtools
 moka-icon-theme
+molengo-fonts
 monitor-edid
 monkeystudio
 moyogo-molengo-fonts
@@ -103,6 +117,7 @@ mozvoikko
 mph-2b-damase-fonts
 mylvmbackup
 mythes-de
+nepomuk-widgets
 net6
 NetPIPE
 nitroshare
@@ -116,6 +131,7 @@ nodejs-chainsaw
 nodejs-corser
 nodejs-create-error-class
 nodejs-decompress-response
+nodejs-dependency-lister
 nodejs-duplex
 nodejs-duplexer3
 nodejs-ecstatic
@@ -185,7 +201,6 @@ nodejs-yauzl
 not-yet-commons-ssl
 novprog
 npush
-nss-myhostname
 ntetris
 ntop
 obby
@@ -194,9 +209,6 @@ oflb-icelandic-fonts
 oflb-roadstencil-fonts
 oflb-sportrop-fonts
 ofono
-online-desktop
-openalpp
-opencdk
 opencity
 openjfx
 openmx
@@ -254,12 +266,11 @@ portecle
 posterazor
 postscriptbarcode
 preload
-procps
 publican-genome
 pyjoke
-pypoker-eval
+pykka
 pyrasite
-pytc
+Pyrex
 python-4Suite-XML
 python-afl
 python-assimulo
@@ -293,6 +304,7 @@ python-peak-util-extremes
 python-peak-util-symbols
 python-pgpdump
 python-power
+python-py2neo
 python-pycallgraph
 python-pylcdsysinfo
 python-pyramid-chameleon
@@ -315,6 +327,7 @@ python-turbokid
 python-TurboMail
 python-usbtmc
 python-vxi11
+PyXB
 qmforge
 qtiocompressor
 Quake2
@@ -398,6 +411,7 @@ rubygem-virtus
 ruby-RRDtool
 sap
 sarai-fonts
+SDLmm
 senamirmir-washra-font
 sequence-library
 simple-tpm-pk11
