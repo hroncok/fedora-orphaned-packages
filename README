@@ -259,6 +259,7 @@ posterazor
 postscriptbarcode
 preload
 publican-genome
+puretls
 pyjoke
 pykka
 pyrasite
@@ -320,6 +321,8 @@ python-TurboMail
 python-usbtmc
 python-vxi11
 PyXB
+qhttpengine
+qmdnsengine
 qmforge
 qtiocompressor
 Quake2
@@ -337,7 +340,6 @@ rpm-ostree-toolbox
 rubygem-activerecord-nulldb-adapter
 rubygem-acts-as-taggable-on
 rubygem-arrayfields
-rubygem-asciidoctor-pdf
 rubygem-attributes
 rubygem-axiom-types
 rubygem-bogus
@@ -351,7 +353,6 @@ rubygem-cocaine
 rubygem-coercible
 rubygem-colored
 rubygem-columnize
-rubygem-css_parser
 rubygem-dependor
 rubygem-descendants_tracker
 rubygem-dynect_rest
@@ -361,7 +362,6 @@ rubygem-exception_notification
 rubygem-facade
 rubygem-facets
 rubygem-ferret
-rubygem-font-awesome-rails
 rubygem-gemcutter
 rubygem-gemnasium-parser
 rubygem-geoip
@@ -383,10 +383,6 @@ rubygem-pcaprub
 rubygem-pervasives
 rubygem-picnic
 rubygem-pkgwat
-rubygem-prawn-icon
-rubygem-prawn-manual_builder
-rubygem-prawn-svg
-rubygem-prawn-templates
 rubygem-rack-openid
 rubygem-rack-ssl
 rubygem-rails_autolink
@@ -434,10 +430,6 @@ tharlon-fonts
 tinyxpath
 tlomt-orbitron-fonts
 tong
-torium
-towhee
-tpb
-tpctl
 trabajo-fonts
 trac-code-comments-plugin
 transgui
