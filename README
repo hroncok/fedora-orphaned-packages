@@ -37,6 +37,8 @@ fotowall
 freehoo
 freemind
 frepple
+fuse-smb
+galago-daemon
 gausssum
 gdesklets-goodweather
 ghc-fgl
@@ -259,7 +261,6 @@ posterazor
 postscriptbarcode
 preload
 publican-genome
-puretls
 pyjoke
 pykka
 pyrasite
