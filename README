@@ -37,8 +37,6 @@ fotowall
 freehoo
 freemind
 frepple
-fuse-smb
-galago-daemon
 gausssum
 gdesklets-goodweather
 ghc-fgl
@@ -46,6 +44,7 @@ ghc-hgettext
 ghc-pcap
 ghc-setlocale
 git-bugzilla
+gmfsk
 gmusicbrowser
 gnome-hearts
 gnome-pie
@@ -321,6 +320,7 @@ python-turbokid
 python-TurboMail
 python-usbtmc
 python-vxi11
+python-xpyb
 PyXB
 qhttpengine
 qmdnsengine
@@ -394,6 +394,7 @@ rubygem-review
 rubygem-riddle
 rubygem-rots
 rubygem-ruby-openid
+rubygem-taskjuggler
 rubygem-thinking-sphinx
 rubygem-tiltout
 rubygem-virtus
@@ -439,7 +440,12 @@ tuladha-jejeg-fonts
 TurboGears
 tuxcmd
 typemade-josefinsansstd-light-fonts
+typepad-motion
+tyrion
 udunits
+ufsparse
+ultimaker2-marlin-firmware
+ultimaker-marlin-firmware
 unclutter
 vdr-ttxtsubs
 vdr-tvonscreen
