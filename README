@@ -18,8 +18,10 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 clementine
+detex
 doclifter
 dojo
+dragonplayer
 dreamchess-tools
 eclipse-xpand
 eclipse-xtext
@@ -30,9 +32,11 @@ enemies-of-carlotta
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
+farsight2
 fbset
 fedmsg-notify
 fedora-review-plugin-java
+fedup-dracut
 fotowall
 freehoo
 freemind
@@ -90,6 +94,7 @@ libcryptui
 libpuzzle
 libpwiz
 libqxt
+libsmartcols-bindings
 log4shib
 lzma
 madplay
@@ -196,10 +201,8 @@ npush
 ntetris
 ntop
 obby
-offtrac
 oflb-brett-fonts
 oflb-icelandic-fonts
-oflb-riordonfancy-fonts
 oflb-roadstencil-fonts
 oflb-sportrop-fonts
 ofono
@@ -248,10 +251,7 @@ php-nette-tokenizer
 php-nette-utils
 php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
-php-pear-Spreadsheet-Excel-Writer
-php-pecl-Fileinfo
 php-pecl-sphinx
-php-phpunit-PHP-CodeBrowser
 php-tracy
 pix
 pixz
@@ -276,12 +276,10 @@ python-cclib
 python-characteristic
 python-contexttimer
 python-decoratortools
-python-django14
 python-django-classy-tags
 python-django-fas
 python-django-markdown2
 python-django-rest-framework-braces
-python-django-staticfiles
 python-flock
 python-importanize
 python-ivi
@@ -324,8 +322,6 @@ python-turbocheetah
 python-turbojson
 python-turbokid
 python-TurboMail
-python-twisted-web
-python-twisted-web2
 python-usbtmc
 python-vxi11
 python-xpyb
@@ -354,7 +350,6 @@ rubygem-axiom-types
 rubygem-bogus
 rubygem-bourne
 rubygem-boxgrinder-build
-rubygem-boxgrinder-build-s3-delivery-plugin
 rubygem-boxgrinder-core
 rubygem-bunny
 rubygem-capillary
@@ -436,7 +431,6 @@ svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
-tbcload
 tesla-pom
 tharlon-fonts
 tinyxpath
