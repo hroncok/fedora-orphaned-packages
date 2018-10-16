@@ -6,11 +6,14 @@ apigen
 arm-none-eabi-gdb
 ascii-design
 ath_info
+auto-nng
 aws-shell
 b43-fwcutter
 balloontip
+blacs
 bonesi
 brightnessctl
+callweaver
 Canna
 cclive
 cdm
@@ -18,10 +21,10 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 clementine
+create-tx-configuration
 detex
 doclifter
 dojo
-dragonplayer
 dreamchess-tools
 eclipse-xpand
 eclipse-xtext
@@ -32,11 +35,10 @@ enemies-of-carlotta
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
-farsight2
 fbset
 fedmsg-notify
 fedora-review-plugin-java
-fedup-dracut
+fmt
 fotowall
 freehoo
 freemind
@@ -66,6 +68,8 @@ hexalate
 hive
 hoard
 hornetq
+hping2
+htb-util
 htmlparser
 hunspell-de
 hyphen-de
@@ -94,7 +98,6 @@ libcryptui
 libpuzzle
 libpwiz
 libqxt
-libsmartcols-bindings
 log4shib
 lzma
 madplay
