@@ -3,17 +3,15 @@ aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 ambari
 apigen
+archimedes
 arm-none-eabi-gdb
 ascii-design
 ath_info
-auto-nng
 aws-shell
 b43-fwcutter
 balloontip
-blacs
 bonesi
 brightnessctl
-callweaver
 Canna
 cclive
 cdm
@@ -21,8 +19,6 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 clementine
-create-tx-configuration
-detex
 doclifter
 dojo
 dreamchess-tools
@@ -30,7 +26,9 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
+electric
 emacs-mew
+emacs-verilog-mode
 enemies-of-carlotta
 evopop-gtk-theme
 evopop-icon-theme
@@ -40,11 +38,17 @@ fedmsg-notify
 fedora-review-plugin-java
 fmt
 fotowall
+fpaste-server
+fped
+freehdl
 freehoo
 freemind
 frepple
 gausssum
 gdesklets-goodweather
+gds2pov
+geda-gaf
+gerbv
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -68,8 +72,6 @@ hexalate
 hive
 hoard
 hornetq
-hping2
-htb-util
 htmlparser
 hunspell-de
 hyphen-de
@@ -90,8 +92,11 @@ jktestpackage
 jpathwatch
 js-jquery1
 js-jquery2
+keurocalc
 kinput2
+kmenu-gnome
 knapsen
+kpolynome
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
@@ -113,6 +118,7 @@ modplugtools
 moka-icon-theme
 monitor-edid
 monkeystudio
+mot-adms
 moyogo-molengo-fonts
 mozilla-requestpolicy
 mozvoikko
@@ -120,6 +126,7 @@ mph-2b-damase-fonts
 mylvmbackup
 mythes-de
 net6
+netgen
 NetPIPE
 nitroshare
 nodejs-accepts
@@ -213,6 +220,7 @@ opencity
 openjfx
 openmx
 OpenTK
+ovm
 pagul-fonts
 pam_pkcs11
 peervpn
@@ -222,8 +230,10 @@ perl-Satcon
 perl-Term-Animation
 petit
 pew
+pharosc
 phatch
 phetsarath-fonts
+phonon-backend-xine
 photoprint
 php-apigen-theme-bootstrap
 php-apigen-theme-default
@@ -256,6 +266,9 @@ php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
 php-tracy
+pikdev
+piklab
+pikloops
 pix
 pixz
 plv8
@@ -310,6 +323,7 @@ python-pylcdsysinfo
 python-pyramid-chameleon
 python-pythonz-bd
 python-rangehttpserver
+python-repoze-what-plugins-sql
 python-resumable-urlretrieve
 python-s3transfer
 python-shove
@@ -333,6 +347,7 @@ qhttpengine
 qmdnsengine
 qmforge
 qtiocompressor
+qt-qsa
 Quake2
 rb_libtorrent
 recoverjpeg
@@ -412,6 +427,8 @@ senamirmir-washra-font
 sequence-library
 simple-tpm-pk11
 simsu
+sinfo
+sk2py
 snifflib
 snmptt
 sobby
@@ -439,6 +456,7 @@ tharlon-fonts
 tinyxpath
 tlomt-orbitron-fonts
 tong
+toped
 trabajo-fonts
 trac-code-comments-plugin
 transgui
@@ -454,6 +472,7 @@ vdr-tvonscreen
 vldocking
 vnc-ltsp-config
 wastesedge
+wb_builder
 webcpp
 webkit-sharp
 wyrd
