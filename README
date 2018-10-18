@@ -26,7 +26,6 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
-electric
 emacs-mew
 emacs-verilog-mode
 enemies-of-carlotta
@@ -38,7 +37,6 @@ fedmsg-notify
 fedora-review-plugin-java
 fmt
 fotowall
-fpaste-server
 fped
 freehdl
 freehoo
@@ -89,6 +87,7 @@ jemmy
 jgoodies-animation
 jinput
 jktestpackage
+joyce
 jpathwatch
 js-jquery1
 js-jquery2
@@ -233,7 +232,6 @@ pew
 pharosc
 phatch
 phetsarath-fonts
-phonon-backend-xine
 photoprint
 php-apigen-theme-bootstrap
 php-apigen-theme-default
@@ -323,7 +321,6 @@ python-pylcdsysinfo
 python-pyramid-chameleon
 python-pythonz-bd
 python-rangehttpserver
-python-repoze-what-plugins-sql
 python-resumable-urlretrieve
 python-s3transfer
 python-shove
@@ -453,6 +450,8 @@ tangerine-fonts
 tanglet
 tesla-pom
 tharlon-fonts
+themonospot
+theora-exp
 tinyxpath
 tlomt-orbitron-fonts
 tong
