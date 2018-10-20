@@ -1,4 +1,5 @@
 adonthell
+alchemist
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 ambari
@@ -29,6 +30,7 @@ editarea
 emacs-mew
 emacs-verilog-mode
 enemies-of-carlotta
+eqntott
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
@@ -83,7 +85,6 @@ jai-imageio-core
 java-deptools
 javasysmon
 jbosscache-support
-jboss-jts
 jemmy
 jgoodies-animation
 jinput
@@ -91,8 +92,6 @@ jktestpackage
 jpathwatch
 js-jquery1
 js-jquery2
-junit4
-kcometen3
 keurocalc
 kinput2
 kmenu-gnome
@@ -124,10 +123,8 @@ moyogo-molengo-fonts
 mozilla-requestpolicy
 mozvoikko
 mph-2b-damase-fonts
-mr
 mylvmbackup
 mythes-de
-ncarg
 net6
 netgen
 NetPIPE
@@ -293,7 +290,6 @@ python-backport_collections
 python-cclib
 python-characteristic
 python-contexttimer
-python-cvstoys
 python-decoratortools
 python-django-classy-tags
 python-django-fas
@@ -311,8 +307,6 @@ python-multiprocessing
 python-myghty
 python-netdiff
 python-netjsonconfig
-python-nevow
-python-nova-adminclient
 python-os-client-config
 python-paste-script
 python-peak-rules
@@ -326,7 +320,6 @@ python-py2neo
 python-pycallgraph
 python-pylcdsysinfo
 python-pyramid-chameleon
-python-pytg
 python-pythonz-bd
 python-rangehttpserver
 python-resumable-urlretrieve
@@ -340,7 +333,6 @@ python-sqlobject
 python-testify
 python-tg-devtools
 python-tgext-admin
-python-transitfeed
 python-turbocheetah
 python-turbojson
 python-turbokid
