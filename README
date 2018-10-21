@@ -1,5 +1,4 @@
 adonthell
-alchemist
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 ambari
@@ -30,7 +29,6 @@ editarea
 emacs-mew
 emacs-verilog-mode
 enemies-of-carlotta
-eqntott
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
@@ -66,6 +64,8 @@ golang-github-docopt-docopt-go
 golang-github-go-errors-error
 google-roboto-mono-fonts
 gsview
+guimup
+gwaei
 herbstluftwm
 hex-a-hop
 hexalate
@@ -92,6 +92,9 @@ jktestpackage
 jpathwatch
 js-jquery1
 js-jquery2
+katello-cli
+kde-plasma-lancelot
+kdevelop-custom-buildsystem
 keurocalc
 kinput2
 kmenu-gnome
@@ -103,6 +106,7 @@ libcryptui
 libpuzzle
 libpwiz
 libqxt
+libsx
 log4shib
 lzma
 madplay
@@ -129,6 +133,7 @@ net6
 netgen
 NetPIPE
 nitroshare
+nocpulse-common
 nodejs-accepts
 nodejs-agent-base
 nodejs-aproba
@@ -309,6 +314,8 @@ python-netdiff
 python-netjsonconfig
 python-os-client-config
 python-paste-script
+python-paver
+python-pbs
 python-peak-rules
 python-peak-util-addons
 python-peak-util-assembler
@@ -451,6 +458,7 @@ tangerine-fonts
 tanglet
 tesla-pom
 tharlon-fonts
+tightvnc
 tinyxpath
 tlomt-orbitron-fonts
 tong
