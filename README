@@ -64,8 +64,6 @@ golang-github-docopt-docopt-go
 golang-github-go-errors-error
 google-roboto-mono-fonts
 gsview
-guimup
-gwaei
 herbstluftwm
 hex-a-hop
 hexalate
@@ -92,9 +90,6 @@ jktestpackage
 jpathwatch
 js-jquery1
 js-jquery2
-katello-cli
-kde-plasma-lancelot
-kdevelop-custom-buildsystem
 keurocalc
 kinput2
 kmenu-gnome
@@ -106,7 +101,6 @@ libcryptui
 libpuzzle
 libpwiz
 libqxt
-libsx
 log4shib
 lzma
 madplay
@@ -133,7 +127,6 @@ net6
 netgen
 NetPIPE
 nitroshare
-nocpulse-common
 nodejs-accepts
 nodejs-agent-base
 nodejs-aproba
@@ -314,8 +307,6 @@ python-netdiff
 python-netjsonconfig
 python-os-client-config
 python-paste-script
-python-paver
-python-pbs
 python-peak-rules
 python-peak-util-addons
 python-peak-util-assembler
@@ -435,7 +426,9 @@ simsu
 sinfo
 sk2py
 snifflib
+snmp++
 snmptt
+snobol
 sobby
 sonar
 sonar-plugins-parent
@@ -458,7 +451,6 @@ tangerine-fonts
 tanglet
 tesla-pom
 tharlon-fonts
-tightvnc
 tinyxpath
 tlomt-orbitron-fonts
 tong
@@ -484,7 +476,10 @@ webkit-sharp
 wyrd
 xboxdrv
 xcftools
+xfce4-taskbar-plugin
 xls2csv
+xmms-skins
+xmoto-edit
 xonsh
 xplayer
 xplayer-plparser
