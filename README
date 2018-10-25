@@ -18,7 +18,6 @@ cdm
 cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
-cld
 doclifter
 dojo
 dreamchess-tools
@@ -26,7 +25,6 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
-edsadmin
 emacs-mew
 emacs-verilog-mode
 enemies-of-carlotta
@@ -57,6 +55,7 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
+gnome-theme-clearlooks
 gnudiff
 gnu-smalltalk
 gobby
@@ -88,6 +87,7 @@ golang-github-tjfoc-gmsm
 golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
+golang-launchpad-gocheck
 google-roboto-mono-fonts
 gsview
 herbstluftwm
@@ -104,8 +104,11 @@ impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
+itpp
 jacknativeclient
 jai-imageio-core
+jakarta-commons-discovery
+jakarta-taglibs-standard
 java-deptools
 javasysmon
 jbosscache-support
@@ -132,8 +135,6 @@ lzma
 madplay
 mailgraph
 makedepf90
-mate-image-viewer
-mate-netspeed
 mbox2eml
 metamorphose2
 min12xxw
@@ -149,8 +150,6 @@ moyogo-molengo-fonts
 mozilla-requestpolicy
 mozvoikko
 mph-2b-damase-fonts
-mux
-mx
 mylvmbackup
 mythes-de
 net6
@@ -250,7 +249,6 @@ OpenTK
 ovm
 pagul-fonts
 pam_pkcs11
-pcb
 peervpn
 peg-solitaire
 perl-GO-TermFinder
