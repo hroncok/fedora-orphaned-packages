@@ -34,7 +34,6 @@ exonerate
 fbset
 fedmsg-notify
 fedora-review-plugin-java
-fmt
 fotowall
 fped
 freehdl
@@ -55,7 +54,6 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
-gnome-theme-clearlooks
 gnudiff
 gnu-smalltalk
 gobby
@@ -87,7 +85,6 @@ golang-github-tjfoc-gmsm
 golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
-golang-launchpad-gocheck
 google-roboto-mono-fonts
 gsview
 herbstluftwm
@@ -104,11 +101,8 @@ impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
-itpp
 jacknativeclient
 jai-imageio-core
-jakarta-commons-discovery
-jakarta-taglibs-standard
 java-deptools
 javasysmon
 jbosscache-support
@@ -337,6 +331,7 @@ python-netdiff
 python-netjsonconfig
 python-os-client-config
 python-paste-script
+python-pbs
 python-peak-rules
 python-peak-util-addons
 python-peak-util-assembler
@@ -359,6 +354,8 @@ python-social-auth
 python-sprox
 python-sqlobject
 python-testify
+python-testosterone
+python-trml2pdf
 python-turbocheetah
 python-turbojson
 python-turbokid
@@ -385,6 +382,7 @@ rogue
 rpm-ostree-toolbox
 rubygem-activerecord-nulldb-adapter
 rubygem-acts-as-taggable-on
+rubygem-amqp
 rubygem-arrayfields
 rubygem-attributes
 rubygem-axiom-types
@@ -408,6 +406,7 @@ rubygem-exception_notification
 rubygem-facade
 rubygem-facets
 rubygem-ferret
+rubygem-force_utf8
 rubygem-gemcutter
 rubygem-gemnasium-parser
 rubygem-geoip
@@ -455,6 +454,7 @@ sk2py
 snifflib
 snmptt
 sobby
+sofsip-cli
 sonar
 sonar-plugins-parent
 sonar-runner
@@ -500,6 +500,8 @@ webkit-sharp
 wyrd
 xboxdrv
 xcftools
+xfce-bluetooth
+xfce-mcs-plugin-gsynaptics
 xls2csv
 xonsh
 xplayer
