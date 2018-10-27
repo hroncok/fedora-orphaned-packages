@@ -288,8 +288,10 @@ php-tracy
 pikdev
 piklab
 pikloops
+piranha
 pix
 pixz
+pki-selinux
 plv8
 pnmixer
 pop-gtk-theme
@@ -331,7 +333,6 @@ python-netdiff
 python-netjsonconfig
 python-os-client-config
 python-paste-script
-python-pbs
 python-peak-rules
 python-peak-util-addons
 python-peak-util-assembler
@@ -354,8 +355,6 @@ python-social-auth
 python-sprox
 python-sqlobject
 python-testify
-python-testosterone
-python-trml2pdf
 python-turbocheetah
 python-turbojson
 python-turbokid
@@ -371,6 +370,7 @@ qt-qsa
 Quake2
 rb_libtorrent
 recoverjpeg
+redet
 remind
 rendercheck
 RepetierHost
@@ -382,7 +382,6 @@ rogue
 rpm-ostree-toolbox
 rubygem-activerecord-nulldb-adapter
 rubygem-acts-as-taggable-on
-rubygem-amqp
 rubygem-arrayfields
 rubygem-attributes
 rubygem-axiom-types
@@ -406,7 +405,6 @@ rubygem-exception_notification
 rubygem-facade
 rubygem-facets
 rubygem-ferret
-rubygem-force_utf8
 rubygem-gemcutter
 rubygem-gemnasium-parser
 rubygem-geoip
@@ -454,7 +452,6 @@ sk2py
 snifflib
 snmptt
 sobby
-sofsip-cli
 sonar
 sonar-plugins-parent
 sonar-runner
@@ -500,8 +497,6 @@ webkit-sharp
 wyrd
 xboxdrv
 xcftools
-xfce-bluetooth
-xfce-mcs-plugin-gsynaptics
 xls2csv
 xonsh
 xplayer
