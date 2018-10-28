@@ -19,6 +19,7 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 doclifter
+doctorj
 dojo
 dreamchess-tools
 eclipse-xpand
@@ -288,10 +289,8 @@ php-tracy
 pikdev
 piklab
 pikloops
-piranha
 pix
 pixz
-pki-selinux
 plv8
 pnmixer
 pop-gtk-theme
@@ -370,7 +369,6 @@ qt-qsa
 Quake2
 rb_libtorrent
 recoverjpeg
-redet
 remind
 rendercheck
 RepetierHost
@@ -460,10 +458,12 @@ spacewalk-config
 spacewalk-koan
 spacewalk-proxy-docs
 spacewalk-proxy-html
+spacewalk-web
 spamassassin-FuzzyOcr
 speedometer
 sqljet
 stevetraylen
+stout
 stupid-package
 sudoku-savant
 sugar-calendario
@@ -471,6 +471,9 @@ svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
+tclpro
+tcpcopy
+tdl
 tesla-pom
 tharlon-fonts
 tinyxpath
@@ -499,6 +502,8 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
+xorg-x11-drv-magellan
+xorg-x11-drv-s3virge
 xplayer
 xplayer-plparser
 xtv
@@ -506,3 +511,4 @@ xviewer
 xviewer-plugins
 yafc
 zorba
+zyGrib
