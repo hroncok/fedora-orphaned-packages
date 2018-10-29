@@ -19,7 +19,6 @@ cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
 doclifter
-doctorj
 dojo
 dreamchess-tools
 eclipse-xpand
@@ -130,6 +129,9 @@ lzma
 madplay
 mailgraph
 makedepf90
+maven-changes-plugin
+maven-doap-plugin
+maven-downloader
 mbox2eml
 metamorphose2
 min12xxw
@@ -304,8 +306,6 @@ pyjoke
 pykka
 pyrasite
 Pyrex
-python2-astroid
-python2-pylint
 python-4Suite-XML
 python-afl
 python-assimulo
@@ -458,12 +458,10 @@ spacewalk-config
 spacewalk-koan
 spacewalk-proxy-docs
 spacewalk-proxy-html
-spacewalk-web
 spamassassin-FuzzyOcr
 speedometer
 sqljet
 stevetraylen
-stout
 stupid-package
 sudoku-savant
 sugar-calendario
@@ -471,9 +469,6 @@ svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
-tclpro
-tcpcopy
-tdl
 tesla-pom
 tharlon-fonts
 tinyxpath
@@ -484,7 +479,6 @@ trac-code-comments-plugin
 transgui
 ttname
 tuladha-jejeg-fonts
-TurboGears
 tuxcmd
 typemade-josefinsansstd-light-fonts
 udunits
@@ -502,8 +496,6 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
-xorg-x11-drv-magellan
-xorg-x11-drv-s3virge
 xplayer
 xplayer-plparser
 xtv
@@ -511,4 +503,3 @@ xviewer
 xviewer-plugins
 yafc
 zorba
-zyGrib
