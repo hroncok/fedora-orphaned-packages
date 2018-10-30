@@ -6,7 +6,9 @@ apigen
 archimedes
 arm-none-eabi-gdb
 ascii-design
+askbot
 ath_info
+awn-extras-applets
 aws-shell
 b43-fwcutter
 balloontip
@@ -129,9 +131,6 @@ lzma
 madplay
 mailgraph
 makedepf90
-maven-changes-plugin
-maven-doap-plugin
-maven-downloader
 mbox2eml
 metamorphose2
 min12xxw
@@ -288,6 +287,7 @@ php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
 php-tracy
+picviz
 pikdev
 piklab
 pikloops
@@ -299,6 +299,7 @@ pop-gtk-theme
 pop-icon-theme
 portecle
 posterazor
+postgresql-plparrot
 postscriptbarcode
 preload
 publican-genome
@@ -469,6 +470,7 @@ svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
+tbcload
 tesla-pom
 tharlon-fonts
 tinyxpath
