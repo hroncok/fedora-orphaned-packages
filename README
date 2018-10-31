@@ -6,9 +6,7 @@ apigen
 archimedes
 arm-none-eabi-gdb
 ascii-design
-askbot
 ath_info
-awn-extras-applets
 aws-shell
 b43-fwcutter
 balloontip
@@ -19,7 +17,9 @@ cclive
 cdm
 cf-sorts-mill-goudy-fonts
 chck
+childsplay_plugins
 clamav-unofficial-sigs
+django-piston
 doclifter
 dojo
 dreamchess-tools
@@ -27,6 +27,8 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
+emacs-ecb
+emacs-ibus
 emacs-mew
 emacs-verilog-mode
 enemies-of-carlotta
@@ -56,6 +58,7 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
+gnome-shell-extension-noripple
 gnudiff
 gnu-smalltalk
 gobby
@@ -88,6 +91,7 @@ golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
 google-roboto-mono-fonts
+gst-mixer
 gsview
 herbstluftwm
 hex-a-hop
@@ -287,7 +291,6 @@ php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
 php-tracy
-picviz
 pikdev
 piklab
 pikloops
@@ -299,7 +302,6 @@ pop-gtk-theme
 pop-icon-theme
 portecle
 posterazor
-postgresql-plparrot
 postscriptbarcode
 preload
 publican-genome
@@ -470,7 +472,6 @@ svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
-tbcload
 tesla-pom
 tharlon-fonts
 tinyxpath
