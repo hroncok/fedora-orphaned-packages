@@ -17,9 +17,9 @@ cclive
 cdm
 cf-sorts-mill-goudy-fonts
 chck
-childsplay_plugins
 clamav-unofficial-sigs
-django-piston
+classpathx-jaf
+dmlite-plugins-memcache
 doclifter
 dojo
 dreamchess-tools
@@ -27,8 +27,6 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
-emacs-ecb
-emacs-ibus
 emacs-mew
 emacs-verilog-mode
 enemies-of-carlotta
@@ -58,7 +56,6 @@ gnome-hearts
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
-gnome-shell-extension-noripple
 gnudiff
 gnu-smalltalk
 gobby
@@ -91,7 +88,6 @@ golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
 google-roboto-mono-fonts
-gst-mixer
 gsview
 herbstluftwm
 hex-a-hop
@@ -108,6 +104,7 @@ inkboy-fonts
 ipplan
 isrcsubmit
 jacknativeclient
+jackson2-annotations
 jai-imageio-core
 java-deptools
 javasysmon
@@ -358,9 +355,7 @@ python-sprox
 python-sqlobject
 python-testify
 python-turbocheetah
-python-turbojson
 python-turbokid
-python-TurboMail
 python-usbtmc
 python-vxi11
 python-xpyb
@@ -444,6 +439,7 @@ rubygem-virtus
 ruby-RRDtool
 sap
 sarai-fonts
+SDLmm
 senamirmir-washra-font
 sequence-library
 simple-tpm-pk11
