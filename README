@@ -18,8 +18,6 @@ cdm
 cf-sorts-mill-goudy-fonts
 chck
 clamav-unofficial-sigs
-classpathx-jaf
-dmlite-plugins-memcache
 doclifter
 dojo
 dreamchess-tools
@@ -104,7 +102,6 @@ inkboy-fonts
 ipplan
 isrcsubmit
 jacknativeclient
-jackson2-annotations
 jai-imageio-core
 java-deptools
 javasysmon
@@ -439,7 +436,6 @@ rubygem-virtus
 ruby-RRDtool
 sap
 sarai-fonts
-SDLmm
 senamirmir-washra-font
 sequence-library
 simple-tpm-pk11
