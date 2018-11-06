@@ -17,7 +17,6 @@ cclive
 ccsm
 cdm
 cf-sorts-mill-goudy-fonts
-cgoban
 chck
 clamav-unofficial-sigs
 compiz
@@ -117,6 +116,7 @@ jacknativeclient
 jai-imageio-core
 java-deptools
 javasysmon
+jboss-as
 jbosscache-support
 jemmy
 jgoodies-animation
@@ -491,7 +491,6 @@ tuxcmd
 typemade-josefinsansstd-light-fonts
 udunits
 unclutter
-upstart
 vdr-ttxtsubs
 vdr-tvonscreen
 vldocking
