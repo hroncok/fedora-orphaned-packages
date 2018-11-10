@@ -8,11 +8,9 @@ ath_info
 aws-shell
 b43-fwcutter
 balloontip
-bickley
 bonesi
 brightnessctl
 Canna
-CastPodder
 cclive
 ccsm
 cdm
@@ -26,7 +24,6 @@ compiz-manager
 compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
-Django
 doclifter
 dojo
 dreamchess-tools
@@ -45,7 +42,6 @@ fbset
 fedora-review-plugin-java
 fotowall
 fped
-fRaBs
 freehdl
 freehoo
 freemind
@@ -55,7 +51,6 @@ gausssum
 gdesklets-goodweather
 gds2pov
 geda-gaf
-geda-utils
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -110,6 +105,7 @@ hyphen-de
 ike
 impallari-lobster-fonts
 inkboy-fonts
+ip6sic
 ipplan
 isrcsubmit
 jacknativeclient
@@ -467,8 +463,6 @@ tuxcmd
 typemade-josefinsansstd-light-fonts
 udunits
 unclutter
-undertaker
-vdccm
 vdr-ttxtsubs
 vdr-tvonscreen
 vldocking
@@ -477,7 +471,6 @@ wastesedge
 wb_builder
 webcpp
 webkit-sharp
-willie
 wyrd
 xboxdrv
 xcftools
