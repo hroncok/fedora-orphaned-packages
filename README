@@ -105,7 +105,6 @@ hyphen-de
 ike
 impallari-lobster-fonts
 inkboy-fonts
-ip6sic
 ipplan
 isrcsubmit
 jacknativeclient
@@ -117,6 +116,7 @@ jemmy
 jgoodies-animation
 jinput
 jktestpackage
+jline2
 jpathwatch
 js-jquery1
 js-jquery2
@@ -126,11 +126,16 @@ kmenu-gnome
 knapsen
 kpolynome
 ladspa-swh-plugins
+lastuser
 ldd-pdf
+lfcbase
 libcryptui
+libdhcp
+libmowgli
 libpuzzle
 libpwiz
 libqxt
+libxls
 log4shib
 lzma
 madplay
@@ -153,6 +158,7 @@ mylvmbackup
 mythes-de
 net6
 NetPIPE
+nget
 nitroshare
 nodejs-accepts
 nodejs-agent-base
@@ -230,6 +236,7 @@ nodejs-url-parse-lax
 nodejs-w3cjs
 nodejs-xmldom
 nodejs-yauzl
+notification-daemon-engine-slider
 not-yet-commons-ssl
 novprog
 npush
@@ -246,9 +253,11 @@ openmx
 OpenTK
 ovm
 pagul-fonts
+pam_keyring
 pam_pkcs11
 peervpn
 peg-solitaire
+perl-Catalyst-Controller-BindLex
 perl-GO-TermFinder
 perl-Satcon
 perl-Term-Animation
