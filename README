@@ -27,7 +27,6 @@ compiz-plugins-main
 doclifter
 dojo
 dreamchess-tools
-dynamic-wallpaper
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
@@ -41,7 +40,6 @@ evopop-icon-theme
 exonerate
 fbset
 fedora-review-plugin-java
-firstaidkit
 fotowall
 fped
 freehdl
@@ -59,7 +57,6 @@ ghc-pcap
 ghc-setlocale
 git-bugzilla
 gmusicbrowser
-gnaughty
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
@@ -138,6 +135,8 @@ lzma
 madplay
 mailgraph
 makedepf90
+man-pages-da
+maven-changes-plugin
 mbox2eml
 min12xxw
 mindi-busybox
@@ -259,7 +258,6 @@ pew
 pharosc
 phetsarath-fonts
 photoprint
-php53-tcpdf
 php-apigen-theme-bootstrap
 php-apigen-theme-default
 php-kdyby-events
@@ -358,7 +356,6 @@ rb_libtorrent
 remind
 rendercheck
 RepetierHost
-repoml
 retext
 rhnmd
 ripright
