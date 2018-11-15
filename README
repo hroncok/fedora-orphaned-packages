@@ -135,8 +135,6 @@ lzma
 madplay
 mailgraph
 makedepf90
-man-pages-da
-maven-changes-plugin
 mbox2eml
 min12xxw
 mindi-busybox
@@ -250,11 +248,15 @@ pagul-fonts
 pam_pkcs11
 peervpn
 peg-solitaire
+perl-DBIx-SQLite-Simple
+perl-DDL-Oracle
 perl-GO-TermFinder
 perl-Satcon
 perl-Term-Animation
 petit
+petitboot
 pew
+pfscalibration
 pharosc
 phetsarath-fonts
 photoprint
@@ -296,6 +298,7 @@ pix
 pixz
 plv8
 pnmixer
+polyester
 pop-gtk-theme
 pop-icon-theme
 portecle
@@ -451,6 +454,11 @@ svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
+telepathy-kde-accounts-kcm-plugins
+telepathy-kde-approver
+telepathy-kde-filetransfer-handler
+telepathy-kde-presence-applet
+telepathy-kde-presence-dataengine
 tesla-pom
 tharlon-fonts
 tinyxpath
@@ -472,10 +480,12 @@ wastesedge
 wb_builder
 webcpp
 webkit-sharp
+wordpress-mu
 wyrd
 xboxdrv
 xcftools
 xls2csv
+xnoise-plugins-core
 xonsh
 xplayer
 xplayer-plparser
@@ -483,3 +493,4 @@ xtv
 xviewer
 xviewer-plugins
 yafc
+zukini
