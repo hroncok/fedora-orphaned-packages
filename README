@@ -58,6 +58,7 @@ ghc-setlocale
 git-bugzilla
 gmusicbrowser
 gnome-pie
+gnomeradio
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
 gnudiff
@@ -124,6 +125,7 @@ kinput2
 kmenu-gnome
 knapsen
 kpolynome
+ksplice
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
@@ -246,11 +248,8 @@ OpenTK
 ovm
 pagul-fonts
 pam_pkcs11
-pdfcube
 peervpn
 peg-solitaire
-perl-Class-XSAccessor-Array
-perl-ElasticSearch
 perl-GO-TermFinder
 perl-Satcon
 perl-Term-Animation
@@ -308,9 +307,7 @@ pyjoke
 pykka
 Pyrex
 python-afl
-python-assets
 python-assimulo
-python-astng
 python-backport_collections
 python-cclib
 python-characteristic
@@ -320,8 +317,6 @@ python-django-fas
 python-django-markdown2
 python-django-rest-framework-braces
 python-flock
-python-geoip-geolite2
-python-goopy
 python-importanize
 python-ivi
 python-lasagna
@@ -335,12 +330,10 @@ python-os-client-config
 python-paste-script
 python-pgpdump
 python-power
-python-PSI
 python-py2neo
 python-pylcdsysinfo
 python-pyramid-chameleon
 python-pythonz-bd
-python-quixote
 python-rangehttpserver
 python-resumable-urlretrieve
 python-s3transfer
