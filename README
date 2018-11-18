@@ -58,7 +58,6 @@ ghc-setlocale
 git-bugzilla
 gmusicbrowser
 gnome-pie
-gnomeradio
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
 gnudiff
@@ -125,7 +124,6 @@ kinput2
 kmenu-gnome
 knapsen
 kpolynome
-ksplice
 ladspa-swh-plugins
 ldd-pdf
 libcryptui
