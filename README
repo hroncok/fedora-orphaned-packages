@@ -292,6 +292,9 @@ piklab
 pikloops
 pix
 pixz
+pki-ca
+pki-java-tools
+pki-selinux
 plv8
 pnmixer
 pop-gtk-theme
@@ -413,6 +416,7 @@ rubygem-restr
 rubygem-reststop
 rubygem-review
 rubygem-riddle
+rubygem-right_http_connection
 rubygem-rots
 rubygem-ruby-openid
 rubygem-taskjuggler
@@ -442,6 +446,7 @@ spacewalk-proxy-html
 spamassassin-FuzzyOcr
 sqljet
 stevetraylen
+stjerm
 stupid-package
 sudoku-savant
 sugar-calendario
