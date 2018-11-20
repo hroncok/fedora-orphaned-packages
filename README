@@ -39,7 +39,9 @@ evopop-gtk-theme
 evopop-icon-theme
 exonerate
 fbset
+fedora-ds-admin-console
 fedora-review-plugin-java
+fonts-korean
 fotowall
 fped
 freehdl
@@ -57,6 +59,7 @@ ghc-pcap
 ghc-setlocale
 git-bugzilla
 gmusicbrowser
+gnome-gmail-notifier
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
@@ -92,7 +95,9 @@ golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
 google-roboto-mono-fonts
+gpshell
 gsview
+hdapsd
 herbstluftwm
 hex-a-hop
 hexalate
@@ -102,6 +107,8 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
+ibus-table-code
+ibus-table-quick
 ike
 impallari-lobster-fonts
 inkboy-fonts
@@ -116,6 +123,8 @@ jemmy
 jgoodies-animation
 jinput
 jktestpackage
+jna-posix
+joyce
 jpathwatch
 js-jquery1
 js-jquery2
@@ -253,6 +262,7 @@ perl-Satcon
 perl-Term-Animation
 petit
 pew
+pg_journal
 pharosc
 phetsarath-fonts
 photoprint
@@ -292,9 +302,6 @@ piklab
 pikloops
 pix
 pixz
-pki-ca
-pki-java-tools
-pki-selinux
 plv8
 pnmixer
 pop-gtk-theme
@@ -416,7 +423,6 @@ rubygem-restr
 rubygem-reststop
 rubygem-review
 rubygem-riddle
-rubygem-right_http_connection
 rubygem-rots
 rubygem-ruby-openid
 rubygem-taskjuggler
@@ -446,7 +452,6 @@ spacewalk-proxy-html
 spamassassin-FuzzyOcr
 sqljet
 stevetraylen
-stjerm
 stupid-package
 sudoku-savant
 sugar-calendario
