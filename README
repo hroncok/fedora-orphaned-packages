@@ -24,6 +24,9 @@ compiz-manager
 compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
+django-evolution
+django-reversion
+django-tagging
 doclifter
 dojo
 dreamchess-tools
@@ -35,13 +38,12 @@ emacs-mew
 emacs-verilog-mode
 emerald
 emerald-themes
+evolution-python
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
 fbset
-fedora-ds-admin-console
 fedora-review-plugin-java
-fonts-korean
 fotowall
 fped
 freehdl
@@ -59,7 +61,6 @@ ghc-pcap
 ghc-setlocale
 git-bugzilla
 gmusicbrowser
-gnome-gmail-notifier
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
@@ -95,7 +96,6 @@ golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
 google-roboto-mono-fonts
-gpshell
 gsview
 hdapsd
 herbstluftwm
@@ -107,8 +107,6 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
-ibus-table-code
-ibus-table-quick
 ike
 impallari-lobster-fonts
 inkboy-fonts
@@ -123,8 +121,6 @@ jemmy
 jgoodies-animation
 jinput
 jktestpackage
-jna-posix
-joyce
 jpathwatch
 js-jquery1
 js-jquery2
@@ -249,7 +245,6 @@ oflb-roadstencil-fonts
 oflb-sportrop-fonts
 ofono
 opencity
-openjfx
 openmx
 OpenTK
 ovm
@@ -268,6 +263,7 @@ phetsarath-fonts
 photoprint
 php-apigen-theme-bootstrap
 php-apigen-theme-default
+php-htmlpurifier-htmlpurifier
 php-kdyby-events
 php-kdyby-strict-objects
 php-latte
@@ -296,6 +292,8 @@ php-nette-utils
 php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
+php-symfony2-DependencyInjection
+php-symfony2-DomCrawler
 php-tracy
 pikdev
 piklab
