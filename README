@@ -24,9 +24,6 @@ compiz-manager
 compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
-django-evolution
-django-reversion
-django-tagging
 doclifter
 dojo
 dreamchess-tools
@@ -38,7 +35,6 @@ emacs-mew
 emacs-verilog-mode
 emerald
 emerald-themes
-evolution-python
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
@@ -263,7 +259,6 @@ phetsarath-fonts
 photoprint
 php-apigen-theme-bootstrap
 php-apigen-theme-default
-php-htmlpurifier-htmlpurifier
 php-kdyby-events
 php-kdyby-strict-objects
 php-latte
@@ -292,8 +287,6 @@ php-nette-utils
 php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
-php-symfony2-DependencyInjection
-php-symfony2-DomCrawler
 php-tracy
 pikdev
 piklab
@@ -311,6 +304,7 @@ preload
 publican-genome
 pyjoke
 pykka
+pymetar
 Pyrex
 python-afl
 python-assimulo
@@ -318,6 +312,7 @@ python-backport_collections
 python-cclib
 python-characteristic
 python-contexttimer
+python-decorator3
 python-django-classy-tags
 python-django-fas
 python-django-markdown2
@@ -326,7 +321,9 @@ python-flock
 python-importanize
 python-ivi
 python-lasagna
+python-lazy
 python-libcnml
+python-libgmail
 python-librosa
 python-markups
 python-multiprocessing
