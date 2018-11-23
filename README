@@ -293,6 +293,8 @@ piklab
 pikloops
 pix
 pixz
+plexus-mail-sender
+plexus-registry
 plv8
 pnmixer
 pop-gtk-theme
@@ -304,7 +306,6 @@ preload
 publican-genome
 pyjoke
 pykka
-pymetar
 Pyrex
 python-afl
 python-assimulo
@@ -312,7 +313,6 @@ python-backport_collections
 python-cclib
 python-characteristic
 python-contexttimer
-python-decorator3
 python-django-classy-tags
 python-django-fas
 python-django-markdown2
@@ -320,10 +320,10 @@ python-django-rest-framework-braces
 python-flock
 python-importanize
 python-ivi
+python-iwlib
+python-javaobj
 python-lasagna
-python-lazy
 python-libcnml
-python-libgmail
 python-librosa
 python-markups
 python-multiprocessing
@@ -419,6 +419,8 @@ rubygem-reststop
 rubygem-review
 rubygem-riddle
 rubygem-rots
+rubygem-ruby-debug
+rubygem-ruby-debug-base19
 rubygem-ruby-openid
 rubygem-taskjuggler
 rubygem-thinking-sphinx
