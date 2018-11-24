@@ -293,8 +293,6 @@ piklab
 pikloops
 pix
 pixz
-plexus-mail-sender
-plexus-registry
 plv8
 pnmixer
 pop-gtk-theme
@@ -320,13 +318,14 @@ python-django-rest-framework-braces
 python-flock
 python-importanize
 python-ivi
-python-iwlib
-python-javaobj
+python-kid
 python-lasagna
 python-libcnml
 python-librosa
+python-logilab-common
 python-markups
 python-multiprocessing
+python-ncclient
 python-netdiff
 python-netjsonconfig
 python-os-client-config
@@ -419,8 +418,6 @@ rubygem-reststop
 rubygem-review
 rubygem-riddle
 rubygem-rots
-rubygem-ruby-debug
-rubygem-ruby-debug-base19
 rubygem-ruby-openid
 rubygem-taskjuggler
 rubygem-thinking-sphinx
@@ -429,6 +426,7 @@ rubygem-virtus
 ruby-RRDtool
 sap
 sarai-fonts
+scrollkeeper
 senamirmir-washra-font
 sequence-library
 simple-ccsm
@@ -477,6 +475,7 @@ wastesedge
 wb_builder
 webcpp
 webkit-sharp
+wmbinclock
 wyrd
 xboxdrv
 xcftools
@@ -488,3 +487,5 @@ xtv
 xviewer
 xviewer-plugins
 yafc
+zikula-module-News
+znc-extra
