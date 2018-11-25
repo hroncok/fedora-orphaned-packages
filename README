@@ -1,13 +1,16 @@
 adonthell
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
+anjuta-gdl
 apigen
 archimedes
+ardour3
 ascii-design
 ath_info
 aws-shell
 b43-fwcutter
 balloontip
+bibexport
 bonesi
 brightnessctl
 Canna
@@ -24,6 +27,8 @@ compiz-manager
 compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
+ctdb
+dejavu-lgc-fonts
 doclifter
 dojo
 dreamchess-tools
@@ -45,6 +50,7 @@ fped
 freehdl
 freehoo
 freemind
+freeradius-client
 frepple
 fusion-icon
 gausssum
@@ -246,8 +252,11 @@ OpenTK
 ovm
 pagul-fonts
 pam_pkcs11
+parprouted
+pcapfix
 peervpn
 peg-solitaire
+perl-ExtUtils-Typemaps
 perl-GO-TermFinder
 perl-Satcon
 perl-Term-Animation
@@ -306,6 +315,7 @@ pyjoke
 pykka
 Pyrex
 python-afl
+python-ansible-tower-cli
 python-assimulo
 python-backport_collections
 python-cclib
@@ -318,14 +328,11 @@ python-django-rest-framework-braces
 python-flock
 python-importanize
 python-ivi
-python-kid
 python-lasagna
 python-libcnml
 python-librosa
-python-logilab-common
 python-markups
 python-multiprocessing
-python-ncclient
 python-netdiff
 python-netjsonconfig
 python-os-client-config
@@ -336,6 +343,7 @@ python-py2neo
 python-pylcdsysinfo
 python-pyramid-chameleon
 python-pythonz-bd
+python-pyuv
 python-rangehttpserver
 python-resumable-urlretrieve
 python-s3transfer
@@ -343,6 +351,7 @@ python-shove
 python-simplegeneric
 python-simplepath
 python-social-auth
+python-softlayer
 python-sprox
 python-sqlobject
 python-testify
@@ -354,11 +363,13 @@ qhttpengine
 qmdnsengine
 qt-qsa
 Quake2
+ratproxy
 rb_libtorrent
 remind
 rendercheck
 RepetierHost
 retext
+R-GeneR
 rhnmd
 ripright
 rocksdb
@@ -424,9 +435,9 @@ rubygem-thinking-sphinx
 rubygem-tiltout
 rubygem-virtus
 ruby-RRDtool
+s3cmd
 sap
 sarai-fonts
-scrollkeeper
 senamirmir-washra-font
 sequence-library
 simple-ccsm
@@ -475,7 +486,6 @@ wastesedge
 wb_builder
 webcpp
 webkit-sharp
-wmbinclock
 wyrd
 xboxdrv
 xcftools
@@ -487,5 +497,3 @@ xtv
 xviewer
 xviewer-plugins
 yafc
-zikula-module-News
-znc-extra
