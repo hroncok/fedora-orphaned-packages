@@ -93,7 +93,11 @@ golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
 google-roboto-mono-fonts
+gplcver
+gpxviewer
+gstm
 gsview
+gtk-sharp
 hdapsd
 herbstluftwm
 hex-a-hop
@@ -138,9 +142,11 @@ madplay
 mailgraph
 makedepf90
 mbox2eml
+mhddfs
 min12xxw
 mindi-busybox
 minion
+mod_perlite
 modplugtools
 moka-icon-theme
 monitor-edid
@@ -151,7 +157,9 @@ mozilla-requestpolicy
 mozvoikko
 mph-2b-damase-fonts
 mylvmbackup
+mysqlclient10
 mythes-de
+nepomuktvnamer
 net6
 NetPIPE
 nitroshare
@@ -191,7 +199,6 @@ nodejs-is-plain-obj
 nodejs-is-redirect
 nodejs-is-retry-allowed
 nodejs-json-parse-better-errors
-nodejs-lodash-node
 nodejs-lowercase-keys
 nodejs-map-stream
 nodejs-mimic-response
@@ -253,8 +260,6 @@ pcapfix
 peervpn
 peg-solitaire
 perl-GO-TermFinder
-perl-Gtk2-SourceView
-perl-IO-Compress-Bzip2
 perl-Satcon
 perl-Term-Animation
 petit
@@ -311,18 +316,15 @@ publican-genome
 pyjoke
 pykka
 Pyrex
-python3-chardet
 python-afl
 python-ansible-tower-cli
 python-assimulo
 python-backport_collections
 python-cclib
-python-Chaco
 python-characteristic
 python-contexttimer
 python-django-classy-tags
 python-django-fas
-python-django-horizon-gbp
 python-django-markdown2
 python-django-rest-framework-braces
 python-flock
@@ -355,13 +357,10 @@ python-softlayer
 python-sprox
 python-sqlobject
 python-testify
-python-TraitsBackendWX
-python-turbojson13
 python-usbtmc
 python-vxi11
 python-xpyb
 PyXB
-qca-gnupg
 qhttpengine
 qmdnsengine
 qt-qsa
@@ -386,7 +385,6 @@ rubygem-bourne
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-bunny
-rubygem-calendar_date_select
 rubygem-capillary
 rubygem-climate_control
 rubygem-cocaine
@@ -475,7 +473,6 @@ tlomt-orbitron-fonts
 tong
 trabajo-fonts
 trac-code-comments-plugin
-trac-webadmin
 transgui
 tuladha-jejeg-fonts
 tuxcmd
@@ -501,3 +498,5 @@ xtv
 xviewer
 xviewer-plugins
 yafc
+zarafa
+zif
