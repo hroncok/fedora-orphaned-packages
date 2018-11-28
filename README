@@ -8,6 +8,7 @@ ath_info
 aws-shell
 b43-fwcutter
 balloontip
+bluecove
 bonesi
 brightnessctl
 Canna
@@ -93,11 +94,7 @@ golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
 google-roboto-mono-fonts
-gplcver
-gpxviewer
-gstm
 gsview
-gtk-sharp
 hdapsd
 herbstluftwm
 hex-a-hop
@@ -125,6 +122,9 @@ jktestpackage
 jpathwatch
 js-jquery1
 js-jquery2
+kdeartwork-extras
+kdebase-runtime
+kde-plasma-akonadi-tasks
 keurocalc
 kinput2
 kmenu-gnome
@@ -142,12 +142,12 @@ madplay
 mailgraph
 makedepf90
 mbox2eml
-mhddfs
 min12xxw
 mindi-busybox
+mingw32-runtime
 minion
-mod_perlite
 modplugtools
+mojo-signatures
 moka-icon-theme
 monitor-edid
 monkeystudio
@@ -157,9 +157,7 @@ mozilla-requestpolicy
 mozvoikko
 mph-2b-damase-fonts
 mylvmbackup
-mysqlclient10
 mythes-de
-nepomuktvnamer
 net6
 NetPIPE
 nitroshare
@@ -316,6 +314,7 @@ publican-genome
 pyjoke
 pykka
 Pyrex
+python26-ldap
 python-afl
 python-ansible-tower-cli
 python-assimulo
@@ -416,6 +415,7 @@ rubygem-main
 rubygem-markaby
 rubygem-middleware
 rubygem-net-dns
+rubygem-ohai
 rubygem-pathname2
 rubygem-pcaprub
 rubygem-pervasives
@@ -439,6 +439,7 @@ ruby-RRDtool
 s3cmd
 sap
 sarai-fonts
+scite
 senamirmir-washra-font
 sequence-library
 simple-ccsm
@@ -468,6 +469,7 @@ tangerine-fonts
 tanglet
 tesla-pom
 tharlon-fonts
+tinyca2
 tinyxpath
 tlomt-orbitron-fonts
 tong
@@ -498,5 +500,3 @@ xtv
 xviewer
 xviewer-plugins
 yafc
-zarafa
-zif
