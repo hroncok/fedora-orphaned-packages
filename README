@@ -122,9 +122,6 @@ jktestpackage
 jpathwatch
 js-jquery1
 js-jquery2
-kdeartwork-extras
-kdebase-runtime
-kde-plasma-akonadi-tasks
 keurocalc
 kinput2
 kmenu-gnome
@@ -144,10 +141,8 @@ makedepf90
 mbox2eml
 min12xxw
 mindi-busybox
-mingw32-runtime
 minion
 modplugtools
-mojo-signatures
 moka-icon-theme
 monitor-edid
 monkeystudio
@@ -314,7 +309,6 @@ publican-genome
 pyjoke
 pykka
 Pyrex
-python26-ldap
 python-afl
 python-ansible-tower-cli
 python-assimulo
@@ -415,7 +409,6 @@ rubygem-main
 rubygem-markaby
 rubygem-middleware
 rubygem-net-dns
-rubygem-ohai
 rubygem-pathname2
 rubygem-pcaprub
 rubygem-pervasives
