@@ -3,7 +3,6 @@ aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 apigen
 archimedes
-arm-gp2x-linux-zlib
 ascii-design
 ath_info
 aws-shell
@@ -12,15 +11,12 @@ balloontip
 bluecove
 bonesi
 brightnessctl
-c2050
 Canna
 cclive
 ccsm
 cdm
 cf-sorts-mill-goudy-fonts
-cjkunifonts
 clamav-unofficial-sigs
-compat-nettle27
 compiz
 compiz-bcop
 compizconfig-python
@@ -28,7 +24,6 @@ compiz-manager
 compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
-ctapi-common
 doclifter
 dojo
 dreamchess-tools
@@ -36,7 +31,6 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
-elisa-plugins-good
 emacs-mew
 emacs-verilog-mode
 emerald
@@ -58,15 +52,11 @@ gausssum
 gdesklets-goodweather
 gds2pov
 geda-gaf
-geekcode
-geoclue
 ghc-fgl
 ghc-hgettext
 ghc-pcap
 ghc-setlocale
 git-bugzilla
-gkrellmms
-gktools
 gmusicbrowser
 gnome-pie
 gnome-shell-extension-calc
@@ -302,6 +292,7 @@ php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
 php-tracy
+php-ZendFramework
 pikdev
 piklab
 pikloops
@@ -363,6 +354,8 @@ python-xpyb
 PyXB
 qhttpengine
 qmdnsengine
+qps
+qt4
 qt-qsa
 Quake2
 ratproxy
@@ -468,10 +461,14 @@ tabish-eeyek-fonts
 tangerine-fonts
 tanglet
 tesla-pom
+tesla-tycho-support
+tetex-arabtex
 tharlon-fonts
 tinyca2
 tinyxpath
 tlomt-orbitron-fonts
+tomcat5
+tomcat6
 tong
 trabajo-fonts
 trac-code-comments-plugin
