@@ -1,4 +1,6 @@
 adonthell
+aduna-commons-i18n
+aether
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 apigen
@@ -9,6 +11,7 @@ aws-shell
 b43-fwcutter
 balloontip
 bluecove
+blueman
 bonesi
 brightnessctl
 Canna
@@ -24,6 +27,9 @@ compiz-manager
 compiz-plugins-experimental
 compiz-plugins-extra
 compiz-plugins-main
+cumin
+dbus-tools
+dcbd
 doclifter
 dojo
 dreamchess-tools
@@ -57,6 +63,7 @@ ghc-hgettext
 ghc-pcap
 ghc-setlocale
 git-bugzilla
+globus-rls-client
 gmusicbrowser
 gnome-pie
 gnome-shell-extension-calc
@@ -92,9 +99,11 @@ golang-github-tjfoc-gmsm
 golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
+golang-launchpad-gocheck
 google-roboto-mono-fonts
 gsview
 hdapsd
+hdrprep
 herbstluftwm
 hex-a-hop
 hexalate
@@ -109,6 +118,7 @@ impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
+jabberd
 jacknativeclient
 jai-imageio-core
 java-deptools
@@ -244,6 +254,7 @@ oflb-sportrop-fonts
 ofono
 opencity
 openmx
+openstack-manila-ui
 OpenTK
 ovm
 pagul-fonts
@@ -350,12 +361,11 @@ python-sqlobject
 python-testify
 python-usbtmc
 python-vxi11
+python-xhtml2pdf
 python-xpyb
 PyXB
 qhttpengine
 qmdnsengine
-qps
-qt4
 qt-qsa
 Quake2
 ratproxy
@@ -456,19 +466,16 @@ stevetraylen
 stupid-package
 sudoku-savant
 sugar-calendario
+supernova
 svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
 tesla-pom
-tesla-tycho-support
-tetex-arabtex
 tharlon-fonts
 tinyca2
 tinyxpath
 tlomt-orbitron-fonts
-tomcat5
-tomcat6
 tong
 trabajo-fonts
 trac-code-comments-plugin
