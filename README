@@ -1,6 +1,4 @@
 adonthell
-aduna-commons-i18n
-aether
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
 apigen
@@ -8,7 +6,6 @@ archimedes
 ascii-design
 ath_info
 aws-shell
-b43-fwcutter
 balloontip
 bluecove
 blueman
@@ -16,20 +13,8 @@ bonesi
 brightnessctl
 Canna
 cclive
-ccsm
 cdm
 cf-sorts-mill-goudy-fonts
-clamav-unofficial-sigs
-compiz
-compiz-bcop
-compizconfig-python
-compiz-manager
-compiz-plugins-experimental
-compiz-plugins-extra
-compiz-plugins-main
-cumin
-dbus-tools
-dcbd
 doclifter
 dojo
 dreamchess-tools
@@ -39,8 +24,6 @@ eclipse-xtext-antlr-generator
 editarea
 emacs-mew
 emacs-verilog-mode
-emerald
-emerald-themes
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
@@ -63,7 +46,6 @@ ghc-hgettext
 ghc-pcap
 ghc-setlocale
 git-bugzilla
-globus-rls-client
 gmusicbrowser
 gnome-pie
 gnome-shell-extension-calc
@@ -99,11 +81,9 @@ golang-github-tjfoc-gmsm
 golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
-golang-launchpad-gocheck
 google-roboto-mono-fonts
 gsview
 hdapsd
-hdrprep
 herbstluftwm
 hex-a-hop
 hexalate
@@ -113,12 +93,12 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
+ibus-table-cantonese
 ike
 impallari-lobster-fonts
 inkboy-fonts
 ipplan
 isrcsubmit
-jabberd
 jacknativeclient
 jai-imageio-core
 java-deptools
@@ -129,7 +109,6 @@ jgoodies-animation
 jinput
 jktestpackage
 jpathwatch
-js-jquery1
 js-jquery2
 keurocalc
 kinput2
@@ -138,10 +117,13 @@ knapsen
 kpolynome
 ladspa-swh-plugins
 ldd-pdf
+libcompizconfig
 libcryptui
+libmowgli
 libpuzzle
 libpwiz
 libqxt
+libsilc
 log4shib
 lzma
 madplay
@@ -150,8 +132,12 @@ makedepf90
 mbox2eml
 min12xxw
 mindi-busybox
+mingw32-runtime
 mingw-tk
 minion
+moblin-panel-applications
+moblin-panel-pasteboard
+mod_cband
 modplugtools
 moka-icon-theme
 monitor-edid
@@ -164,6 +150,7 @@ mph-2b-damase-fonts
 mylvmbackup
 mythes-de
 net6
+netgo
 NetPIPE
 nitroshare
 nodejs-accepts
@@ -254,7 +241,6 @@ oflb-sportrop-fonts
 ofono
 opencity
 openmx
-openstack-manila-ui
 OpenTK
 ovm
 pagul-fonts
@@ -439,7 +425,6 @@ rubygem-thinking-sphinx
 rubygem-tiltout
 rubygem-virtus
 ruby-RRDtool
-s3cmd
 sap
 sarai-fonts
 scite
@@ -467,7 +452,6 @@ stupid-package
 sudoku-savant
 sugar-calendario
 supernova
-svnkit
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
