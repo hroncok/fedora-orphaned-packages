@@ -15,6 +15,9 @@ Canna
 cclive
 cdm
 cf-sorts-mill-goudy-fonts
+curry
+django-pylibmc
+django-sct
 doclifter
 dojo
 dreamchess-tools
@@ -93,7 +96,9 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
-ibus-table-cantonese
+ibus-table-xinhua
+ibus-table-yong
+ibus-tutcode
 ike
 impallari-lobster-fonts
 inkboy-fonts
@@ -119,11 +124,9 @@ ladspa-swh-plugins
 ldd-pdf
 libcompizconfig
 libcryptui
-libmowgli
 libpuzzle
 libpwiz
 libqxt
-libsilc
 log4shib
 lzma
 madplay
@@ -132,12 +135,8 @@ makedepf90
 mbox2eml
 min12xxw
 mindi-busybox
-mingw32-runtime
 mingw-tk
 minion
-moblin-panel-applications
-moblin-panel-pasteboard
-mod_cband
 modplugtools
 moka-icon-theme
 monitor-edid
@@ -150,7 +149,6 @@ mph-2b-damase-fonts
 mylvmbackup
 mythes-de
 net6
-netgo
 NetPIPE
 nitroshare
 nodejs-accepts
@@ -481,6 +479,7 @@ wyrd
 xboxdrv
 xcftools
 xls2csv
+xmms-alarm
 xonsh
 xplayer
 xplayer-plparser
