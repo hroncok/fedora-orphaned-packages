@@ -15,9 +15,6 @@ Canna
 cclive
 cdm
 cf-sorts-mill-goudy-fonts
-curry
-django-pylibmc
-django-sct
 doclifter
 dojo
 dreamchess-tools
@@ -96,9 +93,6 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
-ibus-table-xinhua
-ibus-table-yong
-ibus-tutcode
 ike
 impallari-lobster-fonts
 inkboy-fonts
@@ -262,6 +256,7 @@ php-kdyby-events
 php-kdyby-strict-objects
 php-latte
 php-layers-menu
+php-magpierss
 php-nette
 php-nette-application
 php-nette-bootstrap
@@ -285,6 +280,7 @@ php-nette-tokenizer
 php-nette-utils
 php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
+php-pear-Spreadsheet-Excel-Writer
 php-pecl-sphinx
 php-tracy
 php-ZendFramework
@@ -305,6 +301,7 @@ publican-genome
 pyjoke
 pykka
 Pyrex
+python-adns
 python-afl
 python-ansible-tower-cli
 python-assimulo
@@ -325,7 +322,6 @@ python-markups
 python-multiprocessing
 python-netdiff
 python-netjsonconfig
-python-paste-script
 python-pgpdump
 python-power
 python-py2neo
@@ -428,6 +424,7 @@ sarai-fonts
 scite
 senamirmir-washra-font
 sequence-library
+serenity
 simple-ccsm
 simple-tpm-pk11
 simsu
@@ -478,8 +475,8 @@ webkit-sharp
 wyrd
 xboxdrv
 xcftools
+xfce4-remmina-plugin
 xls2csv
-xmms-alarm
 xonsh
 xplayer
 xplayer-plparser
