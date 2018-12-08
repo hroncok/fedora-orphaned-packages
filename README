@@ -15,7 +15,7 @@ Canna
 cclive
 cdm
 cf-sorts-mill-goudy-fonts
-django-threadedcomments
+cvsclient
 doclifter
 dojo
 dreamchess-tools
@@ -23,18 +23,15 @@ eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 editarea
-emacs-common-pmd
 emacs-mew
 emacs-verilog-mode
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
-farsight
 fbset
 fedora-review-plugin-java
 fotowall
 fped
-fRaBs
 freehdl
 freehoo
 freemind
@@ -284,10 +281,8 @@ php-nette-utils
 php-pear-Auth_HTTP
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
-php-symfony2-Routing
 php-tracy
 php-ZendFramework
-pidgin-epel
 pikdev
 piklab
 pikloops
@@ -327,14 +322,12 @@ python-multiprocessing
 python-netdiff
 python-netjsonconfig
 python-pgpdump
-python-pgsql
 python-power
 python-py2neo
 python-pylcdsysinfo
 python-pyramid-chameleon
 python-pythonz-bd
 python-pyuv
-python-qpid_messaging
 python-rangehttpserver
 python-resumable-urlretrieve
 python-s3transfer
@@ -343,7 +336,6 @@ python-simplepath
 python-social-auth
 python-softlayer
 python-sprox
-python-sqlamp
 python-sqlobject
 python-testify
 python-usbtmc
@@ -457,6 +449,7 @@ tabish-eeyek-fonts
 tangerine-fonts
 tanglet
 tesla-pom
+texlive-texmf-errata
 tharlon-fonts
 tinyca2
 tinyxpath
@@ -489,3 +482,4 @@ xtv
 xviewer
 xviewer-plugins
 yafc
+zorba
