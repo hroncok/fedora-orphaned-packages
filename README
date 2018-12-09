@@ -15,7 +15,8 @@ Canna
 cclive
 cdm
 cf-sorts-mill-goudy-fonts
-cvsclient
+clustermon
+cmucl
 doclifter
 dojo
 dreamchess-tools
@@ -25,6 +26,7 @@ eclipse-xtext-antlr-generator
 editarea
 emacs-mew
 emacs-verilog-mode
+etherboot
 evopop-gtk-theme
 evopop-icon-theme
 exonerate
@@ -83,7 +85,10 @@ golang-github-xtaci-kcp-go
 golang-github-xtaci-smux
 golang-github-zillode-notify
 google-roboto-mono-fonts
+greadelf
 gsview
+gxine
+gypsy
 hdapsd
 herbstluftwm
 hex-a-hop
@@ -93,6 +98,7 @@ hoard
 hornetq
 htmlparser
 hunspell-de
+hunspell-nn
 hyphen-de
 ike
 impallari-lobster-fonts
@@ -119,6 +125,7 @@ ladspa-swh-plugins
 ldd-pdf
 libcompizconfig
 libcryptui
+libgltf
 libpuzzle
 libpwiz
 libqxt
@@ -355,6 +362,7 @@ RepetierHost
 retext
 rhnmd
 ripright
+R-Matrix
 rocksdb
 rogue
 rubygem-activerecord-nulldb-adapter
@@ -448,8 +456,10 @@ supernova
 tabish-eeyek-fonts
 tangerine-fonts
 tanglet
+tanukiwrapper
+tesla-concurrent-localrepo
+tesla-filelock
 tesla-pom
-texlive-texmf-errata
 tharlon-fonts
 tinyca2
 tinyxpath
@@ -482,4 +492,3 @@ xtv
 xviewer
 xviewer-plugins
 yafc
-zorba
