@@ -15,17 +15,9 @@ Canna
 cclive
 cdm
 cf-sorts-mill-goudy-fonts
-django-ajax-selects
-django-picklefield
-docker-registry
 doclifter
 dojo
-dragonegg
-dragonplayer
 dreamchess-tools
-eclipse-m2m-qvtoml
-eclipse-mdt-ocl
-eclipse-mdt-uml2
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
@@ -42,7 +34,6 @@ fped
 freehdl
 freehoo
 freemind
-freeradius-client
 frepple
 gausssum
 gdesklets-goodweather
@@ -303,7 +294,6 @@ postscriptbarcode
 preload
 publican-genome
 pyjoke
-pykka
 Pyrex
 python-adns
 python-afl
@@ -341,7 +331,6 @@ python-simplepath
 python-social-auth
 python-softlayer
 python-sprox
-python-sqlobject
 python-testify
 python-usbtmc
 python-vxi11
@@ -476,6 +465,7 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
+xorg-x11-drv-mach64
 xplayer
 xplayer-plparser
 xtv
