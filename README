@@ -108,6 +108,9 @@ jlibrtp
 jmake
 jpathwatch
 js-jquery2
+kdelibs-experimental
+kdemultimedia-extras
+kde-plasma-smooth-tasks
 keurocalc
 kinput2
 kmenu-gnome
@@ -465,7 +468,6 @@ xboxdrv
 xcftools
 xls2csv
 xonsh
-xorg-x11-drv-mach64
 xplayer
 xplayer-plparser
 xtv
