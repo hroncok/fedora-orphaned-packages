@@ -30,7 +30,6 @@ evopop-icon-theme
 exonerate
 fbset
 fedora-review-plugin-java
-fet
 fotowall
 fped
 freehdl
@@ -38,19 +37,15 @@ freehoo
 freemind
 frepple
 gausssum
-gdesklets-calendar
 gdesklets-goodweather
 gds2pov
 geda-gaf
-geda-utils
 ghc-fgl
 ghc-hgettext
 ghc-pcap
 ghc-setlocale
 git-bugzilla
 gmusicbrowser
-gnomecatalog
-gnome-exe-thumbnailer
 gnome-pie
 gnome-shell-extension-calc
 gnome-shell-extension-fedmsg
@@ -97,6 +92,7 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
+ibus-table-code
 ike
 impallari-lobster-fonts
 inkboy-fonts
@@ -114,6 +110,9 @@ jlibrtp
 jmake
 jpathwatch
 js-jquery2
+kaider
+katello-agent
+kcometen3
 keurocalc
 kinput2
 kmenu-gnome
@@ -135,6 +134,10 @@ min12xxw
 mindi-busybox
 mingw-tk
 minion
+moblin-app-installer
+moblin-cursor-theme
+moblin-gtk-engine
+moblin-icon-theme
 modplugtools
 moka-icon-theme
 monitor-edid
@@ -228,7 +231,6 @@ nodejs-yauzl
 not-yet-commons-ssl
 novprog
 npush
-nss_db
 ntetris
 obby
 oflb-brett-fonts
@@ -237,7 +239,6 @@ oflb-roadstencil-fonts
 oflb-sportrop-fonts
 ofono
 opencity
-openct
 openmx
 OpenTK
 ovm
@@ -302,6 +303,7 @@ postscriptbarcode
 preload
 publican-genome
 pyjoke
+pympdtouchgui
 Pyrex
 python-adns
 python-afl
@@ -315,6 +317,7 @@ python-django-classy-tags
 python-django-fas
 python-django-markdown2
 python-django-rest-framework-braces
+python-dropbox
 python-importanize
 python-ivi
 python-lasagna
