@@ -1,6 +1,7 @@
 adonthell
 aldusleaf-crimson-text-fonts
 almas-mongolian-title-fonts
+amplab-tachyon
 apigen
 archimedes
 ascii-design
@@ -10,19 +11,24 @@ balloontip
 bluecove
 blueman
 bonesi
+bouml
+bouml-doc
 brightnessctl
 Canna
 cclive
 cdm
 cf-sorts-mill-goudy-fonts
+django-simple-captcha
 doclifter
 dojo
 dreamchess-tools
+eclipse-wtp-jst-web
 eclipse-xpand
 eclipse-xtext
 eclipse-xtext-antlr-generator
 ecryptfs-simple
 editarea
+emacs-common-pmd
 emacs-mew
 emacs-verilog-mode
 evopop-gtk-theme
@@ -30,6 +36,8 @@ evopop-icon-theme
 exonerate
 fbset
 fedora-review-plugin-java
+fest-util
+fluxconf
 fotowall
 fped
 freehdl
@@ -40,6 +48,7 @@ gausssum
 gdesklets-goodweather
 gds2pov
 geda-gaf
+geda-gsymcheck
 ghc-fgl
 ghc-hgettext
 ghc-pcap
@@ -92,7 +101,6 @@ hornetq
 htmlparser
 hunspell-de
 hyphen-de
-ibus-table-code
 ike
 impallari-lobster-fonts
 inkboy-fonts
@@ -110,9 +118,6 @@ jlibrtp
 jmake
 jpathwatch
 js-jquery2
-kaider
-katello-agent
-kcometen3
 keurocalc
 kinput2
 kmenu-gnome
@@ -134,10 +139,6 @@ min12xxw
 mindi-busybox
 mingw-tk
 minion
-moblin-app-installer
-moblin-cursor-theme
-moblin-gtk-engine
-moblin-icon-theme
 modplugtools
 moka-icon-theme
 monitor-edid
@@ -303,7 +304,6 @@ postscriptbarcode
 preload
 publican-genome
 pyjoke
-pympdtouchgui
 Pyrex
 python-adns
 python-afl
