@@ -84,6 +84,7 @@ golang-github-zillode-notify
 google-roboto-mono-fonts
 gsview
 hdapsd
+hdrprep
 herbstluftwm
 hex-a-hop
 hexalate
@@ -97,6 +98,7 @@ ike
 impallari-lobster-fonts
 inkboy-fonts
 ipplan
+isic
 jacknativeclient
 jai-imageio-core
 java-deptools
@@ -111,6 +113,7 @@ jmake
 jpathwatch
 js-jquery2
 keurocalc
+kgtk
 kinput2
 kmenu-gnome
 knapsen
@@ -118,10 +121,15 @@ kpolynome
 ladspa-swh-plugins
 ldd-pdf
 libgltf
+libpano12
 libpuzzle
 libpwiz
 libqxt
+lirc-kmod-common
 log4shib
+lohit-fonts
+lohit-hindi-fonts
+lohit-kashmiri-fonts
 lzma
 madplay
 mailgraph
@@ -232,6 +240,7 @@ oflb-roadstencil-fonts
 oflb-sportrop-fonts
 ofono
 openmx
+openstack-tripleo-image-elements
 OpenTK
 ovm
 pagul-fonts
@@ -276,6 +285,7 @@ php-nette-tester
 php-nette-tokenizer
 php-nette-utils
 php-pear-Auth_HTTP
+php-pear-creole
 php-pear-HTML_Template_PHPLIB
 php-pecl-sphinx
 php-tracy
