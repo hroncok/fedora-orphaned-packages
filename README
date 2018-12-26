@@ -2,7 +2,11 @@ bluecove
 bouml
 bouml-doc
 ecryptfs-simple
+elisa-plugins-good
+erlang-erlzmq2
 gdesklets-goodweather
+gnome-applet-music
+gnome-applet-netmon
 golang-github-AudriusButkevicius-kcp-go
 golang-github-AudriusButkevicius-pfilter
 golang-github-calmh-luhn
@@ -41,12 +45,8 @@ ntetris
 pam_pkcs11
 parprouted
 pcapfix
-perl-GO-TermFinder
-perl-NOCpulse-Debug
+perl-DBD-AnyData
 pg_journal
-pguiman
-phonon-backend-xine
-php-apigen-theme-default
 php-ZendFramework
 python-adns
 python-ansible-tower-cli
