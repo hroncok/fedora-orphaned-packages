@@ -2,7 +2,6 @@ autotrash
 bluecove
 bouml
 bouml-doc
-django-sct
 ecryptfs-simple
 fasd
 gdesklets-goodweather
@@ -38,7 +37,6 @@ jbosscache-support
 jlibrtp
 jmake
 libgltf
-libpanelappletmm
 lzma
 mindi-busybox
 ntetris
@@ -47,12 +45,15 @@ parprouted
 pcapfix
 pg_journal
 php-ZendFramework
-pymetar
+pinot
+pixz
+poker-eval
+preupgrade
 python-adns
 python-ansible-tower-cli
+python-assimulo
 python-cookies
 python-lasagna
-python-llvmpy
 python-parsley
 python-pyuv
 python-ripe-atlas-cousteau
@@ -65,6 +66,11 @@ ratproxy
 ripe-atlas-tools
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-fast_xs
+rubygem-mongrel_cluster
+rubygem-net-dns
+rubygem-openshift-origin-auth-mongo
+samba4
 scite
 supernova
 tesla-pom
