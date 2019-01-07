@@ -2,8 +2,6 @@ autotrash
 bluecove
 bouml
 bouml-doc
-cpufreq-utils
-digikamimageplugins
 ecryptfs-simple
 fasd
 gdesklets-goodweather
@@ -36,7 +34,6 @@ golang-github-zillode-notify
 hdapsd
 hoard
 jbosscache-support
-jboss-jts
 jlibrtp
 jmake
 libgltf
@@ -48,7 +45,6 @@ parprouted
 pcapfix
 pg_journal
 php-ZendFramework
-pygtk2
 python-adns
 python-ansible-tower-cli
 python-cookies
