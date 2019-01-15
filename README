@@ -1,7 +1,11 @@
+aeolus-all
+ant-antlr3
+async-http-client
 autotrash
 bluecove
 bouml
 bouml-doc
+brettfont-fonts
 dnsyo
 ecryptfs-simple
 fasd
@@ -17,12 +21,8 @@ ntetris
 pam_pkcs11
 parprouted
 pcapfix
-perl-PlRPC
 pg_journal
-php-channel-guzzle
-php-channel-phpunit
 php-ZendFramework
-poker3d-data
 python-adns
 python-ansible-tower-cli
 python-ceilometermiddleware
