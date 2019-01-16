@@ -1,14 +1,12 @@
-aeolus-all
-ant-antlr3
-async-http-client
 autotrash
 bluecove
 bouml
 bouml-doc
-brettfont-fonts
 dnsyo
+eclipse-veditor
 ecryptfs-simple
 fasd
+fedora-devshell
 gdesklets-goodweather
 hdapsd
 hoard
@@ -16,6 +14,8 @@ jbosscache-support
 jlibrtp
 jmake
 libgltf
+ltsp-utils
+mate-window-manager
 mindi-busybox
 ntetris
 pam_pkcs11
@@ -53,4 +53,5 @@ tristripper
 udunits
 unp
 wifi-radar
+winetricks
 xtv
