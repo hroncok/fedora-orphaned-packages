@@ -2,6 +2,9 @@ autotrash
 bouml
 bouml-doc
 catkin
+cpufrequtils
+cputnik
+daap-sharp
 dnsyo
 ecryptfs-simple
 fasd
@@ -16,8 +19,6 @@ memaker
 mindi-busybox
 ntetris
 pam_pkcs11
-pmd-build-tools
-proxyknife
 python-adns
 python-ceilometermiddleware
 python-cookies
