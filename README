@@ -2,9 +2,6 @@ autotrash
 bouml
 bouml-doc
 catkin
-cpufrequtils
-cputnik
-daap-sharp
 dnsyo
 ecryptfs-simple
 fasd
@@ -40,6 +37,7 @@ rospack
 ros-release
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-openstack-compute
 RunSnakeRun
 scout
 supernova
@@ -50,5 +48,6 @@ udunits
 unp
 wifi-radar
 winetricks
+xpp2
 xtv
 xword
