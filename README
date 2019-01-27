@@ -12,10 +12,20 @@ jlibrtp
 jmake
 labyrinth
 libgltf
+libtlen
+mariadb-galera
+mate-window-manager
+maven-anno-plugin
 memaker
 mindi-busybox
+minitunes
+msp430-binutils
 ntetris
 pam_pkcs11
+plexus-mail-sender
+printoxx
+procbench
+procps
 python-adns
 python-ceilometermiddleware
 python-cookies
@@ -37,7 +47,6 @@ rospack
 ros-release
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-openstack-compute
 RunSnakeRun
 scout
 supernova
@@ -48,6 +57,6 @@ udunits
 unp
 wifi-radar
 winetricks
-xpp2
 xtv
 xword
+zope
