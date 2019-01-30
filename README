@@ -8,9 +8,9 @@ dnsyo
 ecryptfs-simple
 fasd
 gdesklets-goodweather
-ghc-gtk2hs
-ghc-haskell-src
+gdk-pixbuf
 glacier-cli
+glipper
 hoard
 jbosscache-support
 jlibrtp
@@ -20,9 +20,6 @@ llvm5.0
 llvm6.0
 memaker
 mindi-busybox
-mingw32-webkitgtk
-monodevelop-debugger-mdb
-nodejs-event-stream
 ntetris
 pam_pkcs11
 python-ceilometermiddleware
@@ -31,11 +28,9 @@ python-gencpp
 python-genlisp
 python-genmsg
 python-genpy
-python-gnocchiclient
 python-kafka
 python-lasagna
 python-pankoclient
-python-pytimeparse
 python-ripe-atlas-cousteau
 python-ripe-atlas-sagan
 python-socketIO-client
