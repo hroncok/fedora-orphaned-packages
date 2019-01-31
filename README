@@ -8,9 +8,7 @@ dnsyo
 ecryptfs-simple
 fasd
 gdesklets-goodweather
-gdk-pixbuf
 glacier-cli
-glipper
 hoard
 jbosscache-support
 jlibrtp
@@ -22,6 +20,11 @@ memaker
 mindi-busybox
 ntetris
 pam_pkcs11
+phrel
+pic2aa
+piccolo
+pikloops
+pki-ca
 python-ceilometermiddleware
 python-cookies
 python-gencpp
