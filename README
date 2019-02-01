@@ -18,13 +18,12 @@ llvm5.0
 llvm6.0
 memaker
 mindi-busybox
+mysql-query-browser
+nodejs-eventemitter3
+nodejs-filed
+nodejs-yauzl
 ntetris
 pam_pkcs11
-phrel
-pic2aa
-piccolo
-pikloops
-pki-ca
 python-ceilometermiddleware
 python-cookies
 python-gencpp
@@ -42,6 +41,7 @@ rospack
 ros-release
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-openshift-origin-node
 RunSnakeRun
 scout
 tesla-pom
@@ -49,6 +49,9 @@ toothchart
 tristripper
 udunits
 unp
+wdm
+webcpp
+xboxdrv
 xsel
 xtv
 xword
