@@ -10,6 +10,10 @@ fasd
 gdesklets-goodweather
 glacier-cli
 hoard
+i7z
+iasl
+ibus-european-table
+ibus-gucharmap
 jbosscache-support
 jlibrtp
 jmake
@@ -18,10 +22,6 @@ llvm5.0
 llvm6.0
 memaker
 mindi-busybox
-mysql-query-browser
-nodejs-eventemitter3
-nodejs-filed
-nodejs-yauzl
 ntetris
 pam_pkcs11
 python-ceilometermiddleware
@@ -37,11 +37,11 @@ python-ripe-atlas-cousteau
 python-ripe-atlas-sagan
 python-socketIO-client
 ripe-atlas-tools
+rosa-launcher
 rospack
 ros-release
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-openshift-origin-node
 RunSnakeRun
 scout
 tesla-pom
@@ -49,9 +49,9 @@ toothchart
 tristripper
 udunits
 unp
-wdm
-webcpp
-xboxdrv
 xsel
 xtv
 xword
+yofrankie-bge
+yumdaemon
+yum-plugin-download-order
