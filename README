@@ -52,6 +52,8 @@ checkstyle
 clang5.0
 clang6.0
 codemodel
+csisat
+ctan-musixtex-fonts
 dain-snappy
 dcm4che-test
 decentxml
@@ -145,6 +147,7 @@ jna
 joda-convert
 jortho
 jsch-agent-proxy
+JSDoc
 json_simple
 jsoup
 jsr-311
@@ -211,6 +214,8 @@ maven-wagon
 mchange-commons
 memaker
 mindi-busybox
+MiniCopier
+Miro
 mnemonicsetter
 modello
 mojo-parent
@@ -225,14 +230,12 @@ nut-nutrition
 objectweb-asm3
 objectweb-pom
 okio
-openstack-neutron
 opentest4j
 OSGi-bundle-ant-task
 osgi-compendium
 osgi-core
 os-maven-plugin
 pam_pkcs11
-perl-VCS-LibCVS
 plexus-ant-factory
 plexus-archiver
 plexus-bsh-factory
@@ -278,6 +281,7 @@ rubygem-rails-observers
 RunSnakeRun
 scout
 sdljava
+Shinobi
 SimplyHTML
 sisu
 sisu-mojos
