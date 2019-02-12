@@ -141,6 +141,7 @@ jetty-version-maven-plugin
 jflex
 jigdo
 jmapviewer
+jmod
 jna
 joda-convert
 jortho
@@ -158,6 +159,7 @@ labyrinth
 llvm5.0
 llvm6.0
 log4j
+lohit-punjabi-fonts
 maven
 maven-antrun-plugin
 maven-archetype
@@ -209,6 +211,7 @@ maven-surefire
 maven-verifier
 maven-wagon
 mchange-commons
+mediawiki115
 memaker
 mindi-busybox
 mnemonicsetter
@@ -296,7 +299,6 @@ takari-pom
 takari-tycho-support
 tesla-pom
 toothchart
-ttname
 txw2
 udunits
 univocity-parsers
@@ -312,9 +314,7 @@ xom
 xsom
 xstream
 xtv
-xwnc
 xword
 xz-java
-zikula-module-menutree
 zinc
 zopfli
