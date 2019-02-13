@@ -55,6 +55,8 @@ codemodel
 dain-snappy
 dcm4che-test
 decentxml
+django-threadedcomments
+django-tinymce
 dnsyo
 dom4j
 easymock
@@ -73,6 +75,7 @@ eclipse-m2e-sourcelookup
 eclipse-m2e-takari
 eclipse-m2e-tycho
 eclipse-m2e-workspace
+eclipse-mylyn-docs
 exec-maven-plugin
 fasd
 felix-bundlerepository
@@ -107,6 +110,7 @@ httpcomponents-core
 httpcomponents-project
 httpunit
 icu4j
+iris
 istack-commons
 jackson
 jakarta-commons-httpclient
@@ -141,7 +145,6 @@ jetty-version-maven-plugin
 jflex
 jigdo
 jmapviewer
-jmod
 jna
 joda-convert
 jortho
@@ -156,10 +159,8 @@ kapow
 kohsuke-pom
 kxml
 labyrinth
-llvm5.0
-llvm6.0
+libkexif
 log4j
-lohit-punjabi-fonts
 maven
 maven-antrun-plugin
 maven-archetype
@@ -211,15 +212,15 @@ maven-surefire
 maven-verifier
 maven-wagon
 mchange-commons
-mediawiki115
 memaker
 mindi-busybox
+mingw-webkitgtk
+mingw-webkitgtk3
 mnemonicsetter
 modello
 mojo-parent
 multiverse
 munge-maven-plugin
-nasm
 nautilus-pastebin
 nekohtml
 netty
@@ -264,6 +265,7 @@ python-genpy
 python-kafka
 python-lasagna
 python-pankoclient
+python-rdflib
 python-ripe-atlas-cousteau
 python-ripe-atlas-sagan
 python-socketIO-client
