@@ -55,8 +55,7 @@ codemodel
 dain-snappy
 dcm4che-test
 decentxml
-django-threadedcomments
-django-tinymce
+devilspie
 dnsyo
 dom4j
 easymock
@@ -75,7 +74,6 @@ eclipse-m2e-sourcelookup
 eclipse-m2e-takari
 eclipse-m2e-tycho
 eclipse-m2e-workspace
-eclipse-mylyn-docs
 exec-maven-plugin
 fasd
 felix-bundlerepository
@@ -94,6 +92,8 @@ glassfish-fastinfoset
 glassfish-jaxb
 glassfish-jsp
 glassfish-jsp-api
+gnome-exe-thumbnailer
+gnome-globalmenu
 gnumed
 google-gson
 google-guice
@@ -156,6 +156,7 @@ junit
 junit5
 jvnet-parent
 kapow
+keybinder
 kohsuke-pom
 kxml
 labyrinth
@@ -254,6 +255,7 @@ plexus-languages
 plexus-resources
 plexus-utils
 plexus-velocity
+python26-PyYAML
 python-ceilometermiddleware
 python-cookies
 python-django-post_office
@@ -269,6 +271,8 @@ python-rdflib
 python-ripe-atlas-cousteau
 python-ripe-atlas-sagan
 python-socketIO-client
+python-urwid
+qcodeedit
 qdox
 regexp
 ripe-atlas-tools
@@ -279,6 +283,7 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-capybara_minitest_spec
 rubygem-rails-observers
+rubygem-ruby-debug-base19
 RunSnakeRun
 scout
 sdljava
@@ -289,8 +294,11 @@ slf4j
 snakeyaml
 sonatype-oss-parent
 sonatype-plugins-parent
+spacewalk-web
+sportrop-fonts
 stax2-api
 stringtemplate4
+superkaramba
 tagsoup
 takari-archiver
 takari-filemanager
@@ -305,12 +313,15 @@ txw2
 udunits
 univocity-parsers
 unp
+vdr-weatherforecast
 velocity
+wicd
 woodstox-core
 xalan-j2
 xbean
 xml-maven-plugin
 xmlrpc
+xmms-lirc
 xmvn
 xom
 xsom
