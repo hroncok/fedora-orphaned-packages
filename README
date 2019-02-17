@@ -44,7 +44,6 @@ beust-jcommander
 blobby
 bsf
 bsh
-byaccj
 c3p0
 cal10n
 catkin
@@ -52,7 +51,6 @@ checkstyle
 clang5.0
 clang6.0
 codemodel
-comoonics-base-py
 dain-snappy
 dcm4che-test
 decentxml
@@ -87,7 +85,6 @@ geronimo-jms
 geronimo-jpa
 geronimo-jta
 geronimo-parent-poms
-ghc-hgettext
 glacier-cli
 glassfish-dtd-parser
 glassfish-fastinfoset
@@ -160,7 +157,9 @@ keybinder
 kohsuke-pom
 kxml
 labyrinth
+libFoundation
 libkexif
+libpanelappletmm
 log4j
 maven
 maven-antrun-plugin
@@ -265,17 +264,11 @@ python-genmsg
 python-genpy
 python-kafka
 python-lasagna
-python-nltk_lite
 python-pankoclient
-python-paver
 python-rdflib
 python-ripe-atlas-cousteau
 python-ripe-atlas-sagan
 python-socketIO-client
-python-sqlalchemy0.8
-python-ssh
-python-tag
-python-tgext-admin
 python-urwid
 qcodeedit
 qdox
@@ -291,7 +284,6 @@ rubygem-fakeweb
 rubygem-rails-observers
 RunSnakeRun
 scout
-sdljava
 SimplyHTML
 sisu
 sisu-mojos
@@ -312,10 +304,15 @@ takari-pom
 takari-tycho-support
 tesla-pom
 toothchart
+trac-condfieldsgenshi-plugin
 txw2
 udunits
 univocity-parsers
 unp
+util-linux-ng
+util-vserver
+utouch-evemu
+uxlaunch
 velocity
 wicd
 woodstox-core
@@ -331,4 +328,3 @@ xtv
 xword
 xz-java
 zinc
-zopfli
