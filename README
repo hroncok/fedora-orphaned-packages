@@ -55,13 +55,9 @@ dain-snappy
 dcm4che-test
 decentxml
 devilspie
-django-tagging
-django-typepad
 dnsyo
-dogtag-pki-tps-ui
 dom4j
 easymock
-eclipse-emf-mwe
 eclipse-m2e-antlr
 eclipse-m2e-buildhelper
 eclipse-m2e-core
@@ -100,6 +96,7 @@ google-gson
 google-guice
 gpars
 gradle
+grandr_applet
 groovy
 guava20
 hamster-time-tracker
@@ -158,12 +155,15 @@ junit5
 jvnet-parent
 kapow
 keybinder
+kile-i18n
 kohsuke-pom
+ksecrets
+ksplash-engine-moodin
 kxml
 labyrinth
+leksah
 libkexif
 log4j
-madplay
 maven
 maven-antrun-plugin
 maven-archetype
@@ -219,7 +219,6 @@ memaker
 mindi-busybox
 mingw-webkitgtk
 mingw-webkitgtk3
-mMass
 mnemonicsetter
 modello
 mojo-parent
@@ -317,6 +316,7 @@ wicd
 woodstox-core
 xalan-j2
 xbean
+xfce4-trigger-launcher
 xml-maven-plugin
 xmlrpc
 xmvn
