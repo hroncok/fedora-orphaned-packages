@@ -52,11 +52,15 @@ clang5.0
 clang6.0
 codemodel
 dain-snappy
+dansguardian
 dcm4che-test
 decentxml
 devilspie
+django-authority
 dnsyo
 dom4j
+doulos-fonts
+dvipdfm
 easymock
 eclipse-m2e-antlr
 eclipse-m2e-buildhelper
@@ -222,7 +226,6 @@ munge-maven-plugin
 nautilus-pastebin
 nekohtml
 netty
-notemeister
 ntetris
 nut-nutrition
 objectweb-asm3
@@ -257,8 +260,6 @@ python-ceilometermiddleware
 python-cookies
 python-django-post_office
 python-django-stopforumspam
-python-fedmsg-atomic-composer
-python-flask-mongoengine
 python-gencpp
 python-genlisp
 python-genmsg
@@ -285,7 +286,6 @@ rubygem-fakeweb
 rubygem-rails-observers
 RunSnakeRun
 scout
-sepostgresql
 SimplyHTML
 sisu
 sisu-mojos
@@ -296,9 +296,7 @@ sonatype-oss-parent
 sonatype-plugins-parent
 stax2-api
 stringtemplate4
-suck
 superkaramba
-syncthing-inotify
 tagsoup
 takari-archiver
 takari-filemanager
@@ -308,10 +306,8 @@ takari-plugin-testing
 takari-pom
 takari-tycho-support
 tesla-pom
-tinyows
 toothchart
 txw2
-udisks2-lvm
 udunits
 univocity-parsers
 unp
