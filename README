@@ -46,6 +46,7 @@ catkin
 checkstyle
 clang5.0
 clang6.0
+cmusphinx3
 codemodel
 dain-snappy
 dcm4che-test
@@ -75,6 +76,7 @@ felix-osgi-core
 felix-osgi-obr
 felix-utils
 gdesklets-goodweather
+gedit-collaboration
 geronimo-jaspic-spec
 geronimo-jms
 geronimo-jpa
@@ -221,17 +223,23 @@ ntetris
 nut-nutrition
 objectweb-asm3
 objectweb-pom
-oflb-icelandic-fonts
 okio
 opentest4j
 OSGi-bundle-ant-task
 osgi-compendium
 osgi-core
 os-maven-plugin
-osutil
-ovaldi
 pam_pkcs11
+perl-Catalyst-Plugin-Singleton
+perl-Catalyst-Plugin-Unicode-Encoding
 perl-Class-Gomor
+perl-Classic-Perl
+perl-Class-InsideOut
+perl-Class-MOP
+perl-Config-INI-MVP
+perl-Net-Write
+php-magpierss
+php-mmcache
 pl
 plexus-ant-factory
 plexus-archiver
@@ -251,7 +259,6 @@ plexus-languages
 plexus-resources
 plexus-utils
 plexus-velocity
-python-django-mako
 python-django-post_office
 python-django-stopforumspam
 python-gencpp
@@ -259,7 +266,6 @@ python-genlisp
 python-genmsg
 python-genpy
 python-lasagna
-python-psycopg
 python-urwid
 qblade
 qcodeedit
@@ -285,6 +291,8 @@ slf4j
 snakeyaml
 sonatype-oss-parent
 sonatype-plugins-parent
+sphinxbase
+sphinxtrain
 stax2-api
 stringtemplate4
 superkaramba
