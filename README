@@ -1,4 +1,3 @@
-abcMIDI
 aether-connector-okhttp
 ant-contrib
 antlr3
@@ -80,6 +79,7 @@ glassfish-fastinfoset
 glassfish-jaxb
 glassfish-jsp
 glassfish-jsp-api
+gnome-paint
 gnumed
 google-gson
 google-guice
@@ -218,7 +218,6 @@ osgi-compendium
 osgi-core
 os-maven-plugin
 pam_pkcs11
-perl-Gtk2-SourceView
 pl
 plexus-ant-factory
 plexus-archiver
@@ -238,9 +237,7 @@ plexus-languages
 plexus-resources
 plexus-utils
 plexus-velocity
-python-django-model-utils
 python-django-post_office
-python-django-profile
 python-django-stopforumspam
 python-gencpp
 python-genlisp
@@ -262,6 +259,7 @@ rubygem-fakeweb
 rubygem-rabl
 rubygem-rails-observers
 rubygem-riot
+scim-input-pad
 scout
 SimplyHTML
 sisu
@@ -273,7 +271,6 @@ sonatype-plugins-parent
 sphinxbase
 sphinxtrain
 stax2-api
-stichwort
 stringtemplate4
 superkaramba
 synaptic
@@ -285,7 +282,6 @@ takari-lifecycle
 takari-plugin-testing
 takari-pom
 takari-tycho-support
-tar-split
 tesla-pom
 toothchart
 txw2
@@ -293,14 +289,17 @@ udunits
 univocity-parsers
 velocity
 wicd
+wmblob
 woodstox-core
 xalan-j2
 xbean
 xcdroast
+xml-commons-which
 xml-maven-plugin
 xmlrpc
 xmvn
 xom
+xorg-x11-filesystem
 xsom
 xstream
 xtv
