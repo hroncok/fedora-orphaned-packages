@@ -25,7 +25,6 @@ apiguardian
 aqute-bnd
 args4j
 atinject
-audacious-plugins-docklet
 avalon-framework
 avalon-logkit
 base64coder
@@ -39,7 +38,6 @@ bsh
 c3p0
 cal10n
 catkin
-cdogs-data
 checkstyle
 clang5.0
 clang6.0
@@ -50,6 +48,7 @@ dcm4che-test
 decentxml
 devilspie
 easymock
+eclipse-cmakeed
 eclipse-m2e-antlr
 eclipse-m2e-buildhelper
 eclipse-m2e-core
@@ -66,6 +65,7 @@ eclipse-m2e-takari
 eclipse-m2e-tycho
 eclipse-m2e-workspace
 exec-maven-plugin
+fedorainfinity-gdm-theme
 felix-bundlerepository
 felix-osgi-obr
 felix-utils
@@ -81,6 +81,10 @@ glassfish-fastinfoset
 glassfish-jaxb
 glassfish-jsp
 glassfish-jsp-api
+gnome-applet-rhythmbox
+gnome-applet-window-picker
+gnome-audio
+gnome-shell-theme-gaia
 gnumed
 google-gson
 google-guice
@@ -144,7 +148,6 @@ kohsuke-pom
 kxml
 labyrinth
 libkexif
-libQtGTL
 log4j
 maven
 maven-antrun-plugin
