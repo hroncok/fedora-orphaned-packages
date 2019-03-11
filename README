@@ -48,7 +48,6 @@ dcm4che-test
 decentxml
 devilspie
 easymock
-eclipse-cmakeed
 eclipse-m2e-antlr
 eclipse-m2e-buildhelper
 eclipse-m2e-core
@@ -65,10 +64,14 @@ eclipse-m2e-takari
 eclipse-m2e-tycho
 eclipse-m2e-workspace
 exec-maven-plugin
-fedorainfinity-gdm-theme
+fedoraflyinghigh-gdm-theme
+fedora-review-plugin-java
 felix-bundlerepository
 felix-osgi-obr
 felix-utils
+fonts-chinese
+fonts-hebrew
+fonts-hebrew-fancy
 gdesklets-goodweather
 geronimo-jaspic-spec
 geronimo-jms
@@ -81,10 +84,6 @@ glassfish-fastinfoset
 glassfish-jaxb
 glassfish-jsp
 glassfish-jsp-api
-gnome-applet-rhythmbox
-gnome-applet-window-picker
-gnome-audio
-gnome-shell-theme-gaia
 gnumed
 google-gson
 google-guice
@@ -281,6 +280,8 @@ rubygem-rabl
 rubygem-rails-observers
 rubygem-riot
 scout
+seam-solder
+sear
 SimplyHTML
 sisu
 sisu-mojos
@@ -307,6 +308,7 @@ toothchart
 txw2
 udunits
 univocity-parsers
+upnp-inspector
 velocity
 wicd
 woodstox-core
