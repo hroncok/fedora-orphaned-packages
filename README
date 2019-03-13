@@ -66,9 +66,6 @@ exec-maven-plugin
 felix-bundlerepository
 felix-osgi-obr
 felix-utils
-fonts-hebrew
-fprint_demo
-gaim-otr
 gdesklets-goodweather
 geronimo-jaspic-spec
 geronimo-jms
@@ -213,13 +210,14 @@ nut-nutrition
 objectweb-asm3
 objectweb-pom
 okio
+openoffice-extras
 opentest4j
 OSGi-bundle-ant-task
 osgi-compendium
 osgi-core
 os-maven-plugin
 pam_pkcs11
-pdftk
+php-channel-theseer
 pl
 plexus-ant-factory
 plexus-archiver
@@ -254,7 +252,6 @@ rubygem-capybara_minitest_spec
 rubygem-fakeweb
 rubygem-fog
 rubygem-fog-atmos
-rubygem-fog-aws
 rubygem-fog-brightbox
 rubygem-fog-ecloud
 rubygem-fog-profitbricks
@@ -301,7 +298,6 @@ univocity-parsers
 velocity
 wicd
 woodstox-core
-wordtrans
 xalan-j2
 xbean
 xcdroast
