@@ -66,12 +66,17 @@ exec-maven-plugin
 felix-bundlerepository
 felix-osgi-obr
 felix-utils
+gant
+ganymed-ssh2
+gcfilms
 gdesklets-goodweather
 geronimo-jaspic-spec
 geronimo-jms
 geronimo-jpa
 geronimo-jta
 geronimo-parent-poms
+ghc-deepseq
+ghc-gtk2hs
 glacier-cli
 glassfish-dtd-parser
 glassfish-fastinfoset
@@ -90,10 +95,12 @@ hawtjni
 hoard
 httpcomponents-project
 httpunit
+hunspell-nn
 icu4j
 iris
 istack-commons
 jackson
+jakarta-commons-compress
 jakarta-commons-httpclient
 jansi
 jansi-native
@@ -135,6 +142,8 @@ junit
 junit5
 jvnet-parent
 kapow
+kasablanca
+katello-agent
 keybinder
 kohsuke-pom
 kxml
@@ -428,7 +437,6 @@ stax2-api
 stringtemplate4
 superkaramba
 synaptic
-system-config-soundcard
 tagsoup
 takari-archiver
 takari-filemanager
