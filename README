@@ -79,7 +79,6 @@ glassfish-jaxb
 glassfish-jsp
 glassfish-jsp-api
 gnumed
-google-gson
 google-guice
 gpars
 gradle
@@ -87,7 +86,6 @@ groovy
 guava20
 hamster-time-tracker
 hawtjni
-hoard
 httpcomponents-project
 httpunit
 icu4j
@@ -135,10 +133,12 @@ junit
 junit5
 jvnet-parent
 kapow
+kdelibs4
+kerneloops
+kernel-xen-2.6
 keybinder
 kohsuke-pom
 kxml
-labyrinth
 libkexif
 log4j
 maven
@@ -192,7 +192,6 @@ maven-surefire
 maven-verifier
 maven-wagon
 mchange-commons
-memaker
 mindi-busybox
 mingw-webkitgtk
 mingw-webkitgtk3
@@ -409,11 +408,11 @@ rubygem-fog-storm_on_demand
 rubygem-fog-terremark
 rubygem-fog-vmfusion
 rubygem-fog-voxel
+rubygem-kaminari
 rubygem-multipart
 rubygem-rabl
 rubygem-rails-observers
 rubygem-riot
-scout
 SimplyHTML
 sisu
 sisu-mojos
@@ -421,7 +420,6 @@ sketch
 snakeyaml
 sonatype-oss-parent
 sonatype-plugins-parent
-spec2scl
 sphinxbase
 sphinxtrain
 stax2-api
@@ -437,12 +435,14 @@ takari-plugin-testing
 takari-pom
 takari-tycho-support
 tesla-pom
-toothchart
 txw2
 udunits
 univocity-parsers
 velocity
 wicd
+wifiroamd
+wimax
+windowlab
 woodstox-core
 xalan-j2
 xbean
@@ -454,6 +454,5 @@ xom
 xsom
 xstream
 xtv
-xword
 xz-java
 zinc
