@@ -32,9 +32,11 @@ batik
 bcel
 bea-stax
 beust-jcommander
+bin2iso
 blobby
 bsf
 bsh
+c2050
 c3p0
 cal10n
 checkstyle
@@ -103,6 +105,7 @@ jbosscache-support
 jchardet
 jdepend
 jdependency
+jemmy
 jeromq
 jettison
 jetty
@@ -133,12 +136,11 @@ junit
 junit5
 jvnet-parent
 kapow
-kdelibs4
-kerneloops
-kernel-xen-2.6
 keybinder
+kmid
 kohsuke-pom
 kxml
+libertas-usb8388-firmware
 libkexif
 log4j
 maven
@@ -409,6 +411,7 @@ rubygem-fog-terremark
 rubygem-fog-vmfusion
 rubygem-fog-voxel
 rubygem-kaminari
+rubygem-map
 rubygem-multipart
 rubygem-rabl
 rubygem-rails-observers
@@ -420,6 +423,7 @@ sketch
 snakeyaml
 sonatype-oss-parent
 sonatype-plugins-parent
+spacewalk-certs-tools
 sphinxbase
 sphinxtrain
 stax2-api
@@ -435,14 +439,13 @@ takari-plugin-testing
 takari-pom
 takari-tycho-support
 tesla-pom
+tk-tktreectrl
+tlsdate
 txw2
 udunits
 univocity-parsers
 velocity
 wicd
-wifiroamd
-wimax
-windowlab
 woodstox-core
 xalan-j2
 xbean
