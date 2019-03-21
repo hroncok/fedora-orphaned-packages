@@ -1,3 +1,4 @@
+adminutil
 aether-connector-okhttp
 ant-contrib
 antlr3
@@ -36,7 +37,6 @@ bsf
 bsh
 c3p0
 cal10n
-ccid
 checkstyle
 clang5.0
 clang6.0
@@ -46,14 +46,14 @@ dain-snappy
 dcm4che-test
 decentxml
 devilspie
+django-contact-form
+django-sct
 easymock
 exec-maven-plugin
 felix-bundlerepository
 felix-osgi-obr
 felix-utils
 gdesklets-goodweather
-geda-gattrib
-geda-gsymcheck
 geronimo-jaspic-spec
 geronimo-jms
 geronimo-jpa
@@ -364,7 +364,6 @@ plexus-languages
 plexus-resources
 plexus-utils
 plexus-velocity
-pytc
 python-django-post_office
 python-django-stopforumspam
 python-lasagna
@@ -432,10 +431,14 @@ xbean
 xcdroast
 xml-maven-plugin
 xmlrpc
+xmms-acme
 xmvn
 xom
 xsom
 xstream
 xtv
 xz-java
+yumdaemon
+yum-presto
+zanata-common
 zinc
