@@ -1,4 +1,3 @@
-adminutil
 aether-connector-okhttp
 ant-contrib
 antlr3
@@ -46,10 +45,11 @@ dain-snappy
 dcm4che-test
 decentxml
 devilspie
-django-contact-form
-django-sct
 easymock
+ethumb
+evas_generic_loaders
 exec-maven-plugin
+fedora-ds-admin-console
 felix-bundlerepository
 felix-osgi-obr
 felix-utils
@@ -59,12 +59,14 @@ geronimo-jms
 geronimo-jpa
 geronimo-jta
 geronimo-parent-poms
+gestikk
 glacier-cli
 glassfish-dtd-parser
 glassfish-fastinfoset
 glassfish-jaxb
 glassfish-jsp
 glassfish-jsp-api
+gnome-vfs2-obexftp
 gnumed
 google-guice
 gpars
@@ -123,6 +125,7 @@ keybinder
 kohsuke-pom
 kxml
 libkexif
+libnftables
 log4j
 maven
 maven-antrun-plugin
@@ -391,6 +394,7 @@ rubygem-fog-storm_on_demand
 rubygem-fog-terremark
 rubygem-fog-vmfusion
 rubygem-fog-voxel
+rubygem-jnunemaker-matchy
 rubygem-kaminari
 rubygem-map
 rubygem-multipart
@@ -431,14 +435,10 @@ xbean
 xcdroast
 xml-maven-plugin
 xmlrpc
-xmms-acme
 xmvn
 xom
 xsom
 xstream
 xtv
 xz-java
-yumdaemon
-yum-presto
-zanata-common
 zinc
