@@ -1,5 +1,4 @@
 aether-connector-okhttp
-ant-contrib
 antlr3
 apache-commons-beanutils
 apache-commons-collections
@@ -33,6 +32,7 @@ cal10n
 checkstyle
 cmusphinx3
 codemodel
+cwiid
 dain-snappy
 decentxml
 devilspie
@@ -50,6 +50,7 @@ glassfish-fastinfoset
 glassfish-jaxb
 glassfish-jsp
 glassfish-jsp-api
+gnue-common
 gpars
 groovy
 hawtjni
@@ -60,6 +61,7 @@ iris
 istack-commons
 jackson
 jakarta-commons-httpclient
+jam-control
 jansi
 jansi-native
 javacc
@@ -101,8 +103,6 @@ keybinder
 kohsuke-pom
 kxml
 libkexif
-libtlen
-libtsm
 log4j
 maven-archetype
 maven-artifact-resolver
@@ -307,12 +307,16 @@ plexus-interactivity
 plexus-io
 plexus-languages
 plexus-resources
+prover9
+PyMca
 python-django-notifications-hq
+python-jabberbot
 python-lasagna
 python-port-for
 python-urwid
 qblade
 qcodeedit
+Ray
 regexp
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -332,9 +336,6 @@ rubygem-fog-storm_on_demand
 rubygem-fog-terremark
 rubygem-fog-vmfusion
 rubygem-fog-voxel
-rubygem-force_utf8
-rubygem-gemcutter
-rubygem-gem_plugin
 rubygem-jnunemaker-matchy
 rubygem-kaminari
 rubygem-map
