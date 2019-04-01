@@ -1,4 +1,5 @@
 aether-connector-okhttp
+anerley
 antlr3
 apache-commons-csv
 apache-commons-el
@@ -6,11 +7,17 @@ apache-commons-fileupload
 apache-james-project
 apache-logging-parent
 apache-mime4j
+arc-theme
 args4j
 bea-stax
 c3p0
+cdi-api11
+cfs
+clutter-imcontext
 cmusphinx3
 codemodel
+comgt
+cvsclient
 cwiid
 decentxml
 devilspie
@@ -43,6 +50,7 @@ jvnet-parent
 keybinder
 kohsuke-pom
 libkexif
+lightdm-gtk
 log4j
 maven-archetype
 maven-file-management
@@ -56,6 +64,7 @@ maven-shared-jar
 maven-site-plugin
 maven-stapler-plugin
 mchange-commons
+MegaMek
 mindi-busybox
 mingw-webkitgtk
 mingw-webkitgtk3
@@ -155,7 +164,6 @@ nodejs-lower-case-first
 nodejs-mkfiletree
 nodejs-multiline
 nodejs-next
-nodejs-nsp-api
 nodejs-onetime
 nodejs-oop
 nodejs-opn
@@ -169,7 +177,6 @@ nodejs-path-exists
 nodejs-pend
 nodejs-pify
 nodejs-portscanner
-nodejs-prismjs
 nodejs-private
 nodejs-proxy
 nodejs-recast
@@ -214,10 +221,6 @@ ntetris
 okio
 os-maven-plugin
 pam_pkcs11
-php-nette
-php-nette-caching
-php-pear-creole
-php-pecl-Fileinfo
 plexus-digest
 plexus-resources
 prover9
@@ -226,8 +229,6 @@ python-django-notifications-hq
 python-jabberbot
 python-lasagna
 python-port-for
-python-simplepath
-python-softlayer
 python-urwid
 qblade
 qcodeedit
@@ -259,13 +260,13 @@ rubygem-rails-observers
 rubygem-riot
 SimplyHTML
 sketch
+SOAPpy
 sphinxbase
 sphinxtrain
 stax2-api
 stringtemplate4
 superkaramba
 synaptic
-tagsoup
 takari-archiver
 takari-filemanager
 takari-incrementalbuild
@@ -274,6 +275,7 @@ takari-plugin-testing
 takari-pom
 takari-tycho-support
 tesla-pom
+thermald
 txw2
 udunits
 wicd
