@@ -1,6 +1,10 @@
 ahkab
 arc-theme
+at-spi
+blktool
 cmusphinx3
+compizconfig-backend-kconfig
+cputnik
 cwiid
 devilspie
 gdesklets-goodweather
@@ -11,15 +15,11 @@ jbosscache-support
 keybinder
 ktechlab
 libkexif
-libnsgif
 lightdm-gtk
 linsmith
 mindi-busybox
-mingw32-openjpeg
 mingw-webkitgtk
 mingw-webkitgtk3
-mozilla-firetray
-nocpulse-common
 nodejs-after
 nodejs-alter
 nodejs-ansidiff
@@ -165,8 +165,6 @@ nodejs-xregexp
 nodejs-yargs
 nodejs-zip-stream
 ntetris
-openstack-cinder
-pam_keyring
 pam_pkcs11
 prover9
 PyMca
