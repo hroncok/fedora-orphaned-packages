@@ -1,10 +1,6 @@
 ahkab
 arc-theme
-at-spi
-blktool
 cmusphinx3
-compizconfig-backend-kconfig
-cputnik
 cwiid
 devilspie
 gdesklets-goodweather
@@ -165,7 +161,9 @@ nodejs-xregexp
 nodejs-yargs
 nodejs-zip-stream
 ntetris
+ovirt-engine
 pam_pkcs11
+pfstmo
 prover9
 PyMca
 python-deltasigma
@@ -211,4 +209,5 @@ udunits
 wicd
 workrave
 xcdroast
+xorg-x11-drv-mach64
 xtv
