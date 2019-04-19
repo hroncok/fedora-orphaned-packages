@@ -12,11 +12,12 @@ gnome-shell-extension-panel-osd
 gnue-common
 jam-control
 jbosscache-support
-libvirt-qpid
 lightdm-gtk
 ltspfs
-maven-toolchains-plugin
+maven-one-plugin
 mindi-busybox
+moblin-panel-people
+moblin-panel-status
 ninja-ide
 nodejs-after
 nodejs-alter
@@ -164,9 +165,10 @@ nodejs-yargs
 nodejs-zip-stream
 ntetris
 pam_pkcs11
-petera
-pfstmo
 prover9
+publican-genome
+pulp-docker
+pulp-python
 PyMca
 python-deltasigma
 python-django-notifications-hq
@@ -175,7 +177,6 @@ python-lasagna
 python-port-for
 pywebkitgtk
 qblade
-qhttpengine
 Ray
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
