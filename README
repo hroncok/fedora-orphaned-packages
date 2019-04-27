@@ -10,8 +10,6 @@ gnome-shell-extension-panel-osd
 gnue-common
 jam-control
 jbosscache-support
-kimdaba
-kinput2
 lightdm-gtk
 ltspfs
 mindi-busybox
@@ -156,6 +154,7 @@ nodejs-xregexp
 nodejs-zip-stream
 ntetris
 pam_pkcs11
+plague
 prover9
 PyMca
 python-deltasigma
@@ -188,12 +187,13 @@ rubygem-jnunemaker-matchy
 rubygem-kaminari
 rubygem-map
 rubygem-multipart
+rubygem-openshift-origin-common
+rubygem-openshift-origin-dns-nsupdate
 rubygem-sprite-factory
 rubygem-webrat
-salinfo
-syncekonnector
-synce-serial
 tesla-pom
 thermald
 udunits
+xorg-x11-drv-i810
+xorg-x11-drv-mach64
 xtv
