@@ -1,5 +1,6 @@
 aeskulap
 ahkab
+cgoban
 cwiid
 dvdbackup
 emacs-pymacs
@@ -161,7 +162,10 @@ python-deltasigma
 python-django-notifications-hq
 python-jabberbot
 python-lasagna
+python-myghty
 python-port-for
+python-uuid
+python-virtinst
 pywebkitgtk
 Ray
 rubygem-boxgrinder-build
@@ -187,13 +191,15 @@ rubygem-jnunemaker-matchy
 rubygem-kaminari
 rubygem-map
 rubygem-multipart
-rubygem-openshift-origin-common
-rubygem-openshift-origin-dns-nsupdate
 rubygem-sprite-factory
 rubygem-webrat
 tesla-pom
+tetex
 thermald
+transifex
+trytond-google-translate
 udunits
-xorg-x11-drv-i810
-xorg-x11-drv-mach64
+utouch-evemu
+v4l2-tool
+vbetool
 xtv
