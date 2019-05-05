@@ -1,9 +1,5 @@
 aeskulap
 ahkab
-amaya
-bickley
-bin2iso
-ccss
 ceph-deploy
 clpbar
 cwiid
@@ -16,8 +12,6 @@ gnome-shell-extension-panel-osd
 gnue-common
 gpart
 h2
-infomas-asl
-itools
 jam-control
 jbosscache-support
 ltspfs
@@ -54,7 +48,6 @@ nodejs-constant-case
 nodejs-crc32-stream
 nodejs-dashdash
 nodejs-date-now
-nodejs-decompress-response
 nodejs-deferred
 nodejs-defs
 nodejs-degenerator
@@ -158,14 +151,11 @@ nodejs-verror
 nodejs-xregexp
 nodejs-zip-stream
 ntetris
-oflb-roadstencil-fonts
 pam_pkcs11
 plague
 prover9
-publican-genome
 python-deltasigma
 python-django-notifications-hq
-python-EnvisagePlugins
 python-jabberbot
 python-lasagna
 python-port-for
@@ -187,7 +177,4 @@ system-config-firewall
 tesla-pom
 thermald
 udunits
-xmms-lirc
-xmms-modplug
-xmms-skins
 xtv
