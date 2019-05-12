@@ -1,7 +1,5 @@
 aeskulap
 ahkab
-apt-maven-plugin
-bind-libbind
 ceph-deploy
 clpbar
 compat-openssl10-pkcs11-helper
@@ -14,12 +12,13 @@ gnome-shell-extension-panel-osd
 gnue-common
 gpart
 h2
+iwl6050-firmware
 jam-control
 jbosscache-support
-licq
-lslk
+jlint
+jmapviewer
+jogl
 ltspfs
-maven-doap-plugin
 mindi-busybox
 ninja-ide
 ntetris
@@ -32,6 +31,7 @@ python-jabberbot
 python-lasagna
 python-port-for
 pywebkitgtk
+qpackagekit
 Ray
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -39,8 +39,6 @@ rubygem-chunky_png
 rubygem-codemirror-rails
 rubygem-commander
 rubygem-compass-960-plugin
-rubygem-fog-voxel
-rubygem-gemcutter
 rubygem-jnunemaker-matchy
 rubygem-jquery-ui-rails
 rubygem-kaminari
@@ -48,10 +46,13 @@ rubygem-map
 rubygem-paranoia
 rubygem-sprite-factory
 rubygem-webrat
+sonata
+sugar-evince
 system-config-firewall
 tesla-pom
 testoob
 thermald
+tremfusion
+trytond-google-translate
 udunits
 xtv
-yumdaemon
