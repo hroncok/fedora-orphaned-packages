@@ -6,13 +6,14 @@ clpbar
 cmdtest
 compat-openssl10-pkcs11-helper
 dvdbackup
-eclipse-oprofile
 emacs-pymacs
 flr
 gdesklets-goodweather
 genbackupdata
+gnome-do-plugins
 gnome-dvb-daemon
 gnome-shell-extension-panel-osd
+gnome-specimen
 gnumed-server
 gpart
 gscribble
@@ -25,7 +26,6 @@ loopabull
 lrbd
 ltspfs
 mindi-busybox
-mingw32-OpenSceneGraph
 monkeysphere
 ninja-ide
 nodejs-array-uniq
@@ -33,11 +33,8 @@ ntetris
 pam_pkcs11
 pdc-updater
 plague
-pyfuzzy
 pyqt-mail-checker
-python-4Suite-XML
 python-cachy
-python-django-lint
 python-larch
 python-lasagna
 python-mandrill
