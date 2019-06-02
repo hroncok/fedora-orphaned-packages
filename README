@@ -31,12 +31,11 @@ ninja-ide
 nodejs-array-uniq
 ntetris
 pam_pkcs11
-pantheon-calculator
-parquet-format
 pdc-updater
-pdftohtml
-peg-solitaire
-perl-Net-Packet-Target
+php53-php-gettext
+phpFlickr
+phpMyAdmin3
+php-nette-utils
 plague
 pyqt-mail-checker
 python-cachy
