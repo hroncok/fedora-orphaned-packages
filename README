@@ -1,9 +1,8 @@
 aesh
 apiviz
+bc
 bean-validation-api
-bottlerocket
 cdi-api1
-ceelog
 ceph-deploy
 checkstyle
 clpbar
@@ -13,7 +12,6 @@ concurrent
 cookcc
 cookxml
 crypto-utils
-cssed
 cxf-build-utils
 cxf-xjc-utils
 emma
@@ -26,6 +24,7 @@ genbackupdata
 gnumed-server
 gpart
 gscribble
+gsl
 h2
 hibernate-commons-annotations
 hibernate-hql
@@ -134,11 +133,11 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-codemirror-rails
 rubygem-commander
-rubygem-hashery
 rubygem-jquery-ui-rails
 rubygem-kwalify
 rubygem-paranoia
 staxmapper
+telepathy-kde-accounts-kcm
 tesla-pom
 testoob
 the-new-hotness
@@ -150,7 +149,6 @@ weld-api
 weld-core
 weld-parent
 wordgroupz
-xfce4-trigger-launcher
 xnio
-xorg-x11-drv-aiptek
+xorg-x11-drv-magellan
 xtv
