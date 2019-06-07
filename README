@@ -117,8 +117,12 @@ opensaml-java-xmltooling
 owasp-esapi-java
 pam_pkcs11
 pdc-updater
+peg-solitaire
+perl-Bio-ASN1-EntrezGene
+perl-Bio-SamTools
 plague
 protostream
+purple-msn-pecan
 pyqt-mail-checker
 python-cachy
 python-fmn-lib
@@ -137,7 +141,6 @@ rubygem-jquery-ui-rails
 rubygem-kwalify
 rubygem-paranoia
 staxmapper
-telepathy-kde-accounts-kcm
 tesla-pom
 testoob
 the-new-hotness
@@ -148,7 +151,8 @@ undertow
 weld-api
 weld-core
 weld-parent
+wmSun
 wordgroupz
 xnio
-xorg-x11-drv-magellan
+xorg-x11-drv-sis
 xtv
