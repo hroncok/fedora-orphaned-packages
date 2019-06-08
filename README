@@ -21,6 +21,7 @@ felix-osgi-obr-resolver
 flr
 gdesklets-goodweather
 genbackupdata
+gnome-shell-extension-righthotcorner
 gnumed-server
 gpart
 gscribble
@@ -95,7 +96,11 @@ jline1
 jra
 jul-to-slf4j-stub
 jwebunit
+kadu
 kimchi
+kimdaba
+kipi-plugins
+klear
 libemu
 librtfcomp
 log4j-jboss-logmanager
@@ -103,6 +108,7 @@ loopabull
 lrbd
 ltspfs
 mindi-busybox
+mktemp
 mojarra
 monkeysphere
 mtools
@@ -117,12 +123,14 @@ opensaml-java-xmltooling
 owasp-esapi-java
 pam_pkcs11
 pdc-updater
-peg-solitaire
-perl-Bio-ASN1-EntrezGene
-perl-Bio-SamTools
+phatch
+php-extras
+php-nette-http
+php-pecl-Fileinfo
+picprog
 plague
+plexus-maven-plugin
 protostream
-purple-msn-pecan
 pyqt-mail-checker
 python-cachy
 python-fmn-lib
@@ -151,8 +159,6 @@ undertow
 weld-api
 weld-core
 weld-parent
-wmSun
 wordgroupz
 xnio
-xorg-x11-drv-sis
 xtv
