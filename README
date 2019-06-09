@@ -21,7 +21,6 @@ felix-osgi-obr-resolver
 flr
 gdesklets-goodweather
 genbackupdata
-gnome-shell-extension-righthotcorner
 gnumed-server
 gpart
 gscribble
@@ -96,11 +95,10 @@ jline1
 jra
 jul-to-slf4j-stub
 jwebunit
-kadu
+kde-plasma-alsa-volume
 kimchi
-kimdaba
-kipi-plugins
-klear
+kmid
+kmobiletools
 libemu
 librtfcomp
 log4j-jboss-logmanager
@@ -108,7 +106,6 @@ loopabull
 lrbd
 ltspfs
 mindi-busybox
-mktemp
 mojarra
 monkeysphere
 mtools
@@ -123,15 +120,10 @@ opensaml-java-xmltooling
 owasp-esapi-java
 pam_pkcs11
 pdc-updater
-phatch
-php-extras
-php-nette-http
-php-pecl-Fileinfo
-picprog
 plague
-plexus-maven-plugin
 protostream
 pyqt-mail-checker
+python-bash8
 python-cachy
 python-fmn-lib
 python-larch
