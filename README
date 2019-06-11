@@ -14,6 +14,10 @@ cookxml
 crypto-utils
 cxf-build-utils
 cxf-xjc-utils
+ease
+easymock2
+eclipse-gprof
+editarea
 emma
 fedocal
 felix-configadmin
@@ -95,6 +99,7 @@ jline1
 jra
 jul-to-slf4j-stub
 jwebunit
+kgtk
 kimchi
 libemu
 librtfcomp
@@ -142,11 +147,9 @@ totpcgi
 transmission-remote-cli
 udunits
 undertow
-vldocking
 weld-api
 weld-core
 weld-parent
 wordgroupz
 xnio
-xorg-x11-drv-neomagic
 xtv
