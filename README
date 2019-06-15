@@ -105,7 +105,6 @@ librtfcomp
 log4j-jboss-logmanager
 loopabull
 lrbd
-mate-menu-editor
 mindi-busybox
 mkdocs
 mkdocs-alabaster
@@ -120,7 +119,6 @@ mtools
 narayana
 netty-xnio-transport
 nodejs-array-uniq
-nodejs-from2
 ntetris
 opensaml-java
 opensaml-java-openws
@@ -134,9 +132,11 @@ protostream
 pyqt-mail-checker
 python3-curses_ex
 python3-pyjf3
+python-assimulo
 python-bash8
 python-cachy
 python-coveralls
+python-crane
 python-email_reply_parser
 python-filetype
 python-fmn-lib
@@ -146,6 +146,8 @@ python-larch
 python-lasagna
 python-livereload
 python-mandrill
+python-nevow
+python-nova-adminclient
 python-num2words
 python-pdfkit
 python-pg8000
@@ -158,6 +160,8 @@ python-tld
 python-validators
 python-windtalker
 repoview
+rodent-icon-theme
+ros-release
 rubygem-aws-sdk
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -166,6 +170,7 @@ rubygem-commander
 rubygem-jquery-ui-rails
 rubygem-kwalify
 rubygem-paranoia
+sentinella
 staxmapper
 tesla-pom
 testoob
