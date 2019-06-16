@@ -5,7 +5,9 @@ cdi-api1
 ceph-deploy
 checkstyle
 clpbar
+cmake28
 cmdtest
+colorscheme
 compat-openssl10-pkcs11-helper
 concurrent
 cookcc
@@ -23,10 +25,13 @@ fedocal
 felix-configadmin
 felix-osgi-obr-resolver
 flr
+gcfilms
+gchempaint
 gdesklets-goodweather
 genbackupdata
 gnome-shell-extension-simple-dock
 gnumed-server
+golang-github-cznic-mathutil
 gpart
 gscribble
 h2
@@ -35,6 +40,10 @@ hibernate-hql
 hibernate-jpa-2.0-api
 hibernate-search
 hibernate-validator
+i810switch
+ircd-hybrid
+ivman
+ivtv-utils
 jacorb
 jandex
 jaxws-jboss-httpserver-httpspi
@@ -120,6 +129,7 @@ narayana
 netty-xnio-transport
 nodejs-array-uniq
 ntetris
+okio
 opensaml-java
 opensaml-java-openws
 opensaml-java-xmltooling
@@ -132,11 +142,9 @@ protostream
 pyqt-mail-checker
 python3-curses_ex
 python3-pyjf3
-python-assimulo
 python-bash8
 python-cachy
 python-coveralls
-python-crane
 python-email_reply_parser
 python-filetype
 python-fmn-lib
@@ -146,8 +154,6 @@ python-larch
 python-lasagna
 python-livereload
 python-mandrill
-python-nevow
-python-nova-adminclient
 python-num2words
 python-pdfkit
 python-pg8000
@@ -160,8 +166,6 @@ python-tld
 python-validators
 python-windtalker
 repoview
-rodent-icon-theme
-ros-release
 rubygem-aws-sdk
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -170,7 +174,6 @@ rubygem-commander
 rubygem-jquery-ui-rails
 rubygem-kwalify
 rubygem-paranoia
-sentinella
 staxmapper
 tesla-pom
 testoob
