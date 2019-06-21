@@ -8,6 +8,7 @@ compat-openssl10-pkcs11-helper
 concurrent
 cookcc
 cookxml
+crun
 crypto-utils
 csvcat
 cxf-build-utils
@@ -22,8 +23,12 @@ flr
 gdesklets-goodweather
 genbackupdata
 gnome-shell-extension-simple-dock
+gnome-shell-extension-theme-selector
+gnome-shell-theme-elementary
 gnumed-server
+gobby
 gscribble
+gtg
 hibernate-commons-annotations
 hibernate-hql
 hibernate-jpa-2.0-api
@@ -31,6 +36,8 @@ hibernate-search
 hibernate-validator
 jacorb
 jandex
+java-1.5.0-gcj
+java-1.7.0-icedtea
 jaxws-jboss-httpserver-httpspi
 jaxws-undertow-httpspi
 jberet
@@ -90,6 +97,7 @@ jul-to-slf4j-stub
 jwebunit
 kaadbg
 kimchi
+kyum
 libemu
 librtfcomp
 log4j-jboss-logmanager
@@ -108,6 +116,7 @@ monkeysphere
 narayana
 netty-xnio-transport
 nodejs-array-uniq
+nodejs-rc
 ntetris
 opensaml-java
 opensaml-java-openws
@@ -147,15 +156,9 @@ repoview
 rubygem-aws-sdk
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-chunky_png
 rubygem-commander
-rubygem-github-linguist
-rubygem-haml-rails
 rubygem-kwalify
 rubygem-paranoia
-sfbm
-sfntly
-spring-installer
 staxmapper
 tesla-pom
 testoob
