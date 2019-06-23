@@ -117,6 +117,7 @@ pam_pkcs11
 pdc-updater
 php-maennchen-zipstream-php
 pintail
+polarssl
 protostream
 pyqt-mail-checker
 python2-django1.11
@@ -143,14 +144,18 @@ python-slugify
 python-tld
 python-validators
 python-windtalker
+qt5-qtdeclarative-render2d
 repoview
 rubygem-aws-sdk
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-commander
 rubygem-kwalify
+rubygem-moneta
 rubygem-paranoia
-showimg
+rubygem-robotex
+rubygem-rubigen
+rubygem-ruby-debug-base19
 staxmapper
 tesla-pom
 testoob
