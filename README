@@ -1,9 +1,11 @@
 aesh
+awn-extras-applets
 bean-validation-api
 cdi-api1
 checkstyle
 cmdtest
 concurrent
+configure-thinkpad
 containers
 cookcc
 cookxml
@@ -16,6 +18,9 @@ dreampie
 dsymbol
 dustmite
 earth-and-moon-backgrounds
+eclipse-emf-mwe
+editarea
+eds-feed
 emma
 faience-icon-theme
 fedocal
@@ -24,15 +29,10 @@ felix-osgi-obr-resolver
 flr
 gdesklets-goodweather
 genbackupdata
-ghc-time
 gl3n
-gnome-shell-extension-panel-osd
 gnome-shell-extension-simple-dock
-gnome-shell-search-fedora-packages
-gnome-shell-theme-dark-glass
 gnumed-server
 gscribble
-gtkd
 hibernate-commons-annotations
 hibernate-hql
 hibernate-jpa-2.0-api
@@ -100,9 +100,6 @@ jwebunit
 kaadbg
 ketchup
 kimchi
-kmid
-koffice
-ldc
 libdparse
 libemu
 librtfcomp
@@ -123,7 +120,10 @@ msgpack-d
 narayana
 netty-xnio-transport
 nodejs-array-uniq
+nodejs-parserlib
+nodejs-pascal-case
 ntetris
+obex-data-server
 opensaml-java
 opensaml-java-openws
 opensaml-java-xmltooling
@@ -148,7 +148,6 @@ python-pg8000
 python-pylev
 python-rauth
 python-windtalker
-qtcurve-kde4
 repoview
 rubygem-aws-sdk
 rubygem-binding_of_caller
@@ -169,6 +168,7 @@ weld-api
 weld-core
 weld-parent
 wordgroupz
+wordpress-plugin-add-to-any-subscribe
 xfce4-hamster-plugin
 xnio
 xtv
