@@ -2,7 +2,6 @@ aesh
 bean-validation-api
 cdi-api1
 checkstyle
-classworlds
 cmdtest
 concurrent
 containers
@@ -12,6 +11,7 @@ crypto-utils
 csvcat
 cxf-build-utils
 cxf-xjc-utils
+derby
 derelict
 dreampie
 dsymbol
@@ -23,8 +23,7 @@ fedocal
 felix-configadmin
 felix-osgi-obr-resolver
 flr
-freenx-client
-gaim-gadugadu
+gcompris
 gdesklets-goodweather
 genbackupdata
 gl3n
@@ -94,7 +93,7 @@ jdeparser
 jline1
 jra
 jul-to-slf4j-stub
-jwebunit
+justmoon
 kaadbg
 ketchup
 kimchi
@@ -122,16 +121,15 @@ ntetris
 opensaml-java
 opensaml-java-openws
 opensaml-java-xmltooling
-openslides
 owasp-esapi-java
 pam_pkcs11
-pbm2l7k
 pdc-updater
-pdftohtml
 php-maennchen-zipstream-php
 pintail
-PolicyKit
 protostream
+pymetar
+pympdtouchgui
+pyode
 pyqt-mail-checker
 python3-curses_ex
 python3-pyjf3
@@ -158,10 +156,7 @@ rubygem-kwalify
 rubygem-shotgun
 staxmapper
 stdx-allocator
-telepathy-kde-approver
 tesla-pom
-testoob
-thunar-shares-plugin
 transmission-remote-cli
 udunits
 undertow
