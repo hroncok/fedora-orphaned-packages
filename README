@@ -90,6 +90,7 @@ librtfcomp
 log4j-jboss-logmanager
 loopabull
 lrbd
+ltsp-utils
 mindi-busybox
 mkdocs
 mkdocs-alabaster
@@ -112,12 +113,9 @@ owasp-esapi-java
 pam_pkcs11
 pdc-updater
 php-maennchen-zipstream-php
-php-pecl-sphinx
-php-swift-Swift
 pintail
 protostream
 pyqt-mail-checker
-python26-crypto
 python3-curses_ex
 python3-pyjf3
 python-bash8
@@ -132,10 +130,6 @@ python-pg8000
 python-pylev
 python-rauth
 python-windtalker
-qtpfsgui
-quadkonsole
-queuegraph
-quickfix
 repoview
 rootplot
 rubygem-aws-sdk
@@ -149,14 +143,13 @@ rubygem-shotgun
 staxmapper
 stdx-allocator
 tesla-pom
-trabajo-fonts
 transmission-remote-cli
 udunits
 undertow
 weld-api
 weld-core
 wordgroupz
-wyrd
 xfce4-hamster-plugin
 xnio
+xorg-x11-drv-void
 xtv
