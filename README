@@ -1,5 +1,4 @@
 aesh
-bean-validation-api
 cdi-api1
 cmdtest
 concurrent
@@ -10,14 +9,12 @@ crypto-utils
 csvcat
 cxf-build-utils
 cxf-xjc-utils
-derby
 derelict
 dreampie
 dsymbol
 dustmite
 dvb-apps
 earth-and-moon-backgrounds
-faience-icon-theme
 fedocal
 felix-configadmin
 flr
@@ -43,7 +40,6 @@ jboss-classfilewriter
 jboss-common-core
 jboss-dmr
 jboss-ejb-3.1-api
-jboss-el-3.0-api
 jboss-httpserver
 jboss-iiop-client
 jboss-integration
@@ -55,7 +51,6 @@ jboss-jaxrpc-1.1-api
 jboss-logging-tools
 jboss-logmanager-log4j
 jboss-metadata
-jboss-modules
 jboss-msc
 jboss-negotiation
 jboss-remote-naming
@@ -64,12 +59,10 @@ jboss-remoting-jmx
 jboss-rmi-1.0-api
 jboss-saaj-1.3-api
 jboss-sasl
-jboss-servlet-3.1-api
 jboss-specs-parent
 jboss-stdio
 jboss-threads
 jboss-transaction-1.1-api
-jboss-transaction-1.2-api
 jboss-vfs
 jboss-web-native
 jboss-websocket-1.1-api
@@ -90,7 +83,8 @@ librtfcomp
 log4j-jboss-logmanager
 loopabull
 lrbd
-ltsp-utils
+matahari
+mate-conf
 mindi-busybox
 mkdocs
 mkdocs-alabaster
@@ -113,8 +107,10 @@ owasp-esapi-java
 pam_pkcs11
 pdc-updater
 php-maennchen-zipstream-php
+php-swift-Swift
 pintail
 protostream
+pulp-puppet
 pyqt-mail-checker
 python3-curses_ex
 python3-pyjf3
@@ -127,9 +123,9 @@ python-larch
 python-lasagna
 python-mandrill
 python-pg8000
-python-pylev
 python-rauth
 python-windtalker
+redhat-artwork
 repoview
 rootplot
 rubygem-aws-sdk
@@ -151,5 +147,4 @@ weld-core
 wordgroupz
 xfce4-hamster-plugin
 xnio
-xorg-x11-drv-void
 xtv
