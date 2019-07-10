@@ -1,3 +1,4 @@
+abe
 aesh
 cdi-api1
 cmdtest
@@ -15,6 +16,8 @@ dsymbol
 dustmite
 dvb-apps
 earth-and-moon-backgrounds
+eel2
+eeze
 fedocal
 felix-configadmin
 flr
@@ -29,9 +32,8 @@ hibernate-commons-annotations
 hibernate-hql
 hibernate-search
 hibernate-validator
-hoard
+httpress
 jacorb
-jakarta-commons-codec
 jandex
 jaxws-jboss-httpserver-httpspi
 jaxws-undertow-httpspi
@@ -77,7 +79,6 @@ jdeparser
 jra
 jul-to-slf4j-stub
 kaadbg
-kdirstat
 ketchup
 kimchi
 libdparse
@@ -86,6 +87,7 @@ librtfcomp
 log4j-jboss-logmanager
 loopabull
 lrbd
+meataxe
 mindi-busybox
 mkdocs
 mkdocs-alabaster
@@ -105,23 +107,16 @@ opensaml-java
 opensaml-java-openws
 opensaml-java-xmltooling
 owasp-esapi-java
-owncloud-csync
-oxine
-oxygen-gtk3
-pacemaker-cloud
 pam_pkcs11
 pdc-updater
 php-maennchen-zipstream-php
-php-symfony2-HttpFoundation
 pintail
-polipo
 protostream
-proxyknife
-prtconf
 pyqt-mail-checker
 python3-curses_ex
 python3-pyjf3
 python-bash8
+python-breathe
 python-coveralls
 python-fmn-lib
 python-googletrans
@@ -145,10 +140,8 @@ rubygem-shotgun
 staxmapper
 stdx-allocator
 tesla-pom
-tpctl
-trabajo-fonts
-trac-webadmin
 transmission-remote-cli
+trinity
 udunits
 undertow
 weld-api
