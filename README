@@ -3,10 +3,10 @@ activemq
 activemq-protobuf
 aesh
 aries-util
-beldi
 cdi-api1
-compat-rust-serde_derive
+comical
 concurrent
+condor-wallaby
 containers
 cookcc
 cookxml
@@ -22,14 +22,12 @@ dsymbol
 dustmite
 dvb-apps
 earth-and-moon-backgrounds
-eclipse-mylyn-tasks
 ehcache2
-evolution-couchdb
 fedocal
-fedoraflyinghigh-kdm-theme
-fedorainfinity-kdm-theme
 felix-configadmin
 felix-fileinstall
+fotowall
+fpaste-server
 gcompris
 gdesklets-goodweather
 generic-jms-ra
@@ -42,7 +40,6 @@ hibernate-commons-annotations
 hibernate-hql
 hibernate-search
 hibernate-validator
-hornetq
 httpcomponents-asyncclient
 httpress
 idlj-maven-plugin
@@ -96,10 +93,10 @@ jeromq
 jra
 jtds
 jul-to-slf4j-stub
-jumanji
 junit-benchmarks
 kaadbg
 ketchup
+ldd-pdf
 libdparse
 libemu
 log4j-jboss-logmanager
@@ -119,6 +116,7 @@ mojarra
 msgpack-d
 narayana
 netty-xnio-transport
+nodejs-fd-slicer
 ntetris
 openrdf-sesame
 opensaml-java
@@ -148,9 +146,6 @@ querydsl
 querydsl3
 reactor
 rootplot
-rospack
-ros-release
-rpm-ostree-toolbox
 rss2email
 rubygem-aws-sdk
 rubygem-binding_of_caller
@@ -181,4 +176,3 @@ xcape
 xfce4-hamster-plugin
 xnio
 xtv
-zorba
