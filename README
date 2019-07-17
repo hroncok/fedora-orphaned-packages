@@ -4,7 +4,6 @@ activemq-protobuf
 aesh
 aries-util
 cdi-api1
-cmap-cns1-6
 concurrent
 containers
 cookcc
@@ -22,12 +21,9 @@ dustmite
 dvb-apps
 earth-and-moon-backgrounds
 ehcache2
-emotion
-fdm
 fedocal
 felix-configadmin
 felix-fileinstall
-firehol
 gcompris
 gdesklets-goodweather
 generic-jms-ra
@@ -120,11 +116,20 @@ openrdf-sesame
 opensaml-java
 opensaml-java-openws
 opensaml-java-xmltooling
+openstack-neutron
+openvas-libnasl
 openwebbeans
 owasp-esapi-java
+pam_kcoda
+pam_keyring
+pam_ldap
 pam_pkcs11
 patricia-trie
 php-maennchen-zipstream-php
+php-pear-text-wiki
+php-pecl-Fileinfo
+php-pecl-parsekit
+php-pecl-pdo
 pintail
 protostream
 python3-curses_ex
@@ -138,7 +143,6 @@ python-lasagna
 python-pg8000
 python-rauth
 python-windtalker
-qcodeedit
 qpid-java
 querydsl
 querydsl3
@@ -153,8 +157,6 @@ rubygem-formtastic
 rubygem-jquery-datatables-rails
 rubygem-kwalify
 rubygem-shotgun
-rurple
-rust-crossbeam-epoch0.5
 spock
 springframework
 springframework-data-redis
@@ -164,7 +166,6 @@ stax-utils
 stdx-allocator
 swing-layout
 tesla-pom
-tetex-font-cm-lgc
 tiles
 trinity
 udunits
@@ -175,5 +176,6 @@ weld-core
 wildfly
 xcape
 xfce4-hamster-plugin
+xls2csv
 xnio
 xtv
