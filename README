@@ -3,7 +3,6 @@ aalto-xml
 activeio
 activemq
 activemq-protobuf
-aesh
 airline
 android-json-org-java
 android-opengl-api
@@ -18,7 +17,6 @@ apache-commons-jcs
 apache-commons-ognl
 apache-commons-pool2
 apache-commons-primitives
-apache-commons-vfs
 apacheds
 apacheds-jdbm
 apacheds-ldap-api
@@ -54,6 +52,7 @@ caledonia-kde-theme
 cas-client
 cdi-api
 cdi-api1
+chronojump
 classmate
 classycle
 cli-parser
@@ -97,7 +96,6 @@ ehcache2
 ehcache-core
 ehcache-parent
 ehcache-sizeof-agent
-esteidcerts
 evo-inflector
 extra166y
 fasterxml-oss-parent
@@ -106,7 +104,6 @@ felix-configadmin
 felix-fileinstall
 felix-scr-annotations
 felix-scr-generator
-firefox-32
 flatpack
 flyingsaucer
 freemarker
@@ -123,7 +120,7 @@ geronimo-jcdi-1.0-api
 geronimo-jcdi-1.1-api
 geronimo-txmanager
 geronimo-validation
-gfal
+ghc-type-level
 gherkin2-java
 gl3n
 glassfish-annotation-api
@@ -146,14 +143,12 @@ glassfish-saaj
 glassfish-toplink-essentials
 glassfish-transaction-api
 glassfish-websocket-api
+globalplatform
 gmavenplus-plugin
 gmetric4j
 gmetrics
-gnome-applet-window-picker
 gnome-shell-extension-simple-dock
 goffice08
-golang-github-cznic-lex
-golang-github-cznic-strutil
 google-http-java-client
 google-oauth-java-client
 greenmail
@@ -259,7 +254,6 @@ jboss-jacc-1.5-api
 jboss-jad-1.2-api
 jboss-jaspi-1.1-api
 jboss-jaxb-2.2-api
-jboss-jaxb-intros
 jboss-jaxr-1.0-api
 jboss-jaxrpc-1.1-api
 jboss-jaxrs-1.1-api
@@ -284,7 +278,6 @@ jboss-stdio
 jboss-threads
 jboss-transaction-1.1-api
 jboss-vfs
-jboss-web-native
 jboss-websocket-1.1-api
 jbossws-api
 jbossws-common
@@ -409,15 +402,12 @@ mybatis-parent
 mysema-apt-maven-plugin
 mysema-commons-lang
 mysql-connector-java
-narayana
 nar-maven-plugin
 native2ascii-maven-plugin
 native-platform
 neethi
 neko-htmlunit
 netty3
-netty-xnio-transport
-nodejs-duplex
 noggit
 ntetris
 okhttp
@@ -429,11 +419,8 @@ openid4java
 openjdk-orb
 openjpa
 opennlp
-openoffice.org
 openrdf-sesame
 opensaml-java
-opensaml-java-openws
-opensaml-java-xmltooling
 openshift-java-client
 openwebbeans
 ops4j-base
@@ -463,6 +450,7 @@ protoparser
 protostream
 proxool
 proxytoys
+pulp-puppet
 python3-curses_ex
 python3-pyjf3
 python-bash8
@@ -483,6 +471,11 @@ python-socketpool
 python-webtest
 python-windtalker
 python-WSGIProxy2
+pytorctl
+pytrainer
+pywcs
+pywebkitgtk
+pyxapian
 qpid-java
 qpid-jms
 qpid-proton-java
@@ -521,7 +514,6 @@ rubygem-sitemap_generator
 rubygem-warden
 rxjava
 sablecc
-samba4
 semweb4j
 serp
 shibboleth-java-parent-v3
@@ -567,7 +559,6 @@ staxmate
 stax-utils
 stdx-allocator
 struts
-stupid-package
 subethasmtp
 super-csv
 swagger-core
@@ -604,7 +595,9 @@ unit-api
 validator-htmlparser
 velocity-tools
 vint
+vixie-cron
 vorbis-java
+wacomexpresskeys
 webjars-locator
 webjars-locator-core
 weka
@@ -618,6 +611,7 @@ wildfly-core
 wildfly-elytron
 wildfly-security-manager
 woden
+wordpress-mu-plugin-defaults
 ws-xmlschema
 xapool
 xcape
@@ -628,7 +622,6 @@ xmlenc
 xml-security
 xmlstreambuffer
 xmpcore
-xnio
 xtv
 zkclient
 znerd-oss-parent
