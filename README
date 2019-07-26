@@ -44,6 +44,7 @@ aws-sdk-java
 axiom
 axion
 axis2
+bazaar
 boilerpipe
 bookkeeper
 btm
@@ -54,6 +55,7 @@ cdi-api
 classmate
 classycle
 cli-parser
+clutter-gtkmm
 codegen
 codenarc
 compress-lzf
@@ -85,6 +87,8 @@ ecc-25519-java
 eclipselink
 eclipselink-persistence-api
 eclipse-paho-mqtt-java
+eclipse-wtp-webservices
+eclipse-xtext
 ed25519-java
 ehcache2
 ehcache-core
@@ -101,7 +105,6 @@ flatpack
 flyingsaucer
 freemarker
 fusesource-pom
-gcompris
 gdesklets-goodweather
 gemini-blueprint
 generic-jms-ra
@@ -114,10 +117,6 @@ geronimo-jcdi-1.1-api
 geronimo-txmanager
 geronimo-validation
 gherkin2-java
-gkrellm-hddtemp
-gkrellmms
-gkrellm-themes
-gkrellm-weather
 gl3n
 glassfish-annotation-api
 glassfish-ejb-api
@@ -406,6 +405,7 @@ python-coveralls
 python-django-countries
 python-flask-script
 python-googletrans
+python-grapefruit
 python-honcho
 python-http-parser
 python-lasagna
@@ -491,6 +491,7 @@ springframework-ws
 spring-ldap
 spymemcached
 sqlite-jdbc
+sshfp
 sshj
 sslext
 stax-ex
@@ -513,10 +514,6 @@ thymeleaf
 tiger-types
 tika
 tiles
-tktable
-tlomt-orbitron-fonts
-tlsdate
-transmission-remote-cli
 treelayout
 trinity
 truecommons
@@ -540,6 +537,7 @@ vint
 vorbis-java
 webjars-locator
 webjars-locator-core
+webkit-sharp
 weka
 wildfly
 wildfly-arquillian
