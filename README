@@ -44,7 +44,6 @@ aws-sdk-java
 axiom
 axion
 axis2
-bazaar
 boilerpipe
 bookkeeper
 btm
@@ -55,7 +54,6 @@ cdi-api
 classmate
 classycle
 cli-parser
-clutter-gtkmm
 codegen
 codenarc
 compress-lzf
@@ -87,8 +85,6 @@ ecc-25519-java
 eclipselink
 eclipselink-persistence-api
 eclipse-paho-mqtt-java
-eclipse-wtp-webservices
-eclipse-xtext
 ed25519-java
 ehcache2
 ehcache-core
@@ -304,6 +300,8 @@ lettuce
 leveldb-java
 leveldbjni
 libdparse
+libgssglue
+libmsn
 libreadline-java
 lightcouch
 littleproxy
@@ -321,6 +319,9 @@ maven-shared-resources
 mavibot
 maxmind-db-java
 mckoi
+mediawiki123
+mediawiki-imagemap
+meego-cursor-theme
 metadata-extractor2
 meta-test-family
 metrics
@@ -384,6 +385,10 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
+perl-Gnome2-Print
+perl-qpid_proton
+perl-smartmatch-engine-core
+petitboot
 php-maennchen-zipstream-php
 picketlink
 picketlink-bindings
@@ -491,7 +496,6 @@ springframework-ws
 spring-ldap
 spymemcached
 sqlite-jdbc
-sshfp
 sshj
 sslext
 stax-ex
@@ -537,7 +541,6 @@ vint
 vorbis-java
 webjars-locator
 webjars-locator-core
-webkit-sharp
 weka
 wildfly
 wildfly-arquillian
