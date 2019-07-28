@@ -72,6 +72,7 @@ deltaspike
 derelict
 directory-project
 disruptor
+django-sorting
 dnssec4j
 dozer
 dreampie
@@ -220,9 +221,11 @@ jboss-batch-1.0-api
 jbosscache-support
 jboss-common-beans
 jboss-concurrency-1.0-api
+jboss-dmr
 jboss-ejb-3.2-api
 jboss-ejb3-ext-api
 jboss-ejb-client
+jboss-integration
 jboss-interceptors-1.2-api
 jboss-j2eemgmt-1.1-api
 jboss-jad-1.2-api
@@ -300,8 +303,6 @@ lettuce
 leveldb-java
 leveldbjni
 libdparse
-libgssglue
-libmsn
 libreadline-java
 lightcouch
 littleproxy
@@ -319,9 +320,6 @@ maven-shared-resources
 mavibot
 maxmind-db-java
 mckoi
-mediawiki123
-mediawiki-imagemap
-meego-cursor-theme
 metadata-extractor2
 meta-test-family
 metrics
@@ -385,10 +383,6 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
-perl-Gnome2-Print
-perl-qpid_proton
-perl-smartmatch-engine-core
-petitboot
 php-maennchen-zipstream-php
 picketlink
 picketlink-bindings
@@ -404,7 +398,6 @@ proxool
 proxytoys
 python3-curses_ex
 python3-pyjf3
-python-bash8
 python-CacheControl
 python-coveralls
 python-django-countries
@@ -415,10 +408,12 @@ python-honcho
 python-http-parser
 python-lasagna
 python-lockfile
+python-networking-cisco
 python-pg8000
 python-rauth
 python-restkit
 python-rpyc
+python-socketIO-client
 python-socketpool
 python-webtest
 python-windtalker
@@ -450,13 +445,16 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-CFPropertyList
 rubygem-fission
+rubygem-fog-riakcs
 rubygem-formtastic
 rubygem-jquery-datatables-rails
 rubygem-ldap_fluff
+rubygem-ParseTree
 rubygem-rails_warden
 rubygem-shotgun
 rubygem-sitemap_generator
 rubygem-warden
+ruby-hpricot
 rxjava
 sablecc
 semweb4j
@@ -527,6 +525,7 @@ tuscany-parent
 tuscany-sdo-java
 tyrus
 ua-parser-java
+udev-extras
 udunits
 uima-addons
 uimaj
