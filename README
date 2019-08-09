@@ -63,7 +63,6 @@ cssparser
 csvjdbc
 curve25519-java
 curvesapi
-cwirc
 dagger
 dbunit
 deltaspike
@@ -85,11 +84,14 @@ ehcache-core
 ehcache-parent
 ehcache-sizeof-agent
 elementary
+emacs-common-ebib
+emacs-pymacs
 enunciate
 evo-inflector
 extra166y
 ezmorph
 fasterxml-oss-parent
+fast-user-switch-applet
 fastutil
 felix-scr-annotations
 felix-scr-generator
@@ -108,6 +110,7 @@ geronimo-jcdi-1.0-api
 geronimo-jcdi-1.1-api
 geronimo-txmanager
 geronimo-validation
+gettext
 gherkin2-java
 gilmsg
 gitflow
@@ -353,6 +356,10 @@ native-platform
 neethi
 neko-htmlunit
 netty3
+nodejs-pegjs
+nodejs-pem
+nodejs-pend
+nodejs-portscanner
 noggit
 ntetris
 okhttp
@@ -432,6 +439,8 @@ python-sparklines
 python-tw2-forms
 python-tw2-jqplugins-ui
 python-tw2-jquery
+python-visual
+python-vorbis
 python-webtest
 python-WSGIProxy2
 python-zc-buildout
@@ -566,7 +575,6 @@ vorbis-java
 wdfs
 webjars-locator
 webjars-locator-core
-WebKit
 weka
 wildfly-arquillian
 wildfly-build-tools
@@ -574,16 +582,11 @@ wildfly-common
 wildfly-core
 wildfly-elytron
 wildfly-security-manager
-wmwave
 woden
-wordpress-plugin-add-to-any
 wss4j
 ws-xmlschema
 xapool
 xcape
-xfce4-hamster-plugin
-xfce4-minicmd-plugin
-xfce4-stopwatch-plugin
 xmlbeans
 xmlbeans-maven-plugin
 xmlenc
