@@ -84,14 +84,11 @@ ehcache-core
 ehcache-parent
 ehcache-sizeof-agent
 elementary
-emacs-common-ebib
-emacs-pymacs
 enunciate
 evo-inflector
 extra166y
 ezmorph
 fasterxml-oss-parent
-fast-user-switch-applet
 fastutil
 felix-scr-annotations
 felix-scr-generator
@@ -306,6 +303,8 @@ lettuce
 leveldb-java
 leveldbjni
 libdparse
+libopensync-plugin-google-calendar
+libpanelappletmm
 libreadline-java
 libsvm
 libUnihan
@@ -336,6 +335,7 @@ minidns
 minimal-json
 minlog
 mojo-keytool
+moksha
 mongo-java-driver2
 morfologik-stemming
 morphia
@@ -356,10 +356,6 @@ native-platform
 neethi
 neko-htmlunit
 netty3
-nodejs-pegjs
-nodejs-pem
-nodejs-pend
-nodejs-portscanner
 noggit
 ntetris
 okhttp
@@ -386,8 +382,8 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
+perl-Catalyst-Plugin-Unicode-Encoding
 pgtoolkit
-php-maennchen-zipstream-php
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -395,6 +391,8 @@ picketlink
 picketlink-bindings
 picocontainer
 planner
+plasma-mobile
+plexus-maven-plugin
 plexus-pom
 portals-pom
 portlet-2.0-api
@@ -415,6 +413,7 @@ python-cligj
 python-coverage_pth
 python-django-cors-headers
 python-django-jsonfield
+python-django-notifications-hq
 python-django-rest-framework-composed-permissions
 python-fabulous
 python-flask-script
@@ -439,8 +438,6 @@ python-sparklines
 python-tw2-forms
 python-tw2-jqplugins-ui
 python-tw2-jquery
-python-visual
-python-vorbis
 python-webtest
 python-WSGIProxy2
 python-zc-buildout
