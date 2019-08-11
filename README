@@ -52,6 +52,7 @@ cdi-api
 classmate
 classycle
 cli-parser
+cloud-init
 cmake-fedora
 codegen
 codenarc
@@ -107,7 +108,6 @@ geronimo-jcdi-1.0-api
 geronimo-jcdi-1.1-api
 geronimo-txmanager
 geronimo-validation
-gettext
 gherkin2-java
 gilmsg
 gitflow
@@ -135,7 +135,9 @@ glazedlists
 gmavenplus-plugin
 gmetric4j
 gmetrics
+gnome-vfsmm26
 goffice08
+golang-github-tjfoc-gmsm
 google-http-java-client
 greenmail
 grizzly
@@ -303,8 +305,6 @@ lettuce
 leveldb-java
 leveldbjni
 libdparse
-libopensync-plugin-google-calendar
-libpanelappletmm
 libreadline-java
 libsvm
 libUnihan
@@ -382,7 +382,6 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
-perl-Catalyst-Plugin-Unicode-Encoding
 pgtoolkit
 picketbox
 picketbox-commons
@@ -391,8 +390,6 @@ picketlink
 picketlink-bindings
 picocontainer
 planner
-plasma-mobile
-plexus-maven-plugin
 plexus-pom
 portals-pom
 portlet-2.0-api
@@ -407,13 +404,12 @@ python-anymarkup-core
 python-asciitree
 python-behave
 python-bitlyapi
+python-boto
 python-CacheControl
 python-cairosvg
-python-cligj
 python-coverage_pth
 python-django-cors-headers
 python-django-jsonfield
-python-django-notifications-hq
 python-django-rest-framework-composed-permissions
 python-fabulous
 python-flask-script
@@ -457,6 +453,7 @@ quartz
 rabbitmq-java-client
 radiotray
 randomizedtesting
+R-bigmemory
 reactive-streams
 redis-protocol
 reflectasm
@@ -584,6 +581,9 @@ wss4j
 ws-xmlschema
 xapool
 xcape
+xfce4-stopwatch-plugin
+xfce4-wmdock-plugin
+xfce4-xfapplet-plugin
 xmlbeans
 xmlbeans-maven-plugin
 xmlenc
