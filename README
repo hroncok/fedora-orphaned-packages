@@ -1,6 +1,7 @@
 7kaa
 99soft-oss-parent
 aalto-xml
+aimage
 airline
 android-json-org-java
 android-opengl-api
@@ -44,6 +45,7 @@ bing
 bitlyclip
 boilerpipe
 bookkeeper
+breathe
 btm
 bval
 caledonia-kde-theme
@@ -135,9 +137,7 @@ glazedlists
 gmavenplus-plugin
 gmetric4j
 gmetrics
-gnome-vfsmm26
 goffice08
-golang-github-tjfoc-gmsm
 google-http-java-client
 greenmail
 grizzly
@@ -359,6 +359,8 @@ netty3
 noggit
 ntetris
 okhttp
+olpc-logos
+online-desktop
 opencsv
 openhft-affinity
 openhft-chronicle-queue
@@ -382,6 +384,7 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
+perl-SVN-Mirror
 pgtoolkit
 picketbox
 picketbox-commons
@@ -398,6 +401,8 @@ protobuf-java-format
 protoparser
 proxool
 proxytoys
+pyevent
+pyicq-t
 python26
 python-anymarkup
 python-anymarkup-core
@@ -453,7 +458,6 @@ quartz
 rabbitmq-java-client
 radiotray
 randomizedtesting
-R-bigmemory
 reactive-streams
 redis-protocol
 reflectasm
@@ -581,9 +585,6 @@ wss4j
 ws-xmlschema
 xapool
 xcape
-xfce4-stopwatch-plugin
-xfce4-wmdock-plugin
-xfce4-xfapplet-plugin
 xmlbeans
 xmlbeans-maven-plugin
 xmlenc
