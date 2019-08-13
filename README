@@ -1,7 +1,6 @@
 7kaa
 99soft-oss-parent
 aalto-xml
-aimage
 airline
 android-json-org-java
 android-opengl-api
@@ -45,7 +44,6 @@ bing
 bitlyclip
 boilerpipe
 bookkeeper
-breathe
 btm
 bval
 caledonia-kde-theme
@@ -145,6 +143,9 @@ grizzly-npn
 groovy18
 gsbase
 gs-collections
+guacamole
+guacamole-common-js
+guidance-power-manager
 hawtbuf
 hawtdb
 hawtdispatch
@@ -174,6 +175,8 @@ impressjs
 irclib
 ironjacamar
 itext
+iwl4965-firmware
+iwl6000-firmware
 jackcess
 jackcess-encrypt
 jackson-annotations
@@ -327,7 +330,10 @@ mavibot
 maxmind-db-java
 mckoi
 metadata-extractor2
+metagoofil
 metrics
+mfiler2
+miau
 mimepull
 mindi-busybox
 mingw-admesh
@@ -356,11 +362,11 @@ native-platform
 neethi
 neko-htmlunit
 netty3
+nodejs-domutils
+nodejs-timed-out
 noggit
 ntetris
 okhttp
-olpc-logos
-online-desktop
 opencsv
 openhft-affinity
 openhft-chronicle-queue
@@ -384,7 +390,6 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
-perl-SVN-Mirror
 pgtoolkit
 picketbox
 picketbox-commons
@@ -401,15 +406,12 @@ protobuf-java-format
 protoparser
 proxool
 proxytoys
-pyevent
-pyicq-t
 python26
 python-anymarkup
 python-anymarkup-core
 python-asciitree
 python-behave
 python-bitlyapi
-python-boto
 python-CacheControl
 python-cairosvg
 python-coverage_pth
@@ -478,7 +480,6 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-CFPropertyList
 rubygem-fission
-rubygem-formtastic
 rubygem-jquery-datatables-rails
 rubygem-ldap_fluff
 rubygem-rails_warden
