@@ -4,7 +4,6 @@ aalto-xml
 accumulo
 adevs
 airline
-aldrin
 android-json-org-java
 android-opengl-api
 annogen
@@ -43,7 +42,6 @@ aws-sdk-java
 axiom
 axion
 axis2
-bcfg2
 bing
 bitlyclip
 boilerpipe
@@ -53,7 +51,6 @@ bval
 caledonia-kde-theme
 cas-client
 cdi-api
-cjkunifonts
 classmate
 classycle
 cli-parser
@@ -88,7 +85,6 @@ eclipselink
 eclipselink-persistence-api
 eclipse-paho-mqtt-java
 ed25519-java
-egoboo-data
 ehcache-core
 ehcache-parent
 ehcache-sizeof-agent
@@ -234,7 +230,6 @@ jboss-ejb-3.2-api
 jboss-ejb3-ext-api
 jboss-ejb-client
 jboss-interceptors-1.2-api
-jboss-invocation
 jboss-j2eemgmt-1.1-api
 jboss-jacc-1.4-api
 jboss-jad-1.2-api
@@ -307,8 +302,6 @@ junitperf
 juniversalchardet
 jwnl
 jxmpp
-kde-plasma-milou
-kde-plasma-runcommand
 kryo
 kryo-serializers
 langdetect
@@ -320,11 +313,10 @@ leveldbjni
 libcommuni
 libdparse
 libeio
+libhtp
 libreadline-java
 libsvm
 libUnihan
-libxfce4mcs
-libxfce4menu
 lightcouch
 littleproxy
 log4j12
@@ -387,6 +379,7 @@ openjpa
 opennlp
 openprops
 openshift-java-client
+openstack-ironic
 ops4j-base
 ops4j-master
 orafce
@@ -445,6 +438,10 @@ python-offtrac
 python-pathtools
 python-pep8
 python-pykalman
+python-quixote
+python-rauth
+python-releases
+python-remoteobjects
 python-restauth
 python-restauth-common
 python-restkit
@@ -452,12 +449,12 @@ python-rpyc
 python-scales
 python-socketpool
 python-sparklines
-python-sprox
 python-tw2-forms
 python-tw2-jqplugins-ui
 python-tw2-jquery
 python-webtest
 python-WSGIProxy2
+python-yamllint
 python-zc-buildout
 python-zc-customdoctests
 python-zc-lockfile
@@ -500,11 +497,7 @@ rubygem-fission
 rubygem-jquery-datatables-rails
 rubygem-ldap_fluff
 rubygem-rails_warden
-rubygem-simple_form
-rubygem-single_test
 rubygem-sitemap_generator
-rubygem-sprite-factory
-rubygem-sqlite3-ruby
 rubygem-warden
 rxjava
 sablecc
