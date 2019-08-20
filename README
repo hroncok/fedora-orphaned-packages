@@ -53,11 +53,11 @@ bvi
 caledonia-kde-theme
 cas-client
 cdi-api
+centericq
 checkdns
 classmate
 classycle
 cli-parser
-cloud-init
 cmake-fedora
 codegen
 codenarc
@@ -91,7 +91,6 @@ ehcache-core
 ehcache-parent
 ehcache-sizeof-agent
 elementary
-emacs-identica-mode
 enunciate
 evo-inflector
 extra166y
@@ -139,8 +138,6 @@ glassfish-toplink-essentials
 glassfish-transaction-api
 glassfish-websocket-api
 glazedlists
-globus-gram-job-manager-setup-lsf
-globus-gram-job-manager-setup-pbs
 gmavenplus-plugin
 gmetric4j
 gmetrics
@@ -164,6 +161,7 @@ hibernate-jpa-2.1-api
 hibernate-jpamodelgen
 high-scale-lib
 HikariCP
+HotEqn
 howl-logger
 hpack
 hppc
@@ -370,8 +368,6 @@ native-platform
 neethi
 neko-htmlunit
 netty3
-nodejs-linify
-nodejs-snake-case
 noggit
 ntetris
 okhttp
@@ -422,7 +418,6 @@ python-asciitree
 python-behave
 python-bibtex
 python-bitlyapi
-python-CacheControl
 python-cairosvg
 python-coverage_pth
 python-django-cors-headers
@@ -432,11 +427,11 @@ python-fabulous
 python-flask-script
 python-flickrapi
 python-flup
+python-fmn-consumer
 python-geojson
 python-http-parser
 python-jeepney
 python-lasagna
-python-lockfile
 python-logging-tree
 python-marshmallow-enum
 python-nine
@@ -451,7 +446,6 @@ python-rpyc
 python-scales
 python-socketpool
 python-sparklines
-python-turbojson13
 python-tw2-forms
 python-tw2-jqplugins-ui
 python-tw2-jquery
@@ -527,7 +521,8 @@ rubygem-CFPropertyList
 rubygem-fission
 rubygem-ldap_fluff
 rubygem-rails_warden
-rubygem-right_aws
+rubygem-simple_form
+rubygem-single_test
 rubygem-sitemap_generator
 rubygem-warden
 R-widgetTools
@@ -535,10 +530,11 @@ rxjava
 R-XML
 R-xtable
 sablecc
+sarai-fonts
+sasquatch
+sblim-cmpi-dns
 scim-array
 scim-chewing
-scim-python
-scim-sinhala
 scim-tables
 semweb4j
 serp
@@ -586,11 +582,8 @@ stax-ex
 staxmate
 struts
 subethasmtp
-sunbird
-sunifdef
 super-csv
 swagger-core
-swh-plugins
 swizzle
 sxc
 taipeifonts
@@ -608,6 +601,7 @@ trac-mastertickets-plugin
 treelayout
 trinity
 truecommons-parent
+TurboGears
 tuscany-parent
 tuscany-sdo-java
 tyrus
