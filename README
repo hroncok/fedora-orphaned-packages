@@ -22,6 +22,7 @@ apacheds-jdbm
 apacheds-ldap-api
 apache-poi
 apfloat-java
+arandr
 argparse4j
 aries-blueprint-annotation-api
 aries-blueprint-api
@@ -43,21 +44,21 @@ aws-sdk-java
 axiom
 axion
 axis2
+belier
 bing
 bitlyclip
 boilerpipe
 bookkeeper
 btm
 bval
-bvi
 caledonia-kde-theme
 cas-client
 cdi-api
-centericq
 checkdns
 classmate
 classycle
 cli-parser
+cloudtoserver
 cmake-fedora
 codegen
 codenarc
@@ -75,12 +76,12 @@ dbunit
 deltaspike
 dfish
 directory-project
+disper
 disruptor
 dnssec4j
 dnstracer
 dozer
 dtdparser
-dvb-apps
 dynalink
 easybashgui
 eclipselink
@@ -117,6 +118,8 @@ geronimo-validation
 gherkin2-java
 gilmsg
 gitflow
+gitosis
+gjots2
 glassfish-annotation-api
 glassfish-ejb-api
 glassfish-enterprise-concurrent
@@ -143,6 +146,7 @@ gmetric4j
 gmetrics
 gob2
 goffice08
+googlecl
 google-http-java-client
 greenmail
 grizzly
@@ -150,6 +154,7 @@ grizzly-npn
 groovy18
 gsbase
 gs-collections
+halberd
 hawtbuf
 hawtdb
 hawtdispatch
@@ -161,7 +166,7 @@ hibernate-jpa-2.1-api
 hibernate-jpamodelgen
 high-scale-lib
 HikariCP
-HotEqn
+hntool
 howl-logger
 hpack
 hppc
@@ -248,6 +253,7 @@ jboss-jsf-2.2-api
 jboss-logging-tools1
 jboss-naming
 jboss-transaction-spi
+jboss-web-native
 jbossws-cxf
 jbzip2
 jcharset
@@ -305,6 +311,7 @@ junitperf
 juniversalchardet
 jwnl
 jxmpp
+key-mon
 kryo
 kryo-serializers
 langdetect
@@ -317,6 +324,7 @@ libcommuni
 libdivecomputer
 libeio
 libexif-gtk3
+libprojectM-qt
 libreadline-java
 libsvm
 libUnihan
@@ -368,6 +376,10 @@ native-platform
 neethi
 neko-htmlunit
 netty3
+nodejs-ast-traverse
+nodejs-grunt-util-process
+nodejs-grunt-util-property
+nodejs-proxy
 noggit
 ntetris
 okhttp
@@ -394,7 +406,9 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
+perl-Math-Clipper
 pgtoolkit
+php-laconica
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -521,8 +535,6 @@ rubygem-CFPropertyList
 rubygem-fission
 rubygem-ldap_fluff
 rubygem-rails_warden
-rubygem-simple_form
-rubygem-single_test
 rubygem-sitemap_generator
 rubygem-warden
 R-widgetTools
@@ -530,9 +542,6 @@ rxjava
 R-XML
 R-xtable
 sablecc
-sarai-fonts
-sasquatch
-sblim-cmpi-dns
 scim-array
 scim-chewing
 scim-tables
@@ -601,7 +610,6 @@ trac-mastertickets-plugin
 treelayout
 trinity
 truecommons-parent
-TurboGears
 tuscany-parent
 tuscany-sdo-java
 tyrus
