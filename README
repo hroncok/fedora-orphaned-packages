@@ -154,6 +154,8 @@ grizzly-npn
 groovy18
 gsbase
 gs-collections
+gtweakui
+guidance-power-manager
 halberd
 hawtbuf
 hawtdb
@@ -253,7 +255,6 @@ jboss-jsf-2.2-api
 jboss-logging-tools1
 jboss-naming
 jboss-transaction-spi
-jboss-web-native
 jbossws-cxf
 jbzip2
 jcharset
@@ -288,6 +289,7 @@ johnzon
 josql
 jpf
 jpfcodegen
+jra
 jredis
 jsendnsca
 jsilver
@@ -311,6 +313,7 @@ junitperf
 juniversalchardet
 jwnl
 jxmpp
+katello-agent
 key-mon
 kryo
 kryo-serializers
@@ -324,7 +327,6 @@ libcommuni
 libdivecomputer
 libeio
 libexif-gtk3
-libprojectM-qt
 libreadline-java
 libsvm
 libUnihan
@@ -376,10 +378,6 @@ native-platform
 neethi
 neko-htmlunit
 netty3
-nodejs-ast-traverse
-nodejs-grunt-util-process
-nodejs-grunt-util-property
-nodejs-proxy
 noggit
 ntetris
 okhttp
@@ -406,9 +404,7 @@ pdfbox
 pdfbox1
 pdf-renderer
 pegdown
-perl-Math-Clipper
 pgtoolkit
-php-laconica
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -419,11 +415,13 @@ planner
 plexus-pom
 portals-pom
 portlet-2.0-api
+prelink
 properties-maven-plugin
 protobuf-java-format
 protoparser
 proxool
 proxytoys
+pybackpack
 pybliographer
 python26
 python-anymarkup
@@ -445,6 +443,7 @@ python-fmn-consumer
 python-geojson
 python-http-parser
 python-jeepney
+python-larch
 python-lasagna
 python-logging-tree
 python-marshmallow-enum
@@ -477,6 +476,8 @@ python-zope-i18n
 python-zope-processlifetime
 python-zope-proxy
 python-zope-sequencesort
+pytyrant
+pywcs
 qpid-jms
 quartz
 rabbitmq-java-client
@@ -529,12 +530,16 @@ R-ROC
 R-statmod
 R-tkWidgets
 rubygem-ascii_binder
+rubygem-audited
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-CFPropertyList
 rubygem-fission
+rubygem-hike
+rubygem-journey
 rubygem-ldap_fluff
 rubygem-rails_warden
+rubygem-rbovirt
 rubygem-sitemap_generator
 rubygem-warden
 R-widgetTools
