@@ -154,8 +154,6 @@ grizzly-npn
 groovy18
 gsbase
 gs-collections
-gtweakui
-guidance-power-manager
 halberd
 hawtbuf
 hawtdb
@@ -289,7 +287,6 @@ johnzon
 josql
 jpf
 jpfcodegen
-jra
 jredis
 jsendnsca
 jsilver
@@ -313,7 +310,6 @@ junitperf
 juniversalchardet
 jwnl
 jxmpp
-katello-agent
 key-mon
 kryo
 kryo-serializers
@@ -327,6 +323,7 @@ libcommuni
 libdivecomputer
 libeio
 libexif-gtk3
+libnsgif
 libreadline-java
 libsvm
 libUnihan
@@ -378,8 +375,11 @@ native-platform
 neethi
 neko-htmlunit
 netty3
+nodejs-portfinder
+nodejs-portscanner
 noggit
 ntetris
+nwsclient
 okhttp
 opencsv
 openhft-affinity
@@ -415,13 +415,11 @@ planner
 plexus-pom
 portals-pom
 portlet-2.0-api
-prelink
 properties-maven-plugin
 protobuf-java-format
 protoparser
 proxool
 proxytoys
-pybackpack
 pybliographer
 python26
 python-anymarkup
@@ -443,13 +441,13 @@ python-fmn-consumer
 python-geojson
 python-http-parser
 python-jeepney
-python-larch
 python-lasagna
 python-logging-tree
 python-marshmallow-enum
 python-nine
 python-offtrac
 python-pathtools
+python-paver
 python-pep8
 python-pykalman
 python-restauth
@@ -459,6 +457,7 @@ python-rpyc
 python-scales
 python-socketpool
 python-sparklines
+python-sqlalchemy0.3
 python-tw2-forms
 python-tw2-jqplugins-ui
 python-tw2-jquery
@@ -476,8 +475,6 @@ python-zope-i18n
 python-zope-processlifetime
 python-zope-proxy
 python-zope-sequencesort
-pytyrant
-pywcs
 qpid-jms
 quartz
 rabbitmq-java-client
@@ -498,7 +495,6 @@ R-BufferedMatrixMethods
 R-caTools
 R-DynDoc
 reactive-streams
-recode
 redis-protocol
 reflectasm
 reflections
@@ -535,6 +531,7 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-CFPropertyList
 rubygem-fission
+rubygem-fog
 rubygem-hike
 rubygem-journey
 rubygem-ldap_fluff
