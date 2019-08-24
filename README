@@ -98,6 +98,9 @@ extra166y
 ezmorph
 fasterxml-oss-parent
 fastutil
+feclipse-maven-plugin
+fedocal
+fedora-ds
 felix-scr-annotations
 felix-scr-generator
 flatpack
@@ -115,6 +118,7 @@ geronimo-jcdi-1.0-api
 geronimo-jcdi-1.1-api
 geronimo-txmanager
 geronimo-validation
+gfa
 gherkin2-java
 gilmsg
 gitflow
@@ -144,6 +148,7 @@ glazedlists
 gmavenplus-plugin
 gmetric4j
 gmetrics
+gnome-shell-extension-fedmsg
 gob2
 goffice08
 googlecl
@@ -154,6 +159,8 @@ grizzly-npn
 groovy18
 gsbase
 gs-collections
+gtraffic
+guimup
 halberd
 hawtbuf
 hawtdb
@@ -323,7 +330,6 @@ libcommuni
 libdivecomputer
 libeio
 libexif-gtk3
-libnsgif
 libreadline-java
 libsvm
 libUnihan
@@ -353,6 +359,7 @@ mined
 mingw-admesh
 minidns
 minimal-json
+minirpc
 minlog
 mojo-keytool
 moksha
@@ -375,9 +382,11 @@ native-platform
 neethi
 neko-htmlunit
 netty3
-nodejs-portfinder
-nodejs-portscanner
 noggit
+nopaste
+notecase
+notification-daemon-engine-slider
+novprog
 ntetris
 nwsclient
 okhttp
@@ -447,7 +456,6 @@ python-marshmallow-enum
 python-nine
 python-offtrac
 python-pathtools
-python-paver
 python-pep8
 python-pykalman
 python-restauth
@@ -457,7 +465,6 @@ python-rpyc
 python-scales
 python-socketpool
 python-sparklines
-python-sqlalchemy0.3
 python-tw2-forms
 python-tw2-jqplugins-ui
 python-tw2-jquery
@@ -531,10 +538,11 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-CFPropertyList
 rubygem-fission
-rubygem-fog
 rubygem-hike
 rubygem-journey
 rubygem-ldap_fluff
+rubygem-pervasives
+rubygem-rack-ssl
 rubygem-rails_warden
 rubygem-rbovirt
 rubygem-sitemap_generator
@@ -637,6 +645,7 @@ wildfly-common
 wildfly-core
 wildfly-elytron
 wildfly-security-manager
+wmbinclock
 woden
 wss4j
 ws-xmlschema
