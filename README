@@ -47,6 +47,7 @@ axis2
 belier
 bing
 bitlyclip
+blokkal
 boilerpipe
 bookkeeper
 btm
@@ -58,6 +59,7 @@ checkdns
 classmate
 classycle
 cli-parser
+clojure
 cloudtoserver
 cmake-fedora
 codegen
@@ -98,9 +100,6 @@ extra166y
 ezmorph
 fasterxml-oss-parent
 fastutil
-feclipse-maven-plugin
-fedocal
-fedora-ds
 felix-scr-annotations
 felix-scr-generator
 flatpack
@@ -108,7 +107,11 @@ flyingsaucer
 focuswriter
 freemarker
 fusesource-pom
+g3data
+galago-filesystem
 gdesklets-goodweather
+gdk-pixbuf
+gdnet
 gemini-blueprint
 gentlyweb-utils
 geolatte-geom
@@ -118,7 +121,6 @@ geronimo-jcdi-1.0-api
 geronimo-jcdi-1.1-api
 geronimo-txmanager
 geronimo-validation
-gfa
 gherkin2-java
 gilmsg
 gitflow
@@ -148,19 +150,17 @@ glazedlists
 gmavenplus-plugin
 gmetric4j
 gmetrics
-gnome-shell-extension-fedmsg
 gob2
 goffice08
 googlecl
 google-http-java-client
+grapefruit
 greenmail
 grizzly
 grizzly-npn
 groovy18
 gsbase
 gs-collections
-gtraffic
-guimup
 halberd
 hawtbuf
 hawtdb
@@ -359,7 +359,6 @@ mined
 mingw-admesh
 minidns
 minimal-json
-minirpc
 minlog
 mojo-keytool
 moksha
@@ -383,10 +382,6 @@ neethi
 neko-htmlunit
 netty3
 noggit
-nopaste
-notecase
-notification-daemon-engine-slider
-novprog
 ntetris
 nwsclient
 okhttp
@@ -437,6 +432,7 @@ python-asciitree
 python-behave
 python-bibtex
 python-bitlyapi
+PythonCAD
 python-cairosvg
 python-coverage_pth
 python-django-cors-headers
@@ -541,8 +537,6 @@ rubygem-fission
 rubygem-hike
 rubygem-journey
 rubygem-ldap_fluff
-rubygem-pervasives
-rubygem-rack-ssl
 rubygem-rails_warden
 rubygem-rbovirt
 rubygem-sitemap_generator
@@ -588,6 +582,7 @@ springframework-security
 springframework-social
 springframework-social-twitter
 spring-ldap
+Sprog
 spymemcached
 sqlite-jdbc
 sshj
@@ -645,7 +640,6 @@ wildfly-common
 wildfly-core
 wildfly-elytron
 wildfly-security-manager
-wmbinclock
 woden
 wss4j
 ws-xmlschema
