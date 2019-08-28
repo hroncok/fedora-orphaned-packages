@@ -37,6 +37,7 @@ aries-proxy-api
 aries-proxy-impl
 aries-quiesce-api
 aries-quiesce-manager
+arptools
 artemis
 artemis-wildfly-integration
 aspectjweaver
@@ -53,6 +54,7 @@ bing
 bitlyclip
 boilerpipe
 bookkeeper
+boxes
 btm
 bval
 c3p0
@@ -65,7 +67,6 @@ classmate
 classycle
 cli-parser
 clojure
-cmake-fedora
 codegen
 codenarc
 compat-openssl10
@@ -88,6 +89,7 @@ dnssec4j
 dnstracer
 dozer
 dtdparser
+dwdiff
 dynalink
 easybashgui
 eclipselink
@@ -111,12 +113,9 @@ flatpack
 flyingsaucer
 focuswriter
 freemarker
+fsniper
 fusesource-pom
-fyre
-g3data
-gai-pal
 gdesklets-goodweather
-gedit-latex-plugin
 gemini-blueprint
 gentlyweb-utils
 geolatte-geom
@@ -128,10 +127,8 @@ geronimo-jcdi-1.1-api
 geronimo-txmanager
 geronimo-validation
 gherkin2-java
-gilmsg
 gitflow
 gitosis
-gjots2
 glassfish-annotation-api
 glassfish-ejb-api
 glassfish-enterprise-concurrent
@@ -169,7 +166,6 @@ groovy
 groovy18
 gsbase
 gs-collections
-g-wrap
 halberd
 hawtbuf
 hawtdb
@@ -192,10 +188,7 @@ htmlunit-core-js
 htrace
 http-builder
 httpdtap
-httpress
 httpunit
-ibus-chewing
-ibus-fbterm
 impressjs
 irclib
 ironjacamar
@@ -344,7 +337,6 @@ leveldb-java
 leveldbjni
 libcommuni
 libdivecomputer
-libdlo
 libeio
 libexif-gtk3
 libreadline-java
@@ -378,12 +370,10 @@ minidns
 minimal-json
 minlog
 mojo-keytool
-moksha
 mongo-java-driver2
 morfologik-stemming
 morphia
 mqtt-client
-msv
 mustache-java
 mvel
 mybatis
@@ -391,6 +381,7 @@ mybatis-generator
 mybatis-parent
 mysema-apt-maven-plugin
 mysema-commons-lang
+mysql
 mysql-connector-java
 nar-maven-plugin
 native2ascii-maven-plugin
@@ -398,6 +389,7 @@ native-platform
 neethi
 neko-htmlunit
 netty3
+nodejs-after
 noggit
 ntetris
 nwsclient
@@ -416,7 +408,6 @@ openshift-java-client
 ops4j-base
 ops4j-master
 orafce
-packagedb-cli
 pam_pkcs11
 paranamer
 parboiled
@@ -426,6 +417,7 @@ pdfbox1
 pdf-renderer
 pegdown
 pgtoolkit
+php-nette-bootstrap
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -441,7 +433,7 @@ protobuf-java-format
 protoparser
 proxool
 proxytoys
-pybliographer
+pv
 python26
 python-anymarkup
 python-anymarkup-core
@@ -459,7 +451,6 @@ python-fabulous
 python-flask-script
 python-flickrapi
 python-flup
-python-fmn-consumer
 python-geojson
 python-grafyaml
 python-http-parser
@@ -484,6 +475,7 @@ python-tw2-jquery
 python-zc-buildout
 python-zc-customdoctests
 python-zdaemon
+python-zipp
 python-zope-contenttype
 python-zope-datetime
 python-zope-dottedname
@@ -513,7 +505,6 @@ R-DynDoc
 reactive-streams
 redis-protocol
 reflectasm
-reflections
 remotetea
 replacer
 restlet-jse
@@ -540,7 +531,6 @@ R-rlecuyer
 R-ROC
 R-statmod
 R-tkWidgets
-ruby-activerecord
 rubygem-ascii_binder
 rubygem-audited
 rubygem-boxgrinder-build
@@ -621,10 +611,8 @@ thredds
 thymeleaf
 tiger-types
 tika
-tomoe-gtk
 trac-mastertickets-plugin
 treelayout
-trinity
 truecommons-parent
 tuscany-parent
 tuscany-sdo-java
@@ -666,12 +654,10 @@ xmlstreambuffer
 xmpcore
 Xnee
 xom
-xorg-x11-drv-i740
 xsettingsd
 xtuple-csvimp
 xtv
 zanata-util
-zapplet
 zhcon
 zinc
 zkclient
