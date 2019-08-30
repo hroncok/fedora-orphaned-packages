@@ -1,11 +1,15 @@
 7kaa
 99soft-oss-parent
+access-modifier-annotation
 accumulo
+acegisecurity
 adevs
 airline
+akuma
 android-json-org-java
 android-opengl-api
 annogen
+annotation-indexer
 annox
 apache-commons-chain
 apache-commons-configuration2
@@ -22,8 +26,10 @@ apache-commons-primitives
 apacheds
 apacheds-jdbm
 apacheds-ldap-api
+apache-mina
 apache-poi
 apache-rat
+apache-sshd
 apfloat-java
 argparse4j
 aries-blueprint-annotation-api
@@ -53,8 +59,11 @@ bitlyclip
 boilerpipe
 bookkeeper
 boxes
+bridge-method-injector
 btm
+bundling-detection-java
 bval
+bytecode-compatibility-transformer
 c3p0
 caledonia-kde-theme
 cas-client
@@ -67,7 +76,9 @@ clojure
 codegen
 codenarc
 compat-openssl10
+compat-openssl10-pkcs11-helper
 concurrentlinkedhashmap-lru
+constant-pool-scanner
 cryptacular
 cssparser
 csvjdbc
@@ -102,10 +113,13 @@ fastutil
 felix-scr-annotations
 felix-scr-generator
 flatpack
+flickrnet
 flyingsaucer
 focuswriter
 freemarker
 fsniper
+gai
+gail
 gdesklets-goodweather
 gemini-blueprint
 gentlyweb-utils
@@ -149,6 +163,7 @@ grizzly
 grizzly-npn
 groovy
 groovy18
+groovy-sandbox
 gsbase
 gs-collections
 halberd
@@ -210,6 +225,7 @@ jaxb2-common-basics
 jaxb2-fluent-api
 jaxb2-maven-plugin
 jazzy
+jBCrypt
 jbosh
 jboss-batch-1.0-api
 jbosscache-support
@@ -247,6 +263,12 @@ jdiff
 jdo2-api
 je
 jedis
+jenkins
+jenkins-executable-war
+jenkins-task-reactor
+jenkins-version-number
+jenkins-winstone
+jenkins-xstream
 jericho-html
 jeromq
 jersey
@@ -267,6 +289,7 @@ jide-oss
 jipijapa
 jline1
 jmatio
+jmdns
 jmh
 jmxutils
 johnzon
@@ -274,6 +297,8 @@ josql
 jpf
 jpfcodegen
 jredis
+jruby-maven-plugins
+js-CodeMirror
 jsendnsca
 jsilver
 jsmpp
@@ -296,6 +321,7 @@ junitperf
 juniversalchardet
 jwnl
 jxmpp
+kdetv
 key-mon
 kohsuke-pom
 kryo
@@ -310,15 +336,16 @@ libcommuni
 libdivecomputer
 libeio
 libexif-gtk3
+libpam4j
 libreadline-java
 libsvm
 libUnihan
 lightcouch
 littleproxy
+localizer
 lorem-ipsum-generator
 lucene3
 mapdb
-mate-file-manager-share
 maven-jaxb2-plugin
 maven-mapping
 maven-native
@@ -329,6 +356,7 @@ maxmind-db-java
 mchange-commons
 mckoi
 metadata-extractor2
+metainf-services
 metrics
 mimepull
 mindi-busybox
@@ -355,9 +383,6 @@ native-platform
 neethi
 neko-htmlunit
 netty3
-nodejs-got
-nodejs-grunt-angular-templates
-nodejs-grunt-contrib-connect
 noggit
 ntetris
 nwsclient
@@ -396,6 +421,7 @@ protoparser
 proxool
 proxytoys
 pv
+PyAmanith
 python26
 python-anymarkup
 python-anymarkup-core
@@ -404,7 +430,6 @@ python-asciitree
 python-behave
 python-bibtex
 python-bitlyapi
-python-cairosvg
 python-coverage_pth
 python-django-cors-headers
 python-django-jsonfield
@@ -429,7 +454,6 @@ python-restauth
 python-restauth-common
 python-restkit
 python-rpyc
-python-scales
 python-socketpool
 python-sparklines
 python-tw2-jqplugins-ui
@@ -446,7 +470,9 @@ python-zope-i18n
 python-zope-processlifetime
 python-zope-proxy
 python-zope-sequencesort
+qmdnsengine
 qpid-jms
+qpxtool
 quartz
 rabbitmq-java-client
 radiotray
@@ -483,6 +509,7 @@ rkward
 R-maanova
 R-multtest
 rngom
+robust-http-client
 rocoto
 R-pls
 rpmlint-scl-config
@@ -512,6 +539,7 @@ scim-chewing
 scim-tables
 semweb4j
 serp
+sezpoz
 shflags
 shibboleth-java-parent-v3
 shibboleth-java-support
@@ -541,6 +569,7 @@ springframework-social-twitter
 spring-ldap
 sqlite-jdbc
 sslext
+stapler-adjunct-timeline
 stardict-dic-en
 stardict-dic-ja
 stardict-dic-ru
@@ -566,6 +595,8 @@ tiger-types
 tika
 trac-mastertickets-plugin
 treelayout
+trilead-putty-extension
+trilead-ssh2
 truecommons-parent
 tuscany-parent
 tuscany-sdo-java
