@@ -56,7 +56,6 @@ axis2
 belier
 bing
 bitlyclip
-blogtk
 boilerpipe
 bookkeeper
 boxes
@@ -74,7 +73,6 @@ classmate
 classycle
 cli-parser
 clojure
-cloudfs
 codegen
 codenarc
 compat-openssl10
@@ -89,14 +87,10 @@ dagger
 dbunit
 deltaspike
 dfish
-diorite
 directory-project
 disper
 dnssec4j
 dnstracer
-dnsyo
-dogtag-pki-ocsp-ui
-dogtag-pki-tps-ui
 dozer
 dtdparser
 dwdiff
@@ -152,14 +146,13 @@ glassfish-toplink-essentials
 glassfish-transaction-api
 glassfish-websocket-api
 glazedlists
+gmavenplus-plugin
 gmetric4j
 gmetrics
 gob2
-golang-github-xtaci-smux
 googlecl
 google-http-java-client
 gpars
-gpasman
 greenmail
 grizzly
 grizzly-npn
@@ -168,7 +161,6 @@ groovy18
 groovy-sandbox
 gsbase
 gs-collections
-gtg
 halberd
 hawtbuf
 hawtdb
@@ -179,7 +171,6 @@ hibernate
 hibernate4
 hibernate-jpa-2.1-api
 hibernate-jpamodelgen
-hibernate-validator
 high-scale-lib
 HikariCP
 hntool
@@ -193,8 +184,6 @@ htrace
 http-builder
 httpdtap
 httpunit
-idesk
-idjc
 impressjs
 irclib
 ironjacamar
@@ -303,6 +292,7 @@ jpf
 jpfcodegen
 jredis
 jruby-maven-plugins
+jsch-agent-proxy
 js-CodeMirror
 jsendnsca
 jsilver
@@ -347,6 +337,7 @@ libUnihan
 lightcouch
 littleproxy
 localizer
+logback
 lorem-ipsum-generator
 lucene3
 mapdb
@@ -369,6 +360,7 @@ mingw-admesh
 minidns
 minimal-json
 minlog
+mojito
 mojo-keytool
 mongo-java-driver2
 morfologik-stemming
@@ -387,10 +379,12 @@ native-platform
 neethi
 neko-htmlunit
 netty3
+nodejs-timed-out
+nodejs-uglify-js
 noggit
-nomnom
 ntetris
 nwsclient
+ocsinventory-agent
 okhttp
 opencsv
 openhft-affinity
@@ -408,10 +402,11 @@ ops4j-master
 orafce
 pam_pkcs11
 paranamer
+parchive
 pax-logging
 pdfbox1
-perl-Elasticsearch
-perl-Email-MIME-Modifier
+perl-Gnome2-Print
+perl-Gtk2-MozEmbed
 pgtoolkit
 picketbox
 picketbox-commons
@@ -570,7 +565,9 @@ springframework-security
 springframework-social
 springframework-social-twitter
 spring-ldap
+spymemcached
 sqlite-jdbc
+sshj
 sslext
 stapler-adjunct-timeline
 stardict-dic-en
@@ -606,7 +603,6 @@ tuscany-sdo-java
 tyrus
 ua-parser-java
 udunits
-ueagle-atm4-firmware
 uima-addons
 uimaj
 uima-parent-pom
@@ -627,8 +623,6 @@ wildfly-common
 wildfly-core
 wildfly-elytron
 wildfly-security-manager
-wmix
-wmtictactoe
 woden
 wss4j
 ws-xmlschema
