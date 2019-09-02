@@ -20,6 +20,7 @@ apache-commons-fileupload
 apache-commons-javaflow
 apache-commons-jci
 apache-commons-jcs
+apache-commons-launcher
 apache-commons-ognl
 apache-commons-pool2
 apache-commons-primitives
@@ -108,6 +109,10 @@ enunciate
 evo-inflector
 ezmorph
 fastutil
+felix-framework
+felix-main
+felix-osgi-compendium
+felix-osgi-foundation
 felix-scr-annotations
 felix-scr-generator
 flatpack
@@ -206,6 +211,7 @@ jamon-parent
 jamon-processor
 jamon-runtime
 jandex-maven-plugin
+jarjar
 jastow
 jasypt
 jatl
@@ -213,6 +219,7 @@ java-hll
 java-libpst
 java-oauth
 javasqlite
+java-uuid-generator
 javawriter
 java-xmlbuilder
 jaxb2-basics-annotate
@@ -360,7 +367,6 @@ mingw-admesh
 minidns
 minimal-json
 minlog
-mojito
 mojo-keytool
 mongo-java-driver2
 morfologik-stemming
@@ -379,11 +385,13 @@ native-platform
 neethi
 neko-htmlunit
 netty3
-nodejs-timed-out
-nodejs-uglify-js
+nodejs-proxy
 noggit
 ntetris
 nwsclient
+ocaml-cmigrep
+ocaml-config-file
+ocaml-pa-do
 ocsinventory-agent
 okhttp
 opencsv
@@ -402,11 +410,8 @@ ops4j-master
 orafce
 pam_pkcs11
 paranamer
-parchive
 pax-logging
 pdfbox1
-perl-Gnome2-Print
-perl-Gtk2-MozEmbed
 pgtoolkit
 picketbox
 picketbox-commons
@@ -441,6 +446,7 @@ python-flup
 python-geojson
 python-grafyaml
 python-http-parser
+python-ipaddress
 python-jeepney
 python-lasagna
 python-logging-tree
@@ -632,6 +638,7 @@ xmlbeans
 xmlbeans-maven-plugin
 xmlenc
 xmlrpc
+XmlSchema
 xml-security
 xmpcore
 Xnee
