@@ -134,6 +134,7 @@ fsniper
 fuse-python
 gadget
 gdesklets-goodweather
+geda-gnetlist
 gemini-blueprint
 gentlyweb-utils
 geolatte-geom
@@ -168,6 +169,7 @@ glazedlists
 gmavenplus-plugin
 gmetric4j
 gmetrics
+gnaughty
 gnome-doc-utils
 gob2
 googlecl
@@ -181,7 +183,6 @@ groovy18
 groovy-sandbox
 gsbase
 gs-collections
-gsh
 gtkparasite
 halberd
 hawtbuf
@@ -208,9 +209,9 @@ httpdtap
 httpunit
 icaro
 impressjs
-ip6sic
 irclib
 ironjacamar
+istanbul
 itext
 jackcess
 jackcess-encrypt
@@ -334,6 +335,7 @@ json-path
 json_simple
 json-smart
 jsslutils
+jthread
 jtoaster
 jts
 jtype
@@ -450,6 +452,9 @@ patcher
 pax-logging
 pdfbox1
 pgtoolkit
+phetsarath-fonts
+php-nette-reflection
+php-nette-tester
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -460,6 +465,8 @@ pilas
 pipestat
 pius
 planner
+poker2d
+poker-eval
 portals-pom
 portlet-2.0-api
 powerpc-utils-python
@@ -477,6 +484,7 @@ python-APScheduler
 python-asciitree
 python-behave
 python-bitlyapi
+python-CDDB
 python-django-jsonfield
 python-django-rest-framework-composed-permissions
 python-fabulous
@@ -708,15 +716,12 @@ wtop
 xapool
 xhotkeys
 xinput_calibrator
-xlogin
 xmlbeans
 xmlbeans-maven-plugin
 xmlenc
 xmlrpc
 XmlSchema
 xml-security
-xmms-skins
-xmms-speex
 xmpcore
 Xnee
 xom
