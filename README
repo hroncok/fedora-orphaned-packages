@@ -134,7 +134,6 @@ fsniper
 fuse-python
 gadget
 gdesklets-goodweather
-geda-gnetlist
 gemini-blueprint
 gentlyweb-utils
 geolatte-geom
@@ -169,7 +168,6 @@ glazedlists
 gmavenplus-plugin
 gmetric4j
 gmetrics
-gnaughty
 gnome-doc-utils
 gob2
 googlecl
@@ -211,7 +209,6 @@ icaro
 impressjs
 irclib
 ironjacamar
-istanbul
 itext
 jackcess
 jackcess-encrypt
@@ -451,10 +448,9 @@ passenger
 patcher
 pax-logging
 pdfbox1
+pfmon
+pfscalibration
 pgtoolkit
-phetsarath-fonts
-php-nette-reflection
-php-nette-tester
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -465,8 +461,6 @@ pilas
 pipestat
 pius
 planner
-poker2d
-poker-eval
 portals-pom
 portlet-2.0-api
 powerpc-utils-python
@@ -597,6 +591,7 @@ rubygem-CFPropertyList
 rubygem-fission
 rubygem-hike
 rubygem-journey
+rubygem-jquery-ui-rails
 rubygem-ldap_fluff
 rubygem-rails_warden
 rubygem-rbovirt
@@ -716,9 +711,13 @@ wtop
 xapool
 xhotkeys
 xinput_calibrator
+xlogin
+xls2csv
 xmlbeans
 xmlbeans-maven-plugin
+xmldb-api
 xmlenc
+xml-maven-plugin
 xmlrpc
 XmlSchema
 xml-security
