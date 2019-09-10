@@ -14,15 +14,11 @@ annogen
 annotation-indexer
 annox
 anyremote
-apache-commons-chain
 apache-commons-configuration2
 apache-commons-csv
 apache-commons-discovery
 apache-commons-el
-apache-commons-fileupload
 apache-commons-javaflow
-apache-commons-jci
-apache-commons-jcs
 apache-commons-launcher
 apache-commons-ognl
 apache-commons-pool2
@@ -32,7 +28,6 @@ apacheds-jdbm
 apacheds-ldap-api
 apache-mina
 apache-poi
-apache-rat
 apache-sshd
 apfloat-java
 argparse4j
@@ -46,6 +41,7 @@ aries-proxy-impl
 aries-quiesce-api
 aries-quiesce-manager
 arptools
+arquillian-core
 artemis
 artemis-wildfly-integration
 aspectjweaver
@@ -53,6 +49,7 @@ asterisk-gui
 async
 async-http-client1
 auto
+automake17
 aws-sdk-java
 axiom
 axion
@@ -68,7 +65,6 @@ boxes
 bridge-method-injector
 btm
 bundling-detection-java
-bval
 bytecode-compatibility-transformer
 c3p0
 caledonia-kde-theme
@@ -86,7 +82,6 @@ cli-parser
 codegen
 codenarc
 comedilib
-compat-openssl10
 concurrentlinkedhashmap-lru
 concurrentunit
 constant-pool-scanner
@@ -102,7 +97,6 @@ dfish
 directory-project
 disper
 dnssec4j
-dnstracer
 dozer
 drobo-utils
 dtdparser
@@ -140,11 +134,7 @@ gentlyweb-utils
 geolatte-geom
 geronimo-commonj
 geronimo-jaspic-spec
-geronimo-jcache
-geronimo-jcdi-1.0-api
-geronimo-jcdi-1.1-api
 geronimo-txmanager
-geronimo-validation
 gherkin2-java
 git-bz
 gitflow
@@ -169,7 +159,6 @@ glazedlists
 gmavenplus-plugin
 gmetric4j
 gmetrics
-gnome-doc-utils
 gob2
 googlecl
 google-http-java-client
@@ -189,9 +178,7 @@ hawtdb
 hawtdispatch
 hazelcast
 hessian
-hibernate
 hibernate4
-hibernate-jpa-2.1-api
 hibernate-jpamodelgen
 high-scale-lib
 HikariCP
@@ -199,13 +186,11 @@ hntool
 howl-logger
 hpack
 hppc
-hsqldb1
 htmlunit
 htmlunit-core-js
 htrace
 http-builder
 httpdtap
-httpunit
 icaro
 impressjs
 irclib
@@ -244,7 +229,6 @@ java-xmlbuilder
 jaxb2-basics-annotate
 jaxb2-common-basics
 jaxb2-fluent-api
-jaxb2-maven-plugin
 jazzy
 jBCrypt
 jbosh
@@ -268,8 +252,6 @@ jboss-jaxrs-1.1-api
 jboss-jaxrs-2.0-api
 jboss-jaxws-2.2-api
 jboss-jms-2.0-api
-jboss-jsf-2.1-api
-jboss-jsf-2.2-api
 jboss-logging-tools1
 jboss-naming
 jboss-transaction-spi
@@ -328,9 +310,7 @@ jsonic
 jsonld-java
 jsonld-java-tools
 json-lib
-jsonp
 json-path
-json_simple
 json-smart
 jsslutils
 jthread
@@ -351,11 +331,11 @@ kryo
 kryo-serializers
 langdetect
 language-detector
-lash
 ldaptive
 lettuce
 leveldb-java
 leveldbjni
+libcdaudio
 libcommuni
 libdasm
 libdivecomputer
@@ -365,7 +345,6 @@ libopensync
 libpam4j
 libreadline-java
 libUnihan
-libxslt
 lightcouch
 littleproxy
 localizer
@@ -384,12 +363,12 @@ mavibot
 maxmind-db-java
 mchange-commons
 mckoi
-metadata-extractor2
 metainf-services
 metrics
 mimepull
 mindi-busybox
 mined
+mingw32-libgnurx
 mingw-admesh
 minidns
 minimal-json
@@ -407,7 +386,6 @@ mybatis-generator
 mybatis-parent
 mysema-apt-maven-plugin
 mysema-commons-lang
-mysql-connector-java
 nar-maven-plugin
 native2ascii-maven-plugin
 native-platform
@@ -427,7 +405,6 @@ openhft-java-compiler
 openhft-java-lang
 openid4java
 openjdk-orb
-openjpa
 opennlp
 openprops
 openshift-java-client
@@ -455,8 +432,6 @@ pilas
 pipestat
 pius
 planner
-portals-pom
-portlet-2.0-api
 powerpc-utils-python
 properties-maven-plugin
 protobuf-java-format
@@ -466,8 +441,7 @@ proxytoys
 pycdio
 pycscope
 PyRTF
-python26
-python26-httplib2
+python3-chardet
 python-application
 python-APScheduler
 python-behave
@@ -476,12 +450,10 @@ python-CDDB
 python-django-jsonfield
 python-django-rest-framework-composed-permissions
 python-fabulous
-python-flask-script
 python-flickrapi
 python-flup
 python-gnutls
 python-grafyaml
-python-http-parser
 python-impacket
 python-inifile
 python-ipaddress
@@ -501,14 +473,11 @@ python-restauth
 python-restauth-common
 python-sexy
 python-sippy
-python-socketpool
 python-sparklines
 python-sudsds
 python-tw2-jqplugins-ui
 python-tw2-jquery
-python-virtinst
 python-volatility
-python-which
 python-zc-buildout
 python-zipp
 python-zope-contenttype
@@ -519,8 +488,8 @@ python-zope-i18n
 python-zope-processlifetime
 python-zope-proxy
 python-zope-sequencesort
-qca-cyrus-sasl
 qpid-jms
+qt4
 qtermwidget-qt4
 q-text-as-data
 qtools
@@ -554,6 +523,8 @@ R-hgu133acdf
 R-hgu95av2cdf
 R-hgu95av2probe
 rhq-plugin-annotations
+rhythmbox-equalizer
+riak
 riffle
 rinetd
 R-IRanges
@@ -577,16 +548,18 @@ rubygem-boxgrinder-core
 rubygem-hike
 rubygem-journey
 rubygem-rbovirt
+rust-crossbeam-deque0.5
 R-widgetTools
 rxjava
 sablecc
+salinfo
 scim-array
 scim-chewing
 scim-tables
 scribus
+search4files
 sems
 semweb4j
-serp
 sezpoz
 shflags
 shibboleth-java-parent-v3
@@ -595,7 +568,6 @@ shiro
 shrinkwrap-descriptors
 sidc-gui
 simple
-simple-jndi
 slf4j-jboss-logmanager
 smack
 snmp4j
@@ -610,7 +582,6 @@ spymemcached
 sqlcli
 sqlite-jdbc
 sshj
-sslext
 stapler-adjunct-timeline
 stardict-dic-en
 stardict-dic-ja
@@ -618,7 +589,7 @@ stardict-dic-ru
 stardict-dic-zh_CN
 stardict-dic-zh_TW
 staxmate
-struts
+subdownloader
 subethasmtp
 super-csv
 svnmailer
@@ -629,6 +600,7 @@ system-config-keyboard
 system-switch-displaymanager
 system-switch-java
 taipeifonts
+takari-pom
 takari-smart-builder
 tellico
 tempus-fugit
@@ -641,6 +613,7 @@ thunderbird-enigmail
 thymeleaf
 tiger-types
 tika
+tomcat6
 trac-mastertickets-plugin
 treelayout
 trilead-putty-extension
@@ -660,7 +633,6 @@ uncommons-maths
 undertow-js
 unit-api
 validator-htmlparser
-velocity-tools
 vorbis-java
 wdfs
 webjars-locator
@@ -685,7 +657,6 @@ xmlenc
 xmlrpc
 XmlSchema
 xml-security
-xmpcore
 Xnee
 xom
 xsettingsd
