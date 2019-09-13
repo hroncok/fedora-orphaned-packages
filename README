@@ -1,4 +1,5 @@
 7kaa
+abcMIDI
 access-modifier-annotation
 accumulo
 acegisecurity
@@ -16,7 +17,6 @@ apache-commons-launcher
 apache-mina
 apache-poi
 apache-sshd
-ape
 arptools
 asterisk-gui
 audio-convert-mod
@@ -43,6 +43,9 @@ comedilib
 concurrentunit
 constant-pool-scanner
 curator
+cvs2svn
+desktopcouch
+desktop-printing
 dfish
 disper
 drobo-utils
@@ -60,9 +63,12 @@ fluxbox
 freenx-server
 fsniper
 func
+fusecompress_offline1
 fuse-python
 gadget
 gdesklets-goodweather
+geda-gaf
+geda-gsymcheck
 geronimo-jaspic-spec
 ginfo
 git-bz
@@ -87,7 +93,6 @@ httpdtap
 icaro
 impressjs
 ironjacamar
-itext
 jarjar
 java-uuid-generator
 jBCrypt
@@ -126,7 +131,6 @@ kohsuke-pom
 kross-interpreters
 kryo-serializers
 laditools
-latexdiff
 libcdaudio
 libcommuni
 libdasm
@@ -150,14 +154,12 @@ mingw-admesh
 mirrorbrain
 moin
 nfft
-notemeister
 ntetris
 nwsclient
 officeparser
 opencsv
 openprops
 openstv
-openvswitch
 openxcap
 orafce
 ovirt-engine-sdk-python
@@ -236,6 +238,8 @@ qpid-cpp
 qtermwidget-qt4
 q-text-as-data
 qtools
+quadkonsole
+Quake2
 RackTables
 radiotray
 R-affy
@@ -276,8 +280,12 @@ R-tkWidgets
 rubygem-audited
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-ferret
 rubygem-hike
+rubygem-joiner
 rubygem-journey
+rubygem-pathname2
+rubygem-pervasives
 rubygem-rbovirt
 R-widgetTools
 scim-array
