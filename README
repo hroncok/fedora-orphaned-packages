@@ -15,12 +15,10 @@ apache-sshd
 arptools
 asterisk-gui
 audio-convert-mod
-b43-tools
 batti
 belier
 bing
 bios_extract
-bluecove
 bridge-method-injector
 bundling-detection-java
 bytecode-compatibility-transformer
@@ -88,8 +86,6 @@ halberd
 hntool
 htrace
 httpdtap
-icaro
-jakarta-commons-cli
 jarjar
 java-base64
 java-uuid-generator
@@ -112,8 +108,6 @@ jetty-test-helper
 jetty-version-maven-plugin
 jline1
 jmdns
-jpackage-utils
-jpathwatch
 jruby-maven-plugins
 jsch-agent-proxy
 js-CodeMirror
@@ -124,7 +118,6 @@ kohsuke-pom
 kross-interpreters
 kryo-serializers
 laditools
-libcdaudio
 libcommuni
 libdasm
 libdivecomputer
@@ -139,7 +132,6 @@ mach
 marave
 maven-mapping
 mchange-commons
-mediawiki123
 metainf-services
 mindi-busybox
 mined
@@ -147,7 +139,6 @@ mingw-admesh
 mirrorbrain
 mkelfimage
 moin
-moovida-plugins-good
 nfft
 ntetris
 nwsclient
@@ -162,10 +153,10 @@ pilas
 pipestat
 pius
 powerpc-utils-python
+psgml
 pycdio
 pycscope
 pyftpdlib
-pygobject2
 PyRTF
 python2-typing
 python-application
@@ -181,7 +172,6 @@ python-inifile
 python-ipaddress
 python-jenkinsapi
 python-jsonpointer
-python-junitxml
 python-kiwi-gtk
 python-krbV
 python-lasagna
@@ -190,8 +180,11 @@ python-ngram
 python-nitrate
 python-oauth
 python-openid
+python-ordereddict
 python-pathtools
+python-peak-util-extremes
 python-pep8
+python-pgpdump
 python-pp
 python-progressbar
 python-pybloomfiltermmap
@@ -205,6 +198,7 @@ python-sippy
 python-sparklines
 python-speedtest-cli
 python-sudsds
+python-sybase
 python-tbgrep
 python-tpg
 python-tw2-jquery
@@ -250,11 +244,14 @@ R-tkWidgets
 rubygem-audited
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-calendar_date_select
+rubygem-climate_control
+rubygem-clouddb
+rubygem-cloudservers
 rubygem-hike
 rubygem-journey
 rubygem-rbovirt
 R-widgetTools
-scribus
 sezpoz
 sidc-gui
 soscleaner
