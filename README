@@ -4,6 +4,7 @@ acegisecurity
 adevs
 akuma
 alacarte
+albumart
 annotation-indexer
 anyremote
 apache-commons-csv
@@ -106,6 +107,7 @@ jetty-distribution-remote-resources
 jetty-schemas
 jetty-test-helper
 jetty-version-maven-plugin
+jgoodies-animation
 jline1
 jmdns
 jruby-maven-plugins
@@ -115,6 +117,7 @@ jthread
 key-mon
 kig
 kohsuke-pom
+KPMcore
 kross-interpreters
 kryo-serializers
 laditools
@@ -140,6 +143,7 @@ mirrorbrain
 mkelfimage
 moin
 nfft
+notify-python
 ntetris
 nwsclient
 openstv
@@ -153,7 +157,6 @@ pilas
 pipestat
 pius
 powerpc-utils-python
-psgml
 pycdio
 pycscope
 pyftpdlib
@@ -180,11 +183,8 @@ python-ngram
 python-nitrate
 python-oauth
 python-openid
-python-ordereddict
 python-pathtools
-python-peak-util-extremes
 python-pep8
-python-pgpdump
 python-pp
 python-progressbar
 python-pybloomfiltermmap
@@ -198,7 +198,6 @@ python-sippy
 python-sparklines
 python-speedtest-cli
 python-sudsds
-python-sybase
 python-tbgrep
 python-tpg
 python-tw2-jquery
@@ -244,13 +243,13 @@ R-tkWidgets
 rubygem-audited
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-calendar_date_select
-rubygem-climate_control
-rubygem-clouddb
-rubygem-cloudservers
 rubygem-hike
 rubygem-journey
+rubygem-mongrel
 rubygem-rbovirt
+rubygem-sitemap_generator
+rubygem-therubyracer
+rust-coco
 R-widgetTools
 sezpoz
 sidc-gui
@@ -276,6 +275,7 @@ trilead-putty-extension
 trilead-ssh2
 udunits
 umit
+vte
 wammu
 wdfs
 winswitch
