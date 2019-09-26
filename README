@@ -4,7 +4,6 @@ acegisecurity
 adevs
 akuma
 alacarte
-albumart
 annotation-indexer
 anyremote
 apache-commons-csv
@@ -26,6 +25,7 @@ bytecode-compatibility-transformer
 c3p0
 captcp
 cassandra
+castor-maven-plugin
 cbi-plugins
 certmaster
 cfv
@@ -59,7 +59,6 @@ epydoc
 euca2ools
 felix-main
 fishpoll
-fluxbox
 freemedforms
 freenx-server
 fsniper
@@ -76,6 +75,7 @@ git-remote-bzr
 glassfish-jsp
 gmavenplus-plugin
 gnome-python2-extras
+gnu-regexp
 gob2
 googlecl
 gpars
@@ -87,6 +87,7 @@ halberd
 hntool
 htrace
 httpdtap
+isorelax
 jarjar
 java-base64
 java-uuid-generator
@@ -107,7 +108,6 @@ jetty-distribution-remote-resources
 jetty-schemas
 jetty-test-helper
 jetty-version-maven-plugin
-jgoodies-animation
 jline1
 jmdns
 jruby-maven-plugins
@@ -117,7 +117,6 @@ jthread
 key-mon
 kig
 kohsuke-pom
-KPMcore
 kross-interpreters
 kryo-serializers
 laditools
@@ -138,7 +137,6 @@ mchange-commons
 metainf-services
 mindi-busybox
 mined
-mingw-admesh
 mirrorbrain
 mkelfimage
 moin
@@ -146,9 +144,10 @@ nfft
 notify-python
 ntetris
 nwsclient
+openstack-tempo
 openstv
 openxcap
-orafce
+pam_openshift
 pam_pkcs11
 patcher
 pdf-renderer
@@ -174,17 +173,15 @@ python-grafyaml
 python-inifile
 python-ipaddress
 python-jenkinsapi
-python-jsonpointer
 python-kiwi-gtk
 python-krbV
 python-lasagna
 python-Lektor
+python-minihallib
 python-ngram
 python-nitrate
 python-oauth
 python-openid
-python-pathtools
-python-pep8
 python-pp
 python-progressbar
 python-pybloomfiltermmap
@@ -195,6 +192,7 @@ python-restauth
 python-restauth-common
 python-sexy
 python-sippy
+python-socketpool
 python-sparklines
 python-speedtest-cli
 python-sudsds
@@ -221,6 +219,8 @@ R-BSgenome.Celegans.UCSC.ce2
 R-BufferedMatrix
 R-BufferedMatrixMethods
 R-DynDoc
+relaxngcc
+relaxngDatatype
 R-fibroEset
 R-GenomicFeatures
 R-GenomicRanges
@@ -235,7 +235,6 @@ R-multtest
 robust-http-client
 rootfs-resize
 R-pls
-rpmlint-scl-config
 R-preprocessCore
 R-ROC
 R-statmod
@@ -245,13 +244,12 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-hike
 rubygem-journey
-rubygem-mongrel
 rubygem-rbovirt
-rubygem-sitemap_generator
-rubygem-therubyracer
-rust-coco
 R-widgetTools
 sezpoz
+shared-color-profiles
+share-like-connect
+sh-elf-binutils
 sidc-gui
 soscleaner
 sparcy
