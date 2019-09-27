@@ -17,7 +17,6 @@ asterisk-gui
 audio-convert-mod
 batti
 belier
-bing
 bios_extract
 bridge-method-injector
 bundling-detection-java
@@ -74,6 +73,9 @@ gitosis
 git-remote-bzr
 glassfish-jsp
 gmavenplus-plugin
+gmime22
+gnome-lirc-properties
+gnome-mag
 gnome-python2-extras
 gnu-regexp
 gob2
@@ -129,9 +131,10 @@ libopensync
 libpam4j
 localizer
 logback
-lorem-ipsum-generator
 mach
 marave
+mate-image-viewer
+mate-menu-editor
 maven-mapping
 mchange-commons
 metainf-services
@@ -141,13 +144,12 @@ mirrorbrain
 mkelfimage
 moin
 nfft
+nodejs-private
 notify-python
 ntetris
 nwsclient
-openstack-tempo
 openstv
 openxcap
-pam_openshift
 pam_pkcs11
 patcher
 pdf-renderer
@@ -155,6 +157,7 @@ percona-xtrabackup
 pilas
 pipestat
 pius
+postr
 powerpc-utils-python
 pycdio
 pycscope
@@ -177,7 +180,6 @@ python-kiwi-gtk
 python-krbV
 python-lasagna
 python-Lektor
-python-minihallib
 python-ngram
 python-nitrate
 python-oauth
@@ -192,7 +194,6 @@ python-restauth
 python-restauth-common
 python-sexy
 python-sippy
-python-socketpool
 python-sparklines
 python-speedtest-cli
 python-sudsds
@@ -247,9 +248,6 @@ rubygem-journey
 rubygem-rbovirt
 R-widgetTools
 sezpoz
-shared-color-profiles
-share-like-connect
-sh-elf-binutils
 sidc-gui
 soscleaner
 sparcy
@@ -275,7 +273,6 @@ udunits
 umit
 vte
 wammu
-wdfs
 winswitch
 wraplinux
 wtop
