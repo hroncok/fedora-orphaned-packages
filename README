@@ -40,6 +40,7 @@ disper
 drobo-utils
 dwdiff
 easybashgui
+eclipse-demos
 eclipse-dtp
 eclipse-ecf
 eclipse-eclemma
@@ -58,6 +59,8 @@ epydoc
 euca2ools
 felix-main
 fishpoll
+flatpack
+fldigi-doc
 freemedforms
 freenx-server
 fsniper
@@ -73,9 +76,6 @@ gitosis
 git-remote-bzr
 glassfish-jsp
 gmavenplus-plugin
-gmime22
-gnome-lirc-properties
-gnome-mag
 gnome-python2-extras
 gnu-regexp
 gob2
@@ -133,8 +133,6 @@ localizer
 logback
 mach
 marave
-mate-image-viewer
-mate-menu-editor
 maven-mapping
 mchange-commons
 metainf-services
@@ -144,7 +142,6 @@ mirrorbrain
 mkelfimage
 moin
 nfft
-nodejs-private
 notify-python
 ntetris
 nwsclient
@@ -154,10 +151,13 @@ pam_pkcs11
 patcher
 pdf-renderer
 percona-xtrabackup
+perl-Bio-Graphics
+perl-Bio-SamTools
+perl-Catalyst-Engine-PSGI
+perl-Catalyst-Plugin-Unicode-Encoding
 pilas
 pipestat
 pius
-postr
 powerpc-utils-python
 pycdio
 pycscope
