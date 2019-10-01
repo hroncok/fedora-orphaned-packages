@@ -18,6 +18,7 @@ audio-convert-mod
 batti
 belier
 bios_extract
+blacs
 bridge-method-injector
 bundling-detection-java
 bytecode-compatibility-transformer
@@ -32,12 +33,15 @@ cfv
 checkdns
 check-mk
 chm2pdf
+cinepaint
 comedilib
 concurrentunit
 constant-pool-scanner
 curator
 dfish
 disper
+django-addons
+dnsyo
 drobo-utils
 dwdiff
 easybashgui
@@ -58,6 +62,7 @@ emma
 epydoc
 euca2ools
 felix-main
+fet
 fishpoll
 freemedforms
 freenx-server
@@ -77,6 +82,7 @@ gmavenplus-plugin
 gnome-python2-extras
 gnu-regexp
 gob2
+golang-github-klauspost-reedsolomon
 googlecl
 gpars
 groovy
@@ -92,7 +98,6 @@ java-base64
 java-uuid-generator
 jBCrypt
 jbosscache-support
-jboss-common-core
 jboss-connector-1.7-api
 jboss-jstl-1.2-api
 jboss-websocket-1.0-api
@@ -133,7 +138,11 @@ localizer
 logback
 mach
 marave
+maven2-common-poms
 maven-mapping
+maven-wagon-ahc
+maximus
+maxmind-db-java
 mchange-commons
 metainf-services
 mindi-busybox
@@ -143,7 +152,6 @@ mkelfimage
 moin
 nfft
 nodejs-flot
-nodejs-pegjs
 notify-python
 ntetris
 nwsclient
@@ -155,8 +163,6 @@ patcher
 pdf-renderer
 pegdown
 percona-xtrabackup
-php-tracy
-php-twig-Twig
 pilas
 pipestat
 pius
@@ -183,7 +189,6 @@ python-krbV
 python-lasagna
 python-Lektor
 python-ngram
-python-nitrate
 python-oauth
 python-openid
 python-pp
@@ -198,7 +203,6 @@ python-sexy
 python-sippy
 python-sparklines
 python-speedtest-cli
-python-sudsds
 python-tbgrep
 python-tpg
 python-tw2-jquery
