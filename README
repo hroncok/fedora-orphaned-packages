@@ -1,7 +1,5 @@
 access-modifier-annotation
-accumulo
 acegisecurity
-adevs
 akuma
 alacarte
 annotation-indexer
@@ -18,7 +16,6 @@ audio-convert-mod
 batti
 belier
 bios_extract
-blacs
 bridge-method-injector
 bundling-detection-java
 bytecode-compatibility-transformer
@@ -33,15 +30,10 @@ cfv
 checkdns
 check-mk
 chm2pdf
-cinepaint
 comedilib
 concurrentunit
 constant-pool-scanner
-curator
-dfish
 disper
-django-addons
-dnsyo
 drobo-utils
 dwdiff
 easybashgui
@@ -62,7 +54,6 @@ emma
 epydoc
 euca2ools
 felix-main
-fet
 fishpoll
 freemedforms
 freenx-server
@@ -81,8 +72,6 @@ glassfish-jsp
 gmavenplus-plugin
 gnome-python2-extras
 gnu-regexp
-gob2
-golang-github-klauspost-reedsolomon
 googlecl
 gpars
 groovy
@@ -91,7 +80,6 @@ gstreamer-python
 gtkparasite
 halberd
 hntool
-htrace
 httpdtap
 jarjar
 java-base64
@@ -126,10 +114,8 @@ kohsuke-pom
 kross-interpreters
 kryo-serializers
 laditools
-libcommuni
 libdasm
 libdivecomputer
-libeio
 libexif-gtk3
 libfixposix
 libopensync
@@ -138,11 +124,7 @@ localizer
 logback
 mach
 marave
-maven2-common-poms
 maven-mapping
-maven-wagon-ahc
-maximus
-maxmind-db-java
 mchange-commons
 metainf-services
 mindi-busybox
@@ -150,6 +132,9 @@ mined
 mirrorbrain
 mkelfimage
 moin
+mysema-commons-lang
+mysql
+mysqlclient10
 nfft
 nodejs-flot
 notify-python
@@ -178,7 +163,6 @@ python-backports-ssl_match_hostname
 python-cassandra-driver
 python-chm
 python-epdb
-python-flup
 python-gnutls
 python-grafyaml
 python-inifile
@@ -197,8 +181,6 @@ python-pybloomfiltermmap
 python-pysmell
 python-qpid
 python-requestbuilder
-python-restauth
-python-restauth-common
 python-sexy
 python-sippy
 python-sparklines
@@ -232,7 +214,6 @@ R-GenomicRanges
 R-hgu133acdf
 R-hgu95av2cdf
 R-hgu95av2probe
-rinetd
 R-IRanges
 rkward
 R-maanova
@@ -245,6 +226,7 @@ R-ROC
 R-statmod
 R-tkWidgets
 rubygem-audited
+rubygem-bogus
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-hike
@@ -270,7 +252,7 @@ tellico
 tesla-pom
 TeXamator
 thunderbird-enigmail
-trac-mastertickets-plugin
+tootaudioservers
 trilead-putty-extension
 trilead-ssh2
 udunits
@@ -278,7 +260,11 @@ umit
 vte
 wammu
 winswitch
+wlmproxy
+wormux
+wp_tray
 wraplinux
+ws-xmlschema
 wtop
 xhotkeys
 xinput_calibrator
