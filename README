@@ -1,10 +1,5 @@
-8Kingdoms
-aasaver
-abakus
 access-modifier-annotation
 acegisecurity
-activemq-protobuf
-aether-connector-okhttp
 akuma
 alacarte
 annotation-indexer
@@ -46,6 +41,7 @@ eclipse-ecf
 eclipse-eclemma
 eclipse-egit-github
 eclipse-linuxtools
+eclipse-mercurial
 eclipse-moreunit
 eclipse-mpc
 eclipse-mylyn
@@ -59,15 +55,12 @@ epydoc
 euca2ools
 felix-main
 fishpoll
-freediams
 freemedforms
 freenx-server
 fsniper
 func
 fuse-python
 gadget
-gambas2
-gant
 gcc-python-plugin
 gdesklets-goodweather
 geronimo-jaspic-spec
@@ -77,6 +70,7 @@ git-remote-bzr
 glassfish-jsp
 gmavenplus-plugin
 gnome-python2-extras
+gnome-shell-search-pinboard
 gnu-regexp
 gpars
 groovy
@@ -135,7 +129,6 @@ mirrorbrain
 mkelfimage
 moin
 nfft
-nodejs-async-each
 nodejs-flot
 notify-python
 ntetris
@@ -196,6 +189,7 @@ R-affydata
 R-affyio
 R-ALL
 R-AnnotationDbi
+RasmusDSP
 rawdog
 R-Biobase
 R-BiocGenerics
@@ -231,7 +225,6 @@ rubygem-rbovirt
 R-widgetTools
 sezpoz
 sidc-gui
-sinjdoc
 sl
 slrn
 soscleaner
@@ -242,8 +235,6 @@ sshj
 stapler-adjunct-timeline
 stringtemplate4
 subdownloader
-sudoku-savant
-sugar-calendario
 svnmailer
 system-config-httpd
 system-config-keyboard
@@ -260,14 +251,20 @@ umit
 vte
 wammu
 winswitch
+wp_tray
 wraplinux
 wtop
+xfcalendar
+xfce-mcs-plugins
 xhotkeys
 xinput_calibrator
 xmlrpc
 XmlSchema
 Xnee
 xom
+xorg-x11-drv-i128
+xorg-x11-drv-magictouch
+xorg-x11-drv-mga
 xtuple-csvimp
 xtv
 xxdiff
