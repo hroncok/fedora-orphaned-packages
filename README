@@ -1,16 +1,11 @@
 apache-mime4j
-axion
 bibus
+bind10
 bzr
 cassandra
 castor-maven-plugin
 cbi-plugins
-compiz-fusion
-dbus-tools
 diffuse
-django-piston
-django-sct
-ease
 eclipse-dtp
 eclipse-ecf
 eclipse-eclemma
@@ -24,7 +19,6 @@ eclipse-pydev
 eclipse-swtbot
 eclipse-tm-terminal
 elementary
-emotion
 extra166y
 felix-osgi-foundation
 freemedforms
@@ -32,7 +26,6 @@ gcc-python-plugin
 gdesklets-goodweather
 git-remote-bzr
 gnu-regexp
-gob2
 isight-firmware-tools
 java-base64
 jbosscache-support
@@ -49,7 +42,6 @@ menulibre
 mindi-busybox
 mkelfimage
 multiverse
-MySQL
 nfspy
 nodejs-flot
 notify-python
@@ -62,7 +54,6 @@ pyftpdlib
 pypoppler
 python-arc
 python-cassandra-driver
-python-django-staticfiles
 python-epdb
 python-jenkinsapi
 python-lasagna
@@ -72,10 +63,7 @@ python-ripozo
 python-tbgrep
 python-tpg
 python-unittest2
-qca2
-qca-ossl
-qcodeedit
-R-Biobase
+python-zfec
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 slrn
