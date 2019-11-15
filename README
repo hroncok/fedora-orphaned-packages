@@ -12,7 +12,6 @@ classmate
 cli-parser
 csstidy
 delve
-diffuse
 dillo
 eclipse-abrt
 eclipse-anyedit
@@ -76,7 +75,6 @@ golang-github-10gen-openssl
 graphite-web
 grizzly
 grizzly-npn
-gucharmap
 guestfs-browser
 hibernate-jpa-2.0-api
 ht
@@ -98,7 +96,6 @@ jersey
 jogl2
 jove
 json_diff
-lbzip2
 lcms
 leafnode
 libAfterImage
@@ -126,9 +123,7 @@ maven-checkstyle-plugin
 maven-eclipse-plugin
 menulibre
 mimepull
-minbar
 mindi-busybox
-mongo-java-driver2
 msynctool
 multibit-commons
 multibit-hardware
@@ -137,24 +132,17 @@ munge
 mustache-java
 netty3
 nfspy
-nodejs-basic-auth
 nodejs-buffertools
 nodejs-compressible
 nodejs-dateformat
 nodejs-encodeurl
 nodejs-eyes
 nodejs-finalhandler
-nodejs-find-cache-dir
-nodejs-find-up
-nodejs-gnode
 nodejs-grunt-legacy-util
-nodejs-import-local
 nodejs-load-grunt-tasks
 nodejs-method-override
 nodejs-moment
 nodejs-negotiator
-nodejs-only-shallow
-nodejs-pkg-dir
 nodejs-raw-body
 nodejs-send
 nodejs-stylus
@@ -195,6 +183,8 @@ python-invoke
 python-k8sclient
 python-lasagna
 python-lexicon
+python-nltk_lite
+python-numarray
 python-ripozo
 python-sanic
 python-zipstream
@@ -214,7 +204,6 @@ swt-chart
 synce-gnomevfs
 synce-software-manager
 synce-trayicon
-system-config-httpd
 tesla-pom
 trac-authopenid-plugin
 trac-doxygen-plugin
@@ -225,7 +214,6 @@ tycho-extras
 udunits
 unshield
 utop
-vdirsyncer
 vim-vimoutliner
 virtio-forwarder
 wine-docs
