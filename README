@@ -1,4 +1,5 @@
 airsnort
+apache-logging-parent
 apache-mime4j
 apt-cacher-ng
 archaius
@@ -6,6 +7,7 @@ base64coder
 batik
 bval
 camotics
+camstream
 cduce
 clapham
 classmate
@@ -81,7 +83,10 @@ ht
 ioprocess
 isight-firmware-tools
 jackson
+jackson2-jaxrs-json-provider
+jackson2-module-jaxb-annotations
 jackson-dataformat-xml
+jadetex
 jandex
 jandex-maven-plugin
 java-oauth
@@ -101,7 +106,11 @@ libee
 libetpan
 libgovirt
 libktorrent
+libmatewnck
+libmikey
 libmimedir
+libmnetutil
+libmowgli
 libnxml
 libodb-boost
 libodb-qt
@@ -133,6 +142,7 @@ nfspy
 nm-tray
 nodejs-buffertools
 nodejs-compressible
+nodejs-create-error-class
 nodejs-dateformat
 nodejs-encodeurl
 nodejs-eyes
@@ -168,15 +178,6 @@ paulstretch
 pdfbox
 perdition
 perl-CGI-FormBuilder
-php53-mapi
-phpesp
-phpFlickr
-phpMyAdmin3
-phpMyAdmin4
-php-pear-creole
-php-pear-propel_generator
-php-pear-propel_runtime
-php-pear-Spreadsheet-Excel-Writer
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -193,6 +194,7 @@ python-lasagna
 python-lexicon
 python-ripozo
 python-sanic
+python-tag
 python-zipstream
 redeclipse
 resiprocate
@@ -207,6 +209,7 @@ scamper
 scilab
 simple
 sirikali
+sonatype-plugins-parent
 swt-chart
 synce-gnomevfs
 synce-software-manager
