@@ -3,6 +3,8 @@ apache-logging-parent
 apache-mime4j
 apt-cacher-ng
 archaius
+archmage
+audit-viewer
 base64coder
 batik
 bval
@@ -11,8 +13,6 @@ cduce
 clapham
 classmate
 cli-parser
-comoonics-cluster-py
-compat-libgdamm
 csstidy
 delve
 dillo
@@ -69,10 +69,6 @@ glassfish-management-api
 glassfish-pfl
 glob2
 glusterd2
-gmfsk
-gnome-paint
-gnome-pilot
-gnome-pilot-conduits
 gns3-gui
 gns3-net-converter
 gns3-server
@@ -81,6 +77,7 @@ graphite-web
 grizzly
 grizzly-npn
 guestfs-browser
+hamcrest
 hibernate-jpa-2.0-api
 ht
 hystrix
@@ -95,9 +92,13 @@ jbosscache-support
 jboss-connector-1.6-api
 jboss-jaspi-1.1-api
 jboss-jsp-2.3-api
+jboss-msc
 jboss-transaction-1.1-api
 jcsp
 jdo-api
+jemmy
+jena
+jenkins-commons-jelly
 jersey
 jogl2
 jove
@@ -120,6 +121,9 @@ libsynce
 libx86
 lv2-abGate
 lv2-kn0ck0ut
+lybniz
+man
+maven-changes-plugin
 maven-checkstyle-plugin
 maven-eclipse-plugin
 memoryfilesystem
@@ -132,12 +136,7 @@ multibit-hardware
 multiverse
 munge
 mustache-java
-nessus-core
-nessus-libraries
-net6
-netactview
 netty3
-nfspy
 nm-tray
 nodejs-buffertools
 nodejs-compressible
@@ -146,8 +145,6 @@ nodejs-encodeurl
 nodejs-eyes
 nodejs-finalhandler
 nodejs-grunt-legacy-util
-nodejs-into-stream
-nodejs-is-upper-case
 nodejs-load-grunt-tasks
 nodejs-method-override
 nodejs-moment
@@ -178,13 +175,12 @@ paulstretch
 pdfbox
 perdition
 perl-CGI-FormBuilder
+php-doctrine-DoctrineDBAL
 picketbox
 picketbox-commons
 picketbox-xacml
 plexus-cli
-pypoppler
 python-alchimia
-python-arc
 python-cattrs
 python-fluidity-sm
 python-gfm
@@ -192,6 +188,7 @@ python-invoke
 python-k8sclient
 python-lasagna
 python-lexicon
+python-nose-ignore-docstring
 python-ripozo
 python-sanic
 python-zipstream
@@ -201,6 +198,7 @@ rgbds
 rubygem-apipie-bindings
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rust-nix0.8
 rxjava
 rxvt
 sassc
@@ -223,12 +221,6 @@ udunits
 unshield
 utop
 vim-vimoutliner
-virtio-forwarder
 wine-docs
-xfce4-gsynaptics-mcs-plugin
-xorg-x11-drv-penmount
-xorg-x11-drv-r128
 xtv
-yaws
-yoltia
 zookeeper
