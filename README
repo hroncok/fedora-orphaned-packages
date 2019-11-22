@@ -54,6 +54,8 @@ eclipse-testng
 eclipse-usage
 eclipse-webtools
 elementary
+epdfview
+erlang-erlzmq2
 ExchangeIR
 extra166y
 fabric
@@ -69,6 +71,7 @@ glassfish-management-api
 glassfish-pfl
 glob2
 glusterd2
+gnome-shell-theme-smooth-inset
 gns3-gui
 gns3-net-converter
 gns3-server
@@ -77,6 +80,7 @@ graphite-web
 grizzly
 grizzly-npn
 guestfs-browser
+gwave
 hamcrest
 hibernate-jpa-2.0-api
 ht
@@ -92,13 +96,10 @@ jbosscache-support
 jboss-connector-1.6-api
 jboss-jaspi-1.1-api
 jboss-jsp-2.3-api
-jboss-msc
 jboss-transaction-1.1-api
 jcsp
 jdo-api
-jemmy
-jena
-jenkins-commons-jelly
+jenkins-ldap-plugin
 jersey
 jogl2
 jove
@@ -106,7 +107,9 @@ lcms
 libee
 libetpan
 libgovirt
+libipoddevice
 libktorrent
+liblsl
 libmimedir
 libnxml
 libopensync-plugin-evolution2
@@ -121,11 +124,9 @@ libsynce
 libx86
 lv2-abGate
 lv2-kn0ck0ut
-lybniz
-man
-maven-changes-plugin
 maven-checkstyle-plugin
 maven-eclipse-plugin
+maven-hpi-plugin
 memoryfilesystem
 menulibre
 mimepull
@@ -136,6 +137,7 @@ multibit-hardware
 multiverse
 munge
 mustache-java
+mysema-apt-maven-plugin
 netty3
 nm-tray
 nodejs-buffertools
@@ -167,6 +169,7 @@ ocaml-pa-monad
 ocaml-pgocaml
 ocaml-sexplib
 ocaml-type-conv
+ohc
 orange
 owncloud
 pam_pkcs11
@@ -175,7 +178,6 @@ paulstretch
 pdfbox
 perdition
 perl-CGI-FormBuilder
-php-doctrine-DoctrineDBAL
 picketbox
 picketbox-commons
 picketbox-xacml
@@ -191,6 +193,7 @@ python-lexicon
 python-nose-ignore-docstring
 python-ripozo
 python-sanic
+python-zc-buildout
 python-zipstream
 redeclipse
 resiprocate
@@ -198,7 +201,6 @@ rgbds
 rubygem-apipie-bindings
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rust-nix0.8
 rxjava
 rxvt
 sassc
