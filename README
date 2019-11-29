@@ -1,12 +1,10 @@
 airsnort
-akonadi-googledata
 apache-logging-parent
 apache-mime4j
 apt-cacher-ng
 archaius
 archmage
 audit-viewer
-automake17
 avalon-logkit
 base64coder
 batik
@@ -61,13 +59,12 @@ ferm
 forge-parent
 FUR
 gdesklets-goodweather
-ghc-hamlet
 giis
 gipfel
-git-bz
 glassfish-gmbal
 glassfish-management-api
 glassfish-pfl
+Glide3-libGL
 glob2
 glusterd2
 gns3-gui
@@ -101,12 +98,11 @@ jersey
 jogl2
 jove
 js-jquery-file-upload
-jsmpp
-kadu
-kapow
-kde-base-artwork
+l2fprod-common
 lcms
+lft
 libee
+libgarmin
 libgovirt
 libktorrent
 libmimedir
@@ -123,6 +119,11 @@ libsynce
 libx86
 lv2-abGate
 lv2-kn0ck0ut
+lybniz
+mate-mime-data
+mate-user-share
+mathmap
+maven-changes-plugin
 maven-checkstyle-plugin
 maven-deploy-plugin
 maven-eclipse-plugin
@@ -153,8 +154,6 @@ nodejs-send
 nodejs-stylus
 nodejs-tilejson
 nodejs-tilelive
-nodejs-union
-nodejs-upper-case
 ntetris
 ocaml-bin-prot
 ocaml-bisect
@@ -180,6 +179,7 @@ picketbox
 picketbox-commons
 picketbox-xacml
 plexus-cli
+pypop
 python-alchimia
 python-cattrs
 python-fluidity-sm
@@ -196,6 +196,8 @@ redeclipse
 resiprocate
 rgbds
 rubygem-apipie-bindings
+rubygem-ascii_binder
+rubygem-axiom-types
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rxjava
@@ -210,6 +212,8 @@ swt-chart
 synce-gnomevfs
 synce-software-manager
 synce-trayicon
+tagsoup
+taipeifonts
 tesla-pom
 trac-authopenid-plugin
 trac-doxygen-plugin
@@ -223,6 +227,5 @@ utop
 vim-vimoutliner
 wine-docs
 xml-stylebook
-xorg-x11-drv-tseng
 xtv
 zookeeper
