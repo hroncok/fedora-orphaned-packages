@@ -8,13 +8,9 @@ audit-viewer
 avalon-logkit
 base64coder
 binclock
-breathe
-budgie
 buildnumber-maven-plugin
 camotics
 cduce
-cel
-checkgmail
 clapham
 csstidy
 delve
@@ -68,6 +64,7 @@ ioprocess
 jackson
 jandex
 jbosscache-support
+jboss-msc
 jboss-transaction-1.1-api
 jdo-api
 jogl2
@@ -86,6 +83,7 @@ libopensync-plugin-synce
 libpolyxmass
 libsynce
 libx86
+lightcouch
 lv2-abGate
 lv2-kn0ck0ut
 maven-ant-plugin
@@ -98,12 +96,6 @@ maven-war-plugin
 mcollective-qpid-plugin
 memoryfilesystem
 mindi-busybox
-mingw32-tk
-minimal-json
-minirpc
-mkinitrd
-mnemonicsetter
-moblin-panel-applications
 MochiKit
 msynctool
 multibit-commons
@@ -139,9 +131,6 @@ ocaml-pgocaml
 ocaml-sexplib
 ocaml-type-conv
 ohc
-openhft-chronicle-queue
-openhft-java-compiler
-ophcrack
 orange
 oyranos
 pam_pkcs11
@@ -181,8 +170,12 @@ shed
 sonatype-plugins-parent
 swt-chart
 synce-gnomevfs
+synce-kpm
 synce-software-manager
 synce-trayicon
+syncthing-inotify
+syntaxhighlighter
+sysklogd
 tesla-pom
 tmuxinator
 trac-authopenid-plugin
@@ -190,6 +183,7 @@ trac-doxygen-plugin
 trac-xmlrpc-plugin
 treecc
 udunits
+uncommons-maths
 unshield
 vttest
 wine-docs
