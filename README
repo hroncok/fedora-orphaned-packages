@@ -8,8 +8,10 @@ audit-viewer
 avalon-logkit
 base64coder
 binclock
+bridge-method-injector
 buildnumber-maven-plugin
 camotics
+cardo-fonts
 cduce
 clapham
 csstidy
@@ -22,6 +24,7 @@ eclipse-dltk
 eclipse-egit
 eclipse-epic
 eclipse-gef
+eclipse-launchbar
 eclipse-m2e-antlr
 eclipse-m2e-core
 eclipse-m2e-cxf
@@ -54,8 +57,11 @@ gns3-gui
 gns3-net-converter
 gns3-server
 golang-github-10gen-openssl
+golang-github-cznic-lldb
 graphite-web
+gstreamer08-plugins
 guestfs-browser
+gwaei
 hystrix
 i3-ipc
 ike-scan
@@ -64,9 +70,9 @@ ioprocess
 jackson
 jandex
 jbosscache-support
-jboss-msc
 jboss-transaction-1.1-api
 jdo-api
+jhighlight
 jogl2
 jove
 lcms
@@ -83,7 +89,6 @@ libopensync-plugin-synce
 libpolyxmass
 libsynce
 libx86
-lightcouch
 lv2-abGate
 lv2-kn0ck0ut
 maven-ant-plugin
@@ -151,6 +156,7 @@ python-mongoengine
 python-nose-ignore-docstring
 python-sanic
 python-texttable
+python-ufo2fdk
 python-virtkey
 python-zipstream
 resiprocate
@@ -167,15 +173,12 @@ rxvt
 saxon
 scamper
 shed
+sidc-gui
 sonatype-plugins-parent
 swt-chart
 synce-gnomevfs
-synce-kpm
 synce-software-manager
 synce-trayicon
-syncthing-inotify
-syntaxhighlighter
-sysklogd
 tesla-pom
 tmuxinator
 trac-authopenid-plugin
@@ -183,7 +186,6 @@ trac-doxygen-plugin
 trac-xmlrpc-plugin
 treecc
 udunits
-uncommons-maths
 unshield
 vttest
 wine-docs
