@@ -8,10 +8,10 @@ audit-viewer
 avalon-logkit
 base64coder
 binclock
-bridge-method-injector
+bluecurve-kwin-theme
+bmp
 buildnumber-maven-plugin
 camotics
-cardo-fonts
 cduce
 clapham
 csstidy
@@ -24,7 +24,6 @@ eclipse-dltk
 eclipse-egit
 eclipse-epic
 eclipse-gef
-eclipse-launchbar
 eclipse-m2e-antlr
 eclipse-m2e-core
 eclipse-m2e-cxf
@@ -57,11 +56,8 @@ gns3-gui
 gns3-net-converter
 gns3-server
 golang-github-10gen-openssl
-golang-github-cznic-lldb
 graphite-web
-gstreamer08-plugins
 guestfs-browser
-gwaei
 hystrix
 i3-ipc
 ike-scan
@@ -72,7 +68,6 @@ jandex
 jbosscache-support
 jboss-transaction-1.1-api
 jdo-api
-jhighlight
 jogl2
 jove
 lcms
@@ -106,6 +101,7 @@ msynctool
 multibit-commons
 multibit-hardware
 multithreadedtc
+MySQL-python
 nbtscan
 nesc
 ninvaders
@@ -141,7 +137,9 @@ oyranos
 pam_pkcs11
 parboiled
 paulstretch
+PDFCrack
 perdition
+php-pecl-phar
 pscan
 python-alchimia
 python-cattrs
@@ -156,11 +154,12 @@ python-mongoengine
 python-nose-ignore-docstring
 python-sanic
 python-texttable
-python-ufo2fdk
+python-text_table
 python-virtkey
 python-zipstream
 resiprocate
 rgbds
+ruby-cairo
 rubygem-apipie-bindings
 rubygem-awesome_spawn
 rubygem-bootstrap-sass
@@ -173,7 +172,6 @@ rxvt
 saxon
 scamper
 shed
-sidc-gui
 sonatype-plugins-parent
 swt-chart
 synce-gnomevfs
@@ -187,8 +185,12 @@ trac-xmlrpc-plugin
 treecc
 udunits
 unshield
+videodog
+vint
+virt-df
 vttest
 wine-docs
 xml-stylebook
 xtv
+xviewer-plugins
 zookeeper
