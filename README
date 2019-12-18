@@ -17,7 +17,6 @@ eclipse-anyedit
 eclipse-checkstyle
 eclipse-color-theme
 eclipse-dltk
-eclipse-egit
 eclipse-epic
 eclipse-gef
 eclipse-m2e-antlr
@@ -28,7 +27,6 @@ eclipse-m2e-modello
 eclipse-m2e-plexus
 eclipse-m2e-sisu
 eclipse-m2e-takari
-eclipse-m2e-workspace
 eclipse-nls
 eclipse-pdt
 eclipse-quickrex
@@ -41,8 +39,8 @@ elementary
 ExchangeIR
 fabric
 ferm
-firestarter
 gdesklets-goodweather
+ghc-editline
 giis
 gipfel
 glob2
@@ -50,12 +48,11 @@ glusterd2
 gns3-gui
 gns3-net-converter
 gns3-server
+gobby
 golang-github-10gen-openssl
 graphite-web
-gtk3-engines
 gtk-sharp
 guestfs-browser
-higlayout
 hystrix
 i3-ipc
 ike-scan
@@ -64,14 +61,18 @@ ioprocess
 jackson
 jandex
 jbosscache-support
+jboss-rmi-1.0-api
+jboss-threads
 jboss-transaction-1.1-api
+jboss-web-native
 jdo-api
 jogl2
 jove
-jpoker
+libdivecomputer
 libee
 libgovirt
 libx86
+lineak-kdeplugins
 lv2-abGate
 lv2-kn0ck0ut
 maven-ant-plugin
@@ -122,7 +123,6 @@ oyranos
 pam_pkcs11
 paulstretch
 perdition
-php-htmlpurifier-htmlpurifier
 pscan
 python-alchimia
 python-cattrs
@@ -137,6 +137,7 @@ python-mongoengine
 python-nose-ignore-docstring
 python-sanic
 python-texttable
+python-trimesh
 python-virtkey
 python-zipstream
 resiprocate
