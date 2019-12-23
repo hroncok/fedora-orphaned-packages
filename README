@@ -45,6 +45,10 @@ gns3-server
 golang-github-10gen-openssl
 golang-github-codahale-aesnicheck
 graphite-web
+gtkparasite
+gtk-solidity-engine
+gtksourceview
+gtksourceview2-sharp
 guestfs-browser
 hystrix
 i3-ipc
@@ -61,11 +65,8 @@ jhdf5
 jogl2
 jove
 libee
-libgovirt
 libx86
-lv2-abGate
 lv2-kn0ck0ut
-matio
 maven-ant-plugin
 maven-checkstyle-plugin
 maven-deploy-plugin
@@ -115,6 +116,7 @@ pam_pkcs11
 paulstretch
 perdition
 pscan
+publican-genome
 python-alchimia
 python-cattrs
 python-dockerpty
@@ -126,13 +128,8 @@ python-k8sclient
 python-lasagna
 python-mongoengine
 python-nose-ignore-docstring
+python-pybloomfiltermmap
 python-sanic
-python-softlayer
-python-sparklines
-python-sqlalchemy0.5
-python-sqlalchemy-traversal
-python-texttable
-python-tw2-jit
 python-virtkey
 python-zipstream
 qpid-proton
@@ -150,8 +147,6 @@ scamper
 shed
 sonatype-plugins-parent
 swt-chart
-tenr-de-styles-pkg
-termcap
 tesla-pom
 tmuxinator
 trac-doxygen-plugin
