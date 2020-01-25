@@ -1,6 +1,4 @@
 argyllcms
-Canna
-Django-south
 elementary
 exciting
 gdesklets-goodweather
@@ -12,13 +10,17 @@ jettison
 jetty-artifact-remote-resources
 jetty-assembly-descriptors
 jetty-test-policy
-kdetv
-laditools
-lam
+mapbender
 mindi-busybox
-MochiKit
+monodoc
+morphia
+nodejs-ansidiff
+nodejs-array-uniq
+nodejs-as-number
+nodejs-ast-traverse
 ntetris
-OpenTK
+nucleo
+nurbs++
 pam_pkcs11
 perl-Time-Piece-MySQL
 python-lasagna
@@ -35,6 +37,4 @@ swingx
 tesla-pom
 tudu
 udunits
-undertaker
-unittest
 xtv
