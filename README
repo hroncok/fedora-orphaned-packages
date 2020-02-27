@@ -5,6 +5,7 @@ appframework
 argyllcms
 bean-validation-api
 bindex
+centericq
 clang7.0
 clang8.0
 compress-lzf
@@ -12,8 +13,6 @@ cuneiform
 datanucleus-maven-parent
 dspam
 dump
-eclipse-slide
-eekboard
 elementary
 erlang-fs
 exciting
@@ -25,8 +24,6 @@ geronimo-jta
 gnome-shell-extension-taskwarrior
 hibernate
 htmlcleaner
-htmlview
-icu4j
 ini4j
 jacoco
 java-augeas
@@ -49,12 +46,15 @@ maven-shared-jarsigner
 mindi-busybox
 mongo-java-driver
 naga
+net6
+netdisco
 netty
 nimbus-jose-jwt
+nodejs-ast-traverse
+nodejs-ast-types
 nodejs-grunt-wrap
 nodejs-typeahead.js
 ntetris
-openxcap
 os-maven-plugin
 percona-xtrabackup
 perl-Business-Stripe
@@ -74,10 +74,7 @@ perl-Digest-Bcrypt
 perl-Digest-PBKDF2
 perl-Encode-DoubleEncodedUTF8
 perl-Image-SubImageFind
-perl-Mail-SPF-Query
-perl-Math-Clipper
 perl-Module-Data
-perl-MooseX-ChainedAccessors
 perl-Net-DHCP
 perl-Parse-CPAN-Packages-Fast
 perl-Parse-DMIDecode
@@ -97,6 +94,8 @@ python-django-tinymce
 python-lasagna
 python-transitions
 rome
+rootplot
+rpg
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-cocoon
@@ -105,7 +104,8 @@ rubygem-simple-rss
 tesla-pom
 tinymce
 udunits
-xorg-x11-drv-amd
-xorg-x11-drv-apm
-xorg-x11-drv-avivo
+xorg-x11-drv-r128
+xtrace
 xtv
+xword
+xxdiff
