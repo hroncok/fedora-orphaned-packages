@@ -1,5 +1,4 @@
 aalto-xml
-adns
 apache-commons-jexl
 appframework
 bean-validation-api
@@ -23,6 +22,7 @@ gdesklets-goodweather
 geronimo-jta
 glade3
 gnome-shell-extension-taskwarrior
+golang-github-go-errors-error
 hexter-dssi
 hibernate
 ini4j
@@ -31,7 +31,6 @@ javapoet
 javolution
 jbosscache-support
 jboss-marshalling
-jenkins-junit-plugin
 jetty-alpn-api
 jetty-build-support
 jmol
@@ -45,14 +44,11 @@ liblas
 libxslt
 llvm7.0
 llvm8.0
-lv2-c++-tools
 lv2-ll-plugins
 lz4-java
 lzma-java
 maven-injection-plugin
-maven-jarsigner-plugin
 maven-mapping
-maven-shared-jarsigner
 mindi-busybox
 mongo-java-driver
 mvel
@@ -65,6 +61,8 @@ nodejs-typeahead.js
 ntetris
 objectweb-asm3
 os-maven-plugin
+pantheon-files
+paragui
 percona-xtrabackup
 perl-Business-Stripe
 perl-Bytes-Random-Secure
@@ -81,7 +79,6 @@ perl-Date-Easter
 perl-Digest-Bcrypt
 perl-Digest-PBKDF2
 perl-Image-SubImageFind
-perl-IO-Compress-Base
 perl-Module-Data
 perl-Parse-CPAN-Packages-Fast
 perl-Parse-DMIDecode
@@ -89,10 +86,6 @@ perl-Path-ScanINC
 perl-SOCKS
 perl-Sys-Detect-Virtualization
 perl-Time-TAI64
-perl-VCS-LibCVS
-perl-WebService-Google-Language
-perl-WWW-Myspace
-perl-WWW-Pastebin-RafbNet-Create
 perl-X11-GUITest
 pgbouncer
 phat
@@ -100,7 +93,6 @@ php-Analog
 php-nikic-fast-route
 phpPgAdmin
 php-slim3
-pidgin-knotify
 postgresql_autodoc
 postgresql-dbi-link
 postgresql-pgpoolAdmin
@@ -108,6 +100,7 @@ postgresql-plruby
 primitive
 python-couchdb
 python-django-tinymce
+python-flickrapi
 python-lasagna
 python-transitions
 randomizedtesting
@@ -116,14 +109,10 @@ rosegarden4
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-cocoon
+rubygem-net-dns
 rubygem-simple-rss
 tesla-pom
-tintwizard
 tinymce
-tinymce-spellchecker
-tinyows
 udunits
-ushare
-uxlaunch
 wannier90
 xtv
