@@ -1,6 +1,8 @@
 aalto-xml
+aduna-commons-concurrent
 apache-commons-jexl
 appframework
+avalon-logkit
 bean-validation-api
 bindex
 clang8.0
@@ -15,6 +17,9 @@ dspam
 elementary
 erlang-fs
 fluxcapacitor
+fprint_demo
+freecode-submit
+freediams
 freemarker
 gdesklets-goodweather
 geronimo-jta
@@ -50,12 +55,10 @@ naga
 nekobee-dssi
 netty
 nimbus-jose-jwt
+nodejs-fd
 nodejs-grunt-wrap
 nodejs-historic-readline
-nodejs-stream-to-array
 nodejs-typeahead.js
-novprog
-npush
 ntetris
 objectweb-asm3
 os-maven-plugin
@@ -96,8 +99,9 @@ postgresql_autodoc
 postgresql-dbi-link
 postgresql-pgpoolAdmin
 primitive
-python-alchimia
 python-couchdb
+python-django-countries
+python-django-dynamite
 python-django-tinymce
 python-lasagna
 randomizedtesting
@@ -107,7 +111,6 @@ rubygem-boxgrinder-core
 rubygem-cocoon
 rubygem-simple-rss
 simple-xml
-stupid-package
 tesla-pom
 tinymce
 udunits
