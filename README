@@ -1,8 +1,6 @@
 aalto-xml
-aduna-commons-concurrent
 apache-commons-jexl
 appframework
-avalon-logkit
 bean-validation-api
 bindex
 clang8.0
@@ -17,9 +15,6 @@ dspam
 elementary
 erlang-fs
 fluxcapacitor
-fprint_demo
-freecode-submit
-freediams
 freemarker
 gdesklets-goodweather
 geronimo-jta
@@ -55,12 +50,12 @@ naga
 nekobee-dssi
 netty
 nimbus-jose-jwt
-nodejs-fd
 nodejs-grunt-wrap
 nodejs-historic-readline
 nodejs-typeahead.js
 ntetris
 objectweb-asm3
+oflb-roadstencil-fonts
 os-maven-plugin
 percona-xtrabackup
 perl-Compress-LZ4
@@ -95,13 +90,15 @@ php-Analog
 php-nikic-fast-route
 phpPgAdmin
 php-slim3
+php-symfony2-Form
+php-symfony2-Process
+php-symfony2-Routing
+polyxmass-data
 postgresql_autodoc
 postgresql-dbi-link
 postgresql-pgpoolAdmin
 primitive
 python-couchdb
-python-django-countries
-python-django-dynamite
 python-django-tinymce
 python-lasagna
 randomizedtesting
@@ -115,4 +112,6 @@ tesla-pom
 tinymce
 udunits
 wannier90
+xorg-x11-drv-mutouch
+xorg-x11-drv-neomagic
 xtv
