@@ -19,10 +19,6 @@ freemarker
 gdesklets-goodweather
 geronimo-jta
 glade3
-globus-duroc-common
-globus-gram-job-manager-setup-fork
-globus-gram-job-manager-setup-lsf
-globus-gram-job-manager-setup-pbs
 gnome-shell-extension-taskwarrior
 insect
 jacoco
@@ -41,9 +37,6 @@ jsr-311
 laszip
 libdivecomputer-subsurface
 liblas
-libtelepathy
-libtermcap
-libtextcat
 llvm8.0
 lv2-ll-plugins
 lz4-java
@@ -62,7 +55,6 @@ nodejs-historic-readline
 nodejs-typeahead.js
 ntetris
 objectweb-asm3
-ocaml-cmigrep
 os-maven-plugin
 percona-xtrabackup
 perl-Config-ApacheFormat
@@ -84,10 +76,6 @@ primitive
 python-couchdb
 python-django-tinymce
 python-lasagna
-python-myghty
-python-netdiff
-python-netjsonconfig
-python-networking-cisco
 randomizedtesting
 rome
 rubygem-boxgrinder-build
@@ -96,7 +84,11 @@ rubygem-cocoon
 rubygem-simple-rss
 simple-xml
 tesla-pom
+tigase-server
+tigase-xmltools
+tiger-types
 tinymce
 udunits
+undertaker
 wannier90
 xtv
