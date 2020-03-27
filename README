@@ -9,7 +9,8 @@ containers
 cpptasks
 cuneiform
 datanucleus-maven-parent
-dillo
+dbunit
+dbus-cxx
 disruptor-thrift-server
 dspam
 elementary
@@ -44,6 +45,7 @@ lzma-java
 maven-injection-plugin
 maven-mapping
 mindi-busybox
+modplugtools
 mongo-java-driver
 mvel
 naga
@@ -76,6 +78,9 @@ primitive
 python-couchdb
 python-django-tinymce
 python-lasagna
+python-storm
+python-strainer
+python-sudsds
 randomizedtesting
 rome
 rubygem-boxgrinder-build
@@ -84,11 +89,11 @@ rubygem-cocoon
 rubygem-simple-rss
 simple-xml
 tesla-pom
-tigase-server
-tigase-xmltools
-tiger-types
 tinymce
 udunits
-undertaker
 wannier90
+webjars-locator
+webkitkde
+webkit-sharp
 xtv
+zarafa-webaccess
