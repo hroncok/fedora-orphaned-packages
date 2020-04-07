@@ -2,6 +2,7 @@ aalto-xml
 abcm2ps
 adapta-gtk-theme
 afpfs-ng
+airline
 antlr4
 apache-commons-dbutils
 apache-commons-email
@@ -9,12 +10,10 @@ apache-commons-jci
 apache-commons-jcs
 apanov-edrip-fonts
 apbs
-arduino
 artha
 avalon-framework
 avr-gdb
 batik
-bauble
 biboumi
 bless
 bmake
@@ -23,10 +22,7 @@ bygfoot
 cassandra-java-driver
 castor
 catimg
-cdi-api1
 cdpr
-cf-sorts-mill-goudy-fonts
-checkdns
 ckermit
 classloader-leak-test-framework
 cmyktool
@@ -39,7 +35,6 @@ CPUFreqUtility
 datanucleus-maven-parent
 dateshift
 dibbler
-dieharder
 disruptor-thrift-server
 docco
 drbd
@@ -55,9 +50,6 @@ eclipse-remote
 eclipse-subclipse
 eclipse-testng
 eclipse-webtools
-eclipse-wtp-common
-eclipse-wtp-jpa
-eclipse-wtp-jst-web
 elementary
 emacs-mmm
 fcoe-utils
@@ -131,8 +123,6 @@ mx4j
 mycila-pom
 ncrack
 nekobee-dssi
-nimbus-jose-jwt
-nip2
 nodejs-base64-arraybuffer
 nodejs-bcryptjs
 nodejs-bunyan
@@ -234,6 +224,8 @@ perl-Filesys-SmbClient
 phat
 php-onelogin-php-saml
 phpPgAdmin
+php-symfony2-Finder
+php-symfony2-Form
 pidgin-musictracker
 plexus-bsh-factory
 postgresql_autodoc
@@ -256,7 +248,6 @@ rescu
 rfdump
 rigsofrods
 rsyntaxtextarea
-rubygem-addressable
 rubygem-aws-sdk-core
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -264,7 +255,6 @@ rubygem-memfs
 rubygem-mixlib-log
 rubygem-rack-attack
 rubygem-ruby2ruby
-rubygem-ruby_parser
 rubygem-yell
 saoimage
 scilab
@@ -281,6 +271,7 @@ svnkit
 telepathy-rakia
 termy-qt
 tesla-pom
+TeXamator
 the_silver_searcher
 tomahawk
 tuxanci
@@ -296,7 +287,11 @@ wannier90
 waypipe
 wlc
 wmmon
+wmtictactoe
 wpewebkit
+xfce4-remmina-plugin
 xneur
+xorg-x11-drv-acecad
+xorg-x11-drv-summa
+xorg-x11-drv-suncg14
 xtv
-zimg
