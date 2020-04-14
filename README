@@ -37,8 +37,6 @@ dsi
 echoping
 eclipse-avr
 eclipse-egit-github
-eclipse-linuxprofilingframework
-eclipse-linuxtools
 eclipse-m2e-core
 eclipse-mylyn
 eclipse-photran
@@ -49,9 +47,6 @@ eclipse-testng
 eclipse-webtools
 elementary
 emacs-mmm
-esperanza
-esteidcerts
-ethos
 fcoe-utils
 flatbuffers
 foma
@@ -59,6 +54,8 @@ fts
 gcolor2
 GConf2
 gdesklets-goodweather
+gentlyweb-utils
+geoqo
 geronimo-jcache
 geronimo-jcdi-1.0-api
 ggz-gtk-client
@@ -75,7 +72,6 @@ gwget
 hcc
 hfsplusutils
 hovercraft
-hppc
 imageinfo
 insect
 java-vash
@@ -91,17 +87,16 @@ jlatexmath
 jline3
 josm
 jruby
-keybinder3
-laszip
 lde
-libacpi
 libccp4
-liblas
 libnih
 libopensync-plugin-gnokii
 libvtemm
 lldpad
 lterm
+lv2core
+lvcool
+lx
 maven-injection-plugin
 maven-mapping
 maven-release
@@ -195,8 +190,6 @@ nodejs-strong-log-transformer
 nodejs-tern-cordovajs
 nodejs-to-absolute-glob
 nodejs-underscore-dot-logger
-nodejs-unzip-response
-nodejs-upper-case
 nodejs-url2
 nodejs-vasync
 nodejs-watchit
@@ -214,6 +207,7 @@ oshinko-cli
 parfait
 percona-xtrabackup
 perl-Filesys-SmbClient
+perl-X11-GUITest
 phat
 php-onelogin-php-saml
 phpPgAdmin
@@ -224,6 +218,7 @@ postgresql-dbi-link
 postgresql-pgpoolAdmin
 publican-jboss
 pwmd
+pyspi
 python-bashate
 python-django-post_office
 python-hug
@@ -242,7 +237,6 @@ rubygem-boxgrinder-core
 rubygem-memfs
 rubygem-mixlib-log
 rubygem-rack-attack
-rubygem-ruby2ruby
 rubygem-yell
 saoimage
 scilab
@@ -251,7 +245,6 @@ simple-xml
 si-units
 snapraid
 soundtracker
-spatialite-gui
 sscep
 sslext
 stream-lib
@@ -262,10 +255,6 @@ termy-qt
 tesla-pom
 the_silver_searcher
 tomahawk
-trilead-ssh2
-trinity
-tristripper
-truecommons
 tuxanci
 typesafe-config
 ubertooth
@@ -276,7 +265,6 @@ uom-systems
 utop
 velocity-tools
 waypipe
-wildfly-arquillian
 wlc
 wmmon
 wpewebkit
