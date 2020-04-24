@@ -1,5 +1,8 @@
 abcm2ps
 adapta-gtk-theme
+airsched
+akuma
+alchemist
 antlr4
 apache-commons-dbutils
 apache-commons-email
@@ -60,7 +63,6 @@ gnomad2
 gnomint
 gpsdrive
 GREYCstoration
-grsync
 gtick
 gtkdialog
 guava20
@@ -69,7 +71,6 @@ hcc
 hfsplusutils
 hovercraft
 imageinfo
-insect
 istatd
 java-vash
 javolution
@@ -92,7 +93,6 @@ libopensync-plugin-gnokii
 libvtemm
 lldpad
 lterm
-maven-one-plugin
 maven-release
 maven-stage-plugin
 mboxgrep
@@ -100,6 +100,11 @@ mbrowse
 metrics-reporter-config
 mindi-busybox
 mipv6-daemon
+molengo-fonts
+monodevelop-boo
+monodevelop-debugger-mdb
+mono-ndoc
+mono-sharpcvslib
 musique
 mx4j
 mycila-pom
@@ -143,7 +148,6 @@ nodejs-grunt-contrib-csslint
 nodejs-grunt-init
 nodejs-grunt-lib-contrib
 nodejs-highlight-js
-nodejs-historic-readline
 nodejs-htmlparser2
 nodejs-i
 nodejs-is-arrow-function
@@ -200,12 +204,14 @@ perl-Filesys-SmbClient
 php-onelogin-php-saml
 pidgin-musictracker
 plexus-bsh-factory
-preload
+proxool
 publican-jboss
 pwmd
 python-args
 python-bashate
 python-clint
+python-django-profile
+python-django-rest-framework-braces
 python-flower
 python-hug
 python-invocations
@@ -215,12 +221,10 @@ python-social-auth-app-flask
 python-social-auth-app-flask-sqlalchemy
 python-social-auth-core
 python-social-auth-storage-sqlalchemy
+python-socketpool
 python-sphinxcontrib-fulltoc
 python-sqlalchemy_schemadisplay
 python-sseclient
-qgo
-ql2100-firmware
-ql2200-firmware
 reactfx
 repmgr
 rescu
@@ -236,7 +240,6 @@ rubygem-mixlib-log
 rubygem-rack-attack
 rubygem-slop
 rubygem-yell
-rust-rpm-macros
 saoimage
 scilab
 scrot
@@ -246,8 +249,6 @@ snapraid
 sscep
 sse2fedmsg
 sslext
-starfighter
-statscache-plugins
 stream-lib
 struts
 svnkit
