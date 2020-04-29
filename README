@@ -1,5 +1,6 @@
 abcm2ps
 adapta-gtk-theme
+agave
 apache-commons-dbutils
 apache-commons-email
 apache-commons-jci
@@ -9,6 +10,7 @@ apbs
 artha
 avalon-framework
 avr-gdb
+bea-stax
 biboumi
 bmake
 bval
@@ -28,7 +30,6 @@ datanucleus-maven-parent
 dateshift
 dibbler
 docco
-drbd
 driftnet
 dsi
 echoping
@@ -53,6 +54,7 @@ geronimo-jcdi-1.0-api
 ggz-gtk-client
 gluegen2
 gmpc
+GMT-doc
 gnomad2
 gnomint
 gpsdrive
@@ -72,12 +74,12 @@ jbosscache-support
 jboss-jsf-2.2-api
 jchart2d
 jetty-parent
+jetty-toolchain
 jlatexmath
 jline3
 josm
 jruby
 js-php-date-formatter
-keybinder3
 lde
 libccp4
 libnih
@@ -85,16 +87,17 @@ libopensync-plugin-gnokii
 libvtemm
 lldpad
 lterm
-maven-release
 maven-stage-plugin
 mboxgrep
 mbrowse
 metrics-reporter-config
 mindi-busybox
 mipv6-daemon
+mulk
 musique
 mx4j
 mycila-pom
+nautilus-actions
 nodejs-base64-arraybuffer
 nodejs-bcryptjs
 nodejs-bunyan
@@ -161,6 +164,7 @@ nodejs-pkg-up
 nodejs-q
 nodejs-q-io
 nodejs-qunit-extras
+nodejs-rc
 nodejs-read-json-sync
 nodejs-redent
 nodejs-replace-ext
@@ -170,7 +174,13 @@ nodejs-select-hose
 nodejs-snockets
 nodejs-source-map-support
 nodejs-strong-log-transformer
+nodejs-strscanner
+nodejs-stylus
+nodejs-superagent-proxy
 nodejs-tern-cordovajs
+nodejs-tilejson
+nodejs-tilelive
+nodejs-timed-out
 nodejs-to-absolute-glob
 nodejs-underscore-dot-logger
 nodejs-url2
@@ -194,9 +204,7 @@ plexus-bsh-factory
 publican-jboss
 pwmd
 python-args
-python-backports-ssl_match_hostname
 python-bashate
-python-bibtex
 python-clint
 python-flower
 python-hug
@@ -209,7 +217,6 @@ python-social-auth-core
 python-social-auth-storage-sqlalchemy
 python-sphinxcontrib-fulltoc
 python-sqlalchemy_schemadisplay
-python-sseclient
 reactfx
 relaxngcc
 relaxngDatatype
@@ -230,7 +237,6 @@ rubygem-ruby_parser
 rubygem-slop
 rubygem-yell
 saoimage
-scilab
 scrot
 si-units
 snapraid
@@ -238,15 +244,10 @@ sound-juicer
 sscep
 sse2fedmsg
 sslext
-starfighter
 stax-ex
-staxmate
 stream-lib
 struts
 svnkit
-synce-connector
-synce-gnome
-synce-gnomevfs
 telepathy-rakia
 termy-qt
 tesla-pom
@@ -254,6 +255,7 @@ tomahawk
 typesafe-config
 ubertooth
 udunits
+uglify-js
 uom-lib
 uom-se
 uom-systems
