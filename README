@@ -54,9 +54,6 @@ gluegen2
 gmpc
 gnomad2
 gnomint
-gorm
-gossip
-gpar2
 gpsdrive
 GREYCstoration
 gtick
@@ -79,6 +76,11 @@ jline3
 josm
 jruby
 js-php-date-formatter
+kannel
+ksplash-engine-moodin
+ksynaptics
+kte-collaborative
+ktp-call-ui
 lde
 libccp4
 libnih
@@ -166,6 +168,7 @@ nodejs-replace-ext
 nodejs-ret
 nodejs-revalidator
 nodejs-select-hose
+nodejs-should-promised
 nodejs-snockets
 nodejs-source-map-support
 nodejs-strong-log-transformer
@@ -200,6 +203,9 @@ python-hug
 python-invocations
 python-lasagna
 python-poppler-qt4
+python-setupdocs
+python-sexy
+python-shove
 python-social-auth-app-flask
 python-social-auth-app-flask-sqlalchemy
 python-social-auth-core
@@ -216,13 +222,8 @@ rigsofrods
 rubygem-aws-sdk-core
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-descendants_tracker
 rubygem-diff_dirs
 rubygem-gettext_i18n_rails
-rubygem-hmac
-rubygem-hoptoad_notifier
-rubygem-ice_nine
-rubygem-inifile
 rubygem-memfs
 rubygem-mixlib-log
 rubygem-rack-attack
@@ -242,7 +243,6 @@ sslext
 stax-ex
 stream-lib
 struts
-sudoku-savant
 svnkit
 telepathy-rakia
 termy-qt
@@ -261,10 +261,6 @@ waypipe
 wlc
 wmmon
 wpewebkit
-xchat-gnome
-xchat-ruby
-xcin
-xcm
 xmlstreambuffer
 xneur
 xtv
