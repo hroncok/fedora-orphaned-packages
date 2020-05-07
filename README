@@ -22,8 +22,11 @@ cinnamon-themes
 cmyktool
 codemodel
 cog
+compat-guichan07
 coriander
 CPUFreqUtility
+curvesapi
+darkice
 datanucleus-maven-parent
 dateshift
 dibbler
@@ -54,6 +57,10 @@ glassfish-fastinfoset
 gluegen2
 gmpc
 gnomad2
+gnome-compiz-manager
+gnome-mag
+gnome-mount
+gnome-netstatus
 gnomint
 gpsdrive
 GREYCstoration
@@ -78,12 +85,8 @@ jline3
 josm
 jruby
 js-php-date-formatter
-kde-plasma-quickaccess
 lde
 libccp4
-libdigidoc
-libdivecomputer
-libdlo
 libnih
 libopensync-plugin-gnokii
 libvtemm
@@ -95,7 +98,6 @@ mbrowse
 metrics-reporter-config
 mindi-busybox
 mipv6-daemon
-multisync
 musique
 mx4j
 mycila-pom
@@ -192,11 +194,11 @@ openjpa
 oshinko-cli
 pangox-compat
 parfait
-perl-Nagios-Plugin-Beanstalk
-perl-NOCpulse-SetID
 php-onelogin-php-saml
 pidgin-musictracker
 plexus-bsh-factory
+postr
+powerpc-utils-python
 publican-jboss
 pwmd
 python-args
@@ -206,7 +208,6 @@ python-flower
 python-hug
 python-invocations
 python-lasagna
-python-nevow
 python-poppler-qt4
 python-social-auth-app-flask
 python-social-auth-app-flask-sqlalchemy
@@ -214,6 +215,7 @@ python-social-auth-core
 python-social-auth-storage-sqlalchemy
 python-sphinxcontrib-fulltoc
 python-sqlalchemy_schemadisplay
+qca-gnupg
 reactfx
 relaxngcc
 relaxngDatatype
@@ -221,6 +223,7 @@ repmgr
 rescu
 rfdump
 rigsofrods
+rman
 rubygem-aws-sdk-core
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -228,6 +231,8 @@ rubygem-diff_dirs
 rubygem-gettext_i18n_rails
 rubygem-mixlib-log
 rubygem-rack-attack
+rubygem-regin
+rubygem-restr
 rubygem-ruby2ruby
 rubygem-ruby_parser
 rubygem-slop
