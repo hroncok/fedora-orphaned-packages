@@ -19,9 +19,6 @@ cinnamon-themes
 cmyktool
 codemodel
 cog
-compiz-fusion-extras
-compiz-fusion-unsupported
-condor-cloud
 coriander
 CPUFreqUtility
 CutyCapt
@@ -80,10 +77,14 @@ jruby
 js-json
 js-php-date-formatter
 js-zlib
+kitsune
 lde
 libccp4
 libnih
 libopensync-plugin-gnokii
+libpam4j
+libpano12
+libpath_utils
 libvtemm
 marked
 maven-release
@@ -334,10 +335,8 @@ nodejs-serve-index
 nodejs-setimmediate
 nodejs-sha
 nodejs-shelljs
-nodejs-should-promised
 nodejs-showdown
 nodejs-sigmund
-nodejs-silent-npm-registry-client
 nodejs-slide
 nodejs-snockets
 nodejs-source-map
@@ -388,6 +387,8 @@ pangox-compat
 parfait
 php-onelogin-php-saml
 pidgin-musictracker
+properties-maven-plugin
+protoparser
 publican-jboss
 pwmd
 python-args
@@ -400,7 +401,6 @@ python-lasagna
 python-poppler-qt4
 python-social-auth-app-flask
 python-social-auth-app-flask-sqlalchemy
-python-social-auth-core
 python-social-auth-storage-sqlalchemy
 python-sphinxcontrib-fulltoc
 python-sqlalchemy_schemadisplay
@@ -451,12 +451,8 @@ uom-se
 uom-systems
 velocity-tools
 web-assets
-wfut
 wmmon
-wordtrans
 wpewebkit
-wp_tray
-wso2-wsf-cpp
 xmlstreambuffer
 xneur
 xsom
