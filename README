@@ -2,6 +2,8 @@ apache-commons-vfs
 cinnamon-applet-globalappmenu
 cinnamon-themes
 CutyCapt
+cx18-firmware
+d3lphin
 datanucleus-maven-parent
 dateformat
 drawtk
@@ -12,11 +14,6 @@ felix-osgi-obr-resolver
 gdesklets-goodweather
 glassfish-hk2
 gnome-themes
-gperiodic
-hal-cups-utils
-harctoolbox
-hartke-aurulent-sans-fonts
-hawtdb
 istatd
 jasmine
 jasmine-node
@@ -27,10 +24,7 @@ js-php-date-formatter
 js-zlib
 kchildlock
 kitsune
-lirc-kmod-common
-littleproxy
-livereload
-llvm7.0
+maven-jaxb2-plugin
 maven-release
 mindi-busybox
 mocha
@@ -53,7 +47,6 @@ nodejs-boom
 nodejs-buffer-crc32
 nodejs-buffer-equal
 nodejs-bunker
-nodejs-bunyan
 nodejs-burrito
 nodejs-bytes
 nodejs-callsite
@@ -121,7 +114,6 @@ nodejs-grunt-contrib-internal
 nodejs-grunt-contrib-uglify
 nodejs-grunt-contrib-watch
 nodejs-grunt-git-authors
-nodejs-grunt-util-args
 nodejs-gzip-size
 nodejs-has-color
 nodejs-hawk
@@ -139,7 +131,6 @@ nodejs-joosex-simplerequest
 nodejs-jscoverage
 nodejs-jsonfile
 nodejs-jsonify
-nodejs-json-parse-better-errors
 nodejs-json-stringify-safe
 nodejs-js-yaml
 nodejs-jwt-simple
@@ -222,7 +213,6 @@ nodejs-traverse
 nodejs-tunnel-agent
 nodejs-uglify-to-browserify
 nodejs-uid-number
-nodejs-underscore
 nodejs-underscore-dot-string
 nodejs-vhost
 nodejs-walkdir
@@ -238,7 +228,6 @@ ocaml-json-wheel
 ocaml-pxp
 ocaml-ulex
 pangox-compat
-python26-m2crypto
 python-args
 python-clint
 python-flower
@@ -251,9 +240,6 @@ python-sphinxcontrib-fulltoc
 python-sqlalchemy_schemadisplay
 python-tgext-crud
 python-zope-i18nmessageid
-reaver-wps
-redet
-redhat-artwork
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-diff_dirs
