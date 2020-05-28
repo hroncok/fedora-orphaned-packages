@@ -7,6 +7,7 @@ bwping
 cdk
 cinnamon-applet-globalappmenu
 cinnamon-themes
+cpupowerutils
 CutyCapt
 cvsgraph
 cvsplot
@@ -25,6 +26,10 @@ ggobi
 glassfish-hk2
 gnome-themes
 gpredict
+guiloader
+guiloader-c++
+gwget
+hekafs
 ircd-ratbox
 irssi
 istatd
@@ -37,13 +42,12 @@ js-php-date-formatter
 js-zlib
 kchildlock
 kitsune
+ktp-contact-applet
+kxdocker-resources
+libbeagle
+libbluedevil
 libglade2
-mate-doc-utils
 maven-release
-meego-panel-devices
-meego-panel-myzone
-meego-panel-people
-meego-panel-status
 mencal
 mercator
 mindi-busybox
@@ -185,8 +189,10 @@ nodejs-optimist
 nodejs-opts
 nodejs-osenv
 nodejs-package
+nodejs-package-info
 nodejs-paperboy
 nodejs-parseurl
+nodejs-path-case
 nodejs-pause
 nodejs-pkginfo
 nodejs-pretty-bytes
@@ -268,7 +274,6 @@ python-tgext-crud
 python-zope-i18nmessageid
 ratbox-services
 redmode
-rubygem-audited-activerecord
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-diff_dirs
@@ -280,9 +285,6 @@ rubygem-ruby_parser
 rubygem-slop
 scilab
 siril
-smemstat
-smolt
-snacc
 sse2fedmsg
 sub2srt
 tesla-pom
