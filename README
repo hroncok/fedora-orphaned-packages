@@ -15,6 +15,7 @@ cvsweb
 datanucleus-maven-parent
 dateformat
 drawtk
+ebay-cors-filter
 elementary
 eris
 felix-framework
@@ -36,6 +37,7 @@ jasmine-node
 javolution
 jbosscache-support
 jp2a
+js-jquery-datetimepicker
 js-json
 json-table
 js-zlib
