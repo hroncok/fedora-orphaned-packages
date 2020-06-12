@@ -5,7 +5,6 @@ apache-commons-vfs
 astronomy-backgrounds
 astronomy-bookmarks
 cdk
-cinnamon-applet-globalappmenu
 coro-mock
 csvdiff
 CutyCapt
@@ -251,6 +250,7 @@ ocaml-json-wheel
 ocaml-pxp
 ocaml-ulex
 openslide-python
+orthanc
 pam_ccreds
 pangox-compat
 pyephem
@@ -264,11 +264,7 @@ repsnapper
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-echoe
-rubygem-gettext_i18n_rails
 rubygem-inflecto
-rubygem-ruby2ruby
-rubygem-ruby_parser
-scilab
 shared-color-targets
 sub2srt
 sysfsutils
