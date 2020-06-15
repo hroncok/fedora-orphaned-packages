@@ -4,7 +4,6 @@ amqp
 apache-commons-vfs
 astronomy-backgrounds
 astronomy-bookmarks
-cdk
 coro-mock
 csvdiff
 CutyCapt
@@ -19,8 +18,6 @@ elementary
 eris
 felix-framework
 felix-osgi-obr-resolver
-fritzing
-fritzing-parts
 gcx
 gdesklets-goodweather
 ggobi
@@ -42,7 +39,6 @@ json-table
 js-zlib
 kchildlock
 kitsune
-maven-release
 mencal
 mercator
 mindi-busybox
@@ -251,7 +247,6 @@ ocaml-ulex
 openslide-python
 orthanc
 pam_ccreds
-pangox-compat
 pyephem
 python-cltk
 python-lasagna
@@ -272,6 +267,7 @@ udunits
 uglify-js1
 varconf
 vocal
+wt
 xcompmgr
 xstar
 xtv
