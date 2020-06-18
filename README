@@ -36,7 +36,6 @@ jbosscache-support
 jp2a
 js-jquery-datetimepicker
 js-json
-json-table
 js-zlib
 kchildlock
 kitsune
@@ -268,6 +267,7 @@ sub2srt
 sysfsutils
 tesla-pom
 udunits
+uglify-js
 uglify-js1
 varconf
 vocal
