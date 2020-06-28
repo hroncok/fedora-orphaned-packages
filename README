@@ -21,9 +21,11 @@ gcx
 gdesklets-goodweather
 ggobi
 glassfish-hk2
+glpi
 gobby05
 gtkglextmm
 icon-slicer
+iipsrv
 invokebinder
 ircd-ratbox
 javolution
@@ -47,6 +49,12 @@ ocaml-ulex
 openslide-python
 orthanc
 pam_ccreds
+php-elvanto-litemoji
+php-IDNA_Convert
+php-markdown
+php-scssphp-scssphp
+php-simplepie
+php-true-punycode
 pyephem
 python-cltk
 python-lasagna
