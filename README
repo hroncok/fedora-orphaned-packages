@@ -15,6 +15,7 @@ ember-media
 felix-osgi-obr
 felix-shell
 foo2zjs
+gabedit
 gallery3-openid
 gdb-heap
 gdesklets-goodweather
@@ -291,6 +292,7 @@ python-django-babel
 python-gerrit-view
 python-jupyterlab-launcher
 python-lasagna
+python-line_profiler
 python-parallel-ssh
 python-pykmip
 python-pyro
