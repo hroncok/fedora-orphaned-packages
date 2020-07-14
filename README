@@ -3,7 +3,6 @@ anchorman
 atoum
 beacon
 carto
-coro-mock
 csvdiff
 datanucleus-maven-parent
 docker-client-java
@@ -11,6 +10,7 @@ ebay-cors-filter
 eclipse-m2e-core
 eclipse-remote
 elementary
+emacs-lua
 ember-media
 felix-osgi-obr
 felix-shell
@@ -42,7 +42,6 @@ gtkmathview
 icon-slicer
 iipsrv
 inception
-invokebinder
 iptux
 jake
 Java-WebSocket
@@ -54,7 +53,15 @@ js-jquery-datetimepicker
 kosmtik
 kxml
 libgssh
+libscs
 lodash
+lua-copas
+lua-coxpcall
+luadoc
+lua-logging
+lua-sql
+lua-wsapi
+lua-xmlrpc
 maven-osgi
 mediawiki-HTTP302Found
 mediawiki-intersection
