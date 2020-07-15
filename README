@@ -1,3 +1,4 @@
+amftools
 amqp
 anchorman
 atoum
@@ -19,7 +20,6 @@ gabedit
 gallery3-openid
 gdb-heap
 gdesklets-goodweather
-ghc-cabal-helper
 gimp-normalmap
 gloobus-preview
 glpi
@@ -37,7 +37,6 @@ golang-github-vitrun-qart
 grig
 gr-iio
 gspiceui
-gtkglextmm
 gtkmathview
 icon-slicer
 iipsrv
@@ -52,7 +51,9 @@ jp2a
 js-jquery-datetimepicker
 kosmtik
 kxml
+libdc1394
 libgssh
+libkni3
 libscs
 lodash
 lua-copas
@@ -323,7 +324,7 @@ python-pyro
 python-sphinxcontrib-issuetracker
 python-typeshed
 qucs
-repsnapper
+rapidxml
 rubygem-activeldap
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -336,8 +337,8 @@ tesla-pom
 trac-CGit-plugin
 trac-sensitivetickets-plugin
 udunits
+urg
 viewmtn
-vocal
 webacula
 wicd-kde
 wt
