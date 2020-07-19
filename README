@@ -1,11 +1,9 @@
 amftools
-amqp
 anchorman
 atoum
 beacon
 carto
 closure-compiler
-csvdiff
 datanucleus-maven-parent
 docker-client-java
 ebay-cors-filter
@@ -49,7 +47,6 @@ Java-WebSocket
 javolution
 jbosscache-support
 joda-convert
-jp2a
 js-jquery-datetimepicker
 kosmtik
 kxml
