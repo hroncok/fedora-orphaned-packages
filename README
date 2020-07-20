@@ -24,7 +24,6 @@ gloobus-preview
 glpi
 gnome-mud
 gnusim8085
-gobby05
 golang-github-calmh-du
 golang-github-calmh-xdr
 golang-github-chmduquesne-rollinghash
@@ -52,7 +51,6 @@ kosmtik
 kxml
 libdc1394
 libgssh
-libkni3
 libscs
 lodash
 lua-copas
@@ -342,7 +340,7 @@ python-ladon
 python-lasagna
 python-line_profiler
 python-parallel-ssh
-python-typeshed
+python-txamqp
 qucs
 rubygem-activeldap
 rubygem-aws-sdk-resources
@@ -354,7 +352,6 @@ rubygem-mixlib-authentication
 rubygem-occi-api
 rubygem-rhc
 rubygem-rmail-sup
-shared-color-targets
 ssm
 stbi
 tesla-pom
@@ -367,5 +364,4 @@ webacula
 wicd-kde
 wt
 xtv
-zbar
 znc-clientbuffer
