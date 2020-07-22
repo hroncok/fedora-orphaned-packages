@@ -4,10 +4,9 @@ atoum
 beacon
 carto
 closure-compiler
-datanucleus-maven-parent
 docker-client-java
 ebay-cors-filter
-eclipse-remote
+eclipse-m2e-core
 elementary
 emacs-lua
 ember-media
@@ -43,13 +42,11 @@ inception
 iptux
 jake
 Java-WebSocket
-javolution
 jbosscache-support
 joda-convert
 js-jquery-datetimepicker
 kosmtik
 kxml
-libdc1394
 libgssh
 libscs
 lodash
@@ -64,7 +61,6 @@ maven-osgi
 mediawiki-HTTP302Found
 mediawiki-intersection
 mindi-busybox
-mnemosyne
 modtools
 node-gyp
 nodejs-agentkeepalive
@@ -321,7 +317,6 @@ nodejs-zap
 nodejs-zipfile
 ntetris
 openid-selector
-openslide-python
 orpie
 orthanc
 percona-xtrabackup
@@ -333,6 +328,8 @@ php-scssphp-scssphp
 php-true-punycode
 plowshare
 psimedia
+psi-plus
+python-bigsuds
 python-django-babel
 python-gerrit-view
 python-jupyterlab-launcher
@@ -358,7 +355,6 @@ tesla-pom
 trac-CGit-plugin
 trac-sensitivetickets-plugin
 udunits
-urg
 viewmtn
 webacula
 wicd-kde
