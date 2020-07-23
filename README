@@ -5,7 +5,6 @@ beacon
 carto
 closure-compiler
 docker-client-java
-ebay-cors-filter
 eclipse-m2e-core
 elementary
 emacs-lua
@@ -44,7 +43,6 @@ jake
 Java-WebSocket
 jbosscache-support
 joda-convert
-js-jquery-datetimepicker
 kosmtik
 kxml
 libgssh
@@ -61,6 +59,7 @@ maven-osgi
 mediawiki-HTTP302Found
 mediawiki-intersection
 mindi-busybox
+mingw-liboil
 modtools
 node-gyp
 nodejs-agentkeepalive
