@@ -61,6 +61,7 @@ mediawiki-intersection
 mindi-busybox
 mingw-liboil
 modtools
+mozilla-iot-gateway
 node-gyp
 nodejs-agentkeepalive
 nodejs-ap
@@ -202,6 +203,7 @@ nodejs-multimatch
 nodejs-nan
 nodejs-nan1
 nodejs-nanomatch
+nodejs-nanomsg
 nodejs-node-expat
 nodejs-node-markdown
 nodejs-node-stringprep
@@ -317,8 +319,8 @@ nodejs-zipfile
 ntetris
 openid-selector
 orpie
-orthanc
 percona-xtrabackup
+perl-Boost-Geometry-Utils
 photoml
 php-elvanto-litemoji
 php-lightopenid
