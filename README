@@ -320,7 +320,6 @@ ntetris
 openid-selector
 orpie
 percona-xtrabackup
-perl-Boost-Geometry-Utils
 photoml
 php-elvanto-litemoji
 php-lightopenid
@@ -329,7 +328,6 @@ php-scssphp-scssphp
 php-true-punycode
 plowshare
 psimedia
-psi-plus
 python-bigsuds
 python-django-babel
 python-gerrit-view
