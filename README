@@ -5,7 +5,6 @@ beacon
 carto
 closure-compiler
 docker-client-java
-eclipse-m2e-core
 elementary
 emacs-lua
 ember-media
@@ -35,7 +34,6 @@ gr-iio
 gspiceui
 gtkmathview
 hip
-icon-slicer
 iipsrv
 inception
 iptux
@@ -47,6 +45,7 @@ kosmtik
 kxml
 libgssh
 libscs
+liquibase
 lodash
 lua-copas
 lua-coxpcall
@@ -319,7 +318,6 @@ nodejs-zipfile
 ntetris
 openid-selector
 orpie
-percona-xtrabackup
 photoml
 php-elvanto-litemoji
 php-lightopenid
@@ -348,6 +346,7 @@ rubygem-mixlib-authentication
 rubygem-occi-api
 rubygem-rhc
 rubygem-rmail-sup
+ruby-ldap
 ssm
 stbi
 tesla-pom
@@ -357,6 +356,4 @@ udunits
 viewmtn
 webacula
 wicd-kde
-wt
 xtv
-znc-clientbuffer
