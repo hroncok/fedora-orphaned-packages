@@ -342,6 +342,9 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-chef-zero
 rubygem-compass-import-once
+rubygem-elasticsearch
+rubygem-elasticsearch-api
+rubygem-fast_gettext
 rubygem-mixlib-authentication
 rubygem-occi-api
 rubygem-rhc
@@ -353,6 +356,7 @@ tesla-pom
 trac-CGit-plugin
 trac-sensitivetickets-plugin
 udunits
+unboundid-ldapsdk
 viewmtn
 webacula
 wicd-kde
