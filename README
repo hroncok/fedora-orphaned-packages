@@ -4,7 +4,6 @@ atoum
 beacon
 carto
 closure-compiler
-docker-client-java
 elementary
 emacs-lua
 ember-media
@@ -318,6 +317,7 @@ nodejs-zipfile
 ntetris
 openid-selector
 orpie
+perl-perl5i
 photoml
 php-elvanto-litemoji
 php-lightopenid
@@ -357,6 +357,9 @@ trac-CGit-plugin
 trac-sensitivetickets-plugin
 udunits
 unboundid-ldapsdk
+unison213
+unison227
+unison240
 viewmtn
 webacula
 wicd-kde
