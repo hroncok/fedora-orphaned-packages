@@ -76,6 +76,9 @@ nodejs-bl
 nodejs-bluebird
 nodejs-buffer-writer
 nodejs-call-delayed
+nodejs-caller-callsite
+nodejs-caller-path
+nodejs-callsites
 nodejs-chai
 nodejs-chai-connect-middleware
 nodejs-chai-passport-strategy
@@ -100,6 +103,7 @@ nodejs-conventional-changelog-jshint
 nodejs-conventional-changelog-writer
 nodejs-conventional-commits-parser
 nodejs-core-assert
+nodejs-core-util-is
 nodejs-coveralls
 nodejs-debuglog
 nodejs-deep-eql
@@ -109,7 +113,10 @@ nodejs-defence-cli
 nodejs-define-properties
 nodejs-dep-graph
 nodejs-difflet
+nodejs-duplexer
+nodejs-duplexify
 nodejs-ebnf-parser
+nodejs-end-of-stream
 nodejs-error-ex
 nodejs-es-abstract
 nodejs-escallmatch
@@ -123,6 +130,7 @@ nodejs-filelist
 nodejs-fill-keys
 nodejs-foreach
 nodejs-freetree
+nodejs-from
 nodejs-fs-ext
 nodejs-function-bind
 nodejs-gdal
@@ -250,6 +258,7 @@ nodejs-progress-stream
 nodejs-prompt
 nodejs-proxyquire
 nodejs-queue-async
+nodejs-readable-stream
 nodejs-read-all-stream
 nodejs-readdir-scoped-modules
 nodejs-read-pkg
@@ -336,7 +345,6 @@ python-line_profiler
 python-parallel-ssh
 python-txamqp
 qucs
-rubygem-activeldap
 rubygem-aws-sdk-resources
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
