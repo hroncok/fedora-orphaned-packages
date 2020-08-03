@@ -3,12 +3,16 @@ anchorman
 beacon
 carto
 closure-compiler
+coreboot-utils
+diffoscope
+eclipse-m2e-core
 elementary
 emacs-lua
 ember-media
 felix-osgi-obr
 felix-shell
 foo2zjs
+fst
 gabedit
 gallery3-openid
 gdb-heap
@@ -31,6 +35,7 @@ grig
 gr-iio
 gspiceui
 gtkmathview
+hdfview
 hip
 iipsrv
 inception
@@ -52,6 +57,7 @@ lua-logging
 lua-sql
 lua-wsapi
 lua-xmlrpc
+man-pages-de
 maven-osgi
 mediawiki-HTTP302Found
 mediawiki-intersection
@@ -336,11 +342,13 @@ plowshare
 psimedia
 python-bigsuds
 python-django-babel
+python-django-storages
 python-gerrit-view
 python-jupyterlab-launcher
 python-ladon
 python-lasagna
 python-line_profiler
+python-neomodel
 python-parallel-ssh
 python-txamqp
 qucs
@@ -367,6 +375,7 @@ unboundid-ldapsdk
 unison213
 unison227
 unison240
+usb_modeswitch
 viewmtn
 webacula
 wicd-kde
