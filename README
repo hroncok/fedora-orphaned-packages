@@ -4,13 +4,12 @@ beacon
 carto
 closure-compiler
 coreboot-utils
+dbus-java
 diffoscope
 eclipse-m2e-core
 elementary
 emacs-lua
 ember-media
-felix-osgi-obr
-felix-shell
 foo2zjs
 fst
 gabedit
@@ -41,12 +40,10 @@ iipsrv
 inception
 iptux
 jake
-Java-WebSocket
 jbosscache-support
-joda-convert
 kosmtik
-kxml
 libgssh
+libmatthew-java
 libscs
 liquibase
 lodash
@@ -58,13 +55,15 @@ lua-sql
 lua-wsapi
 lua-xmlrpc
 man-pages-de
-maven-osgi
 mediawiki-HTTP302Found
 mediawiki-intersection
 mindi-busybox
 mingw-liboil
 modtools
 mozilla-iot-gateway
+mozilla-iot-gateway-addon-node
+mozilla-iot-gateway-addon-python
+nanomsg
 node-gyp
 nodejs-agentkeepalive
 nodejs-ap
@@ -236,7 +235,6 @@ nodejs-passport-oauth2
 nodejs-passport-strategy
 nodejs-path-exists
 nodejs-path-extra
-nodejs-path-type
 nodejs-pedding
 nodejs-pff
 nodejs-pg
@@ -306,7 +304,6 @@ nodejs-supports-color
 nodejs-tap
 nodejs-tape
 nodejs-tap-spec
-nodejs-temp-write
 nodejs-text-table
 nodejs-through2
 nodejs-tilelive-mapnik
@@ -330,7 +327,6 @@ nodejs-zap
 nodejs-zipfile
 ntetris
 openid-selector
-orpie
 perl-perl5i
 photoml
 php-elvanto-litemoji
@@ -349,6 +345,7 @@ python-ladon
 python-lasagna
 python-line_profiler
 python-neomodel
+python-nnpy
 python-parallel-ssh
 python-txamqp
 qucs
