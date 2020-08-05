@@ -6,7 +6,6 @@ closure-compiler
 coreboot-utils
 dbus-java
 diffoscope
-eclipse-m2e-core
 elementary
 emacs-lua
 ember-media
@@ -41,6 +40,10 @@ inception
 iptux
 jake
 jbosscache-support
+js-jquery-iframe-transport
+js-jquery-knob
+js-jquery-qrcode
+js-tag-it
 kosmtik
 libgssh
 libmatthew-java
@@ -348,6 +351,7 @@ python-neomodel
 python-nnpy
 python-parallel-ssh
 python-txamqp
+qrcode-generator
 qucs
 rubygem-aws-sdk-resources
 rubygem-boxgrinder-build
