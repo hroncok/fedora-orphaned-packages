@@ -5,7 +5,6 @@ carto
 closure-compiler
 coreboot-utils
 dbus-java
-diffoscope
 elementary
 emacs-lua
 ember-media
@@ -365,6 +364,7 @@ rubygem-mixlib-authentication
 rubygem-occi-api
 rubygem-rhc
 rubygem-rmail-sup
+rubygem-wikicloth
 ruby-ldap
 ssm
 stbi
