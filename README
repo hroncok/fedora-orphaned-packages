@@ -17,7 +17,6 @@ gdesklets-goodweather
 gfal2-util
 gimp-normalmap
 gloobus-preview
-glpi
 gnome-mud
 gnusim8085
 golang-github-calmh-du
@@ -34,7 +33,6 @@ gspiceui
 gtkmathview
 hdfview
 hip
-iipsrv
 inception
 iptux
 jake
@@ -331,11 +329,8 @@ ntetris
 openid-selector
 perl-perl5i
 photoml
-php-elvanto-litemoji
 php-lightopenid
 php-pear-Auth-OpenID
-php-scssphp-scssphp
-php-true-punycode
 plowshare
 psimedia
 python-bigsuds
@@ -349,6 +344,7 @@ python-line_profiler
 python-neomodel
 python-nnpy
 python-parallel-ssh
+python-ssh2-python
 python-txamqp
 qrcode-generator
 qucs
