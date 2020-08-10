@@ -18,15 +18,12 @@ gfal2-util
 gimp-normalmap
 gloobus-preview
 gnome-mud
-gnusim8085
 golang-github-calmh-du
 golang-github-calmh-xdr
 golang-github-chmduquesne-rollinghash
-golang-github-d4l3k-messagediff
 golang-github-jackpal-gateway
 golang-github-syncthing-notify
 golang-github-thejerf-suture
-golang-github-vitrun-qart
 grig
 gr-iio
 gspiceui
@@ -36,6 +33,7 @@ hip
 inception
 iptux
 jake
+jaxb2-maven-plugin
 jbosscache-support
 js-jquery-iframe-transport
 js-jquery-knob
@@ -55,6 +53,7 @@ lua-sql
 lua-wsapi
 lua-xmlrpc
 man-pages-de
+maven-jaxb2-plugin
 mediawiki-HTTP302Found
 mediawiki-intersection
 mindi-busybox
@@ -337,14 +336,10 @@ python-bigsuds
 python-django-babel
 python-django-storages
 python-gerrit-view
-python-jupyterlab-launcher
 python-ladon
 python-lasagna
 python-line_profiler
-python-neomodel
 python-nnpy
-python-parallel-ssh
-python-ssh2-python
 python-txamqp
 qrcode-generator
 qucs
