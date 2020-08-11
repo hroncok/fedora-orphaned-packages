@@ -335,7 +335,6 @@ psimedia
 python-bigsuds
 python-django-babel
 python-django-storages
-python-gerrit-view
 python-ladon
 python-lasagna
 python-line_profiler
@@ -347,14 +346,10 @@ rubygem-aws-sdk-resources
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-chef-zero
-rubygem-compass-import-once
 rubygem-elasticsearch
 rubygem-elasticsearch-api
 rubygem-fast_gettext
 rubygem-mixlib-authentication
-rubygem-occi-api
-rubygem-rhc
-rubygem-rmail-sup
 rubygem-wikicloth
 ruby-ldap
 ssm
@@ -368,7 +363,7 @@ unison213
 unison227
 unison240
 usb_modeswitch
-viewmtn
 webacula
 wicd-kde
+xstream
 xtv
