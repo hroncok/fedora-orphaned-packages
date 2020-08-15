@@ -1,7 +1,5 @@
 amftools
 apache-commons-dbcp
-apache-commons-parent
-apache-commons-validator
 carto
 closure-compiler
 coreboot-utils
@@ -11,7 +9,6 @@ emacs-lua
 fst
 gabedit
 gdesklets-goodweather
-geronimo-ejb
 gfal2-util
 gimp-normalmap
 golang-github-calmh-du
