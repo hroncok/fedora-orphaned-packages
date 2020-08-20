@@ -41,9 +41,6 @@ mozilla-iot-gateway-addon-node
 mozilla-iot-gateway-addon-python
 nanomsg
 nodejs-ascii-tree
-nodejs-caller-callsite
-nodejs-caller-path
-nodejs-callsites
 nodejs-core-util-is
 nodejs-debuglog
 nodejs-deep-extend
@@ -65,8 +62,6 @@ nodejs-pinkie-promise
 nodejs-process-nextick-args
 nodejs-readable-stream
 nodejs-read-all-stream
-nodejs-ronn
-nodejs-safe-buffer
 nodejs-split
 nodejs-statuses
 nodejs-stream-combiner
@@ -82,7 +77,6 @@ numix-icon-theme
 numix-icon-theme-circle
 openid-selector
 PEGTL
-perl-perl5i
 php-lightopenid
 php-pear-Auth-OpenID
 python-kaptan
@@ -95,6 +89,8 @@ qrcode-generator
 rmic-maven-plugin
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-delayed_job
+rubygem-delayed_job_active_record
 rubygem-elasticsearch
 rubygem-elasticsearch-api
 rubygem-fast_gettext
