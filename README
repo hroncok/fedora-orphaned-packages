@@ -17,6 +17,7 @@ js-jquery-iframe-transport
 js-jquery-knob
 js-jquery-qrcode
 js-tag-it
+jvnet-parent
 libmatthew-java
 libscs
 liquibase
@@ -98,6 +99,7 @@ rubygem-sigdump
 rubygem-wikicloth
 ruby-ldap
 satyr
+sonatype-oss-parent
 stbi
 stress-ng
 tesla-pom
