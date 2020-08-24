@@ -1,6 +1,7 @@
 abrt-addon-python3
 amftools
 apache-commons-dbcp
+codemodel
 container-exception-logger
 dbus-java
 elementary
@@ -8,8 +9,7 @@ emacs-lua
 fst
 gdesklets-goodweather
 geronimo-parent-poms
-glassfish-legal
-glassfish-master-pom
+golang-github-mholt-certmagic-0.9
 jaxb2-maven-plugin
 jbosscache-support
 joda-time
@@ -49,10 +49,6 @@ nodejs-http-signature
 nodejs-readable-stream
 nodejs-snapdragon
 ntetris
-numix-gtk-theme
-numix-icon-theme
-numix-icon-theme-circle
-PEGTL
 python-kaptan
 python-ladon
 python-lasagna
@@ -76,7 +72,6 @@ ruby-ldap
 satyr
 sonatype-oss-parent
 stbi
-stress-ng
 tesla-pom
 udunits
 unboundid-ldapsdk
