@@ -1,7 +1,5 @@
-abrt-addon-python3
 amftools
 apache-commons-dbcp
-codemodel
 container-exception-logger
 dbus-java
 elementary
@@ -10,7 +8,6 @@ fst
 gdesklets-goodweather
 geronimo-parent-poms
 golang-github-mholt-certmagic-0.9
-jaxb2-maven-plugin
 jbosscache-support
 joda-time
 js-jquery-iframe-transport
@@ -23,19 +20,14 @@ libscs
 liquibase
 lua-copas
 lua-coxpcall
-luadoc
-lua-logging
-lua-sql
 lua-wsapi
 lua-xmlrpc
 man-pages-de
-maven-jaxb2-plugin
 mindi-busybox
 mingw-liboil
 mozilla-iot-gateway
 mozilla-iot-gateway-addon-node
 mozilla-iot-gateway-addon-python
-nanomsg
 nodejs-core-util-is
 nodejs-css-stringify
 nodejs-css-tree
@@ -50,7 +42,6 @@ nodejs-readable-stream
 nodejs-snapdragon
 ntetris
 python-kaptan
-python-ladon
 python-lasagna
 python-libtmux
 python-nnpy
@@ -70,6 +61,7 @@ rubygem-sigdump
 rubygem-wikicloth
 ruby-ldap
 satyr
+shared-mime-info
 sonatype-oss-parent
 stbi
 tesla-pom
