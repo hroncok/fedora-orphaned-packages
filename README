@@ -1,9 +1,7 @@
-amftools
 apache-commons-dbcp
 container-exception-logger
 dbus-java
 elementary
-emacs-lua
 fst
 gdesklets-goodweather
 geronimo-parent-poms
@@ -16,13 +14,9 @@ js-jquery-qrcode
 js-tag-it
 jvnet-parent
 libmatthew-java
-libscs
 liquibase
-lua-copas
-lua-coxpcall
-lua-wsapi
-lua-xmlrpc
 man-pages-de
+marble-widget
 mindi-busybox
 mingw-liboil
 mozilla-iot-gateway
@@ -47,6 +41,8 @@ python-libtmux
 python-nnpy
 python-txamqp
 qrcode-generator
+relaxngcc
+relaxngDatatype
 rmic-maven-plugin
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
@@ -63,7 +59,6 @@ ruby-ldap
 satyr
 shared-mime-info
 sonatype-oss-parent
-stbi
 tesla-pom
 udunits
 unboundid-ldapsdk
