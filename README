@@ -35,6 +35,8 @@ nodejs-http-signature
 nodejs-readable-stream
 nodejs-snapdragon
 ntetris
+plexus-ant-factory
+plexus-component-factories-pom
 python-kaptan
 python-lasagna
 python-libtmux
@@ -64,5 +66,4 @@ unboundid-ldapsdk
 unison213
 unison227
 unison240
-usb_modeswitch
 xtv
