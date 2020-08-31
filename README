@@ -41,7 +41,6 @@ python-kaptan
 python-lasagna
 python-libtmux
 python-nnpy
-python-txamqp
 qrcode-generator
 relaxngcc
 relaxngDatatype
