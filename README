@@ -2,6 +2,7 @@ apache-commons-dbcp
 container-exception-logger
 dbus-java
 elementary
+freight
 fst
 gdesklets-goodweather
 geronimo-parent-poms
@@ -45,6 +46,7 @@ qrcode-generator
 relaxngcc
 relaxngDatatype
 rmic-maven-plugin
+rubygem-Ascii85
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-delayed_job
@@ -52,10 +54,16 @@ rubygem-delayed_job_active_record
 rubygem-elasticsearch
 rubygem-elasticsearch-api
 rubygem-fast_gettext
+rubygem-jgrep
 rubygem-org-ruby
+rubygem-paint
+rubygem-rkerberos
 rubygem-rubypants
+rubygem-ruby-rc4
 rubygem-sigdump
+rubygem-unicode-display_width
 rubygem-wikicloth
+rubygem-wirb
 ruby-ldap
 satyr
 sonatype-oss-parent
