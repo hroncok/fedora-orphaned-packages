@@ -21,7 +21,6 @@ liquibase
 man-pages-de
 marble-widget
 mindi-busybox
-mozilla-iot-gateway
 mozilla-iot-gateway-addon-node
 mozilla-iot-gateway-addon-python
 nodejs-babel-code-frame
@@ -102,6 +101,7 @@ satyr
 sonatype-oss-parent
 tesla-pom
 udunits
+umlgraph
 unboundid-ldapsdk
 unison213
 unison227
