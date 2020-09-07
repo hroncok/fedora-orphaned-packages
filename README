@@ -64,7 +64,6 @@ nodejs-rollup-plugin-commonjs
 nodejs-rollup-plugin-node-resolve
 nodejs-snapdragon
 nodejs-socket-dot-io-parser
-nodejs-svgo
 nodejs-tap-mocha-reporter
 nodejs-tap-parser
 ntetris
@@ -79,7 +78,6 @@ qrcode-generator
 relaxngcc
 relaxngDatatype
 rmic-maven-plugin
-rubygem-Ascii85
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-delayed_job
@@ -92,7 +90,6 @@ rubygem-org-ruby
 rubygem-paint
 rubygem-rkerberos
 rubygem-rubypants
-rubygem-ruby-rc4
 rubygem-sigdump
 rubygem-wikicloth
 rubygem-wirb
