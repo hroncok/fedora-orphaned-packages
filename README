@@ -2,7 +2,6 @@ apache-commons-dbcp
 container-exception-logger
 dbus-java
 elementary
-emacs-magit
 fedora-icon-theme
 freight
 fst
@@ -69,6 +68,7 @@ nodejs-tap-parser
 ntetris
 plexus-ant-factory
 plexus-component-factories-pom
+python-jose
 python-kaptan
 python-lasagna
 python-libtmux
