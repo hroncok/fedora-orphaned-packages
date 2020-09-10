@@ -81,9 +81,6 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-delayed_job
 rubygem-delayed_job_active_record
-rubygem-elasticsearch
-rubygem-elasticsearch-api
-rubygem-fast_gettext
 rubygem-jgrep
 rubygem-org-ruby
 rubygem-paint
@@ -92,12 +89,10 @@ rubygem-rubypants
 rubygem-sigdump
 rubygem-wikicloth
 rubygem-wirb
-ruby-ldap
 sonatype-oss-parent
 tesla-pom
 udunits
 umlgraph
-unboundid-ldapsdk
 unison213
 unison227
 unison240
