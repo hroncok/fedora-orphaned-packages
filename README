@@ -28,19 +28,14 @@ nodejs-body-parser
 nodejs-bufferutil
 nodejs-cache-base
 nodejs-call-matcher
-nodejs-core-util-is
 nodejs-cross-spawn
 nodejs-cross-spawn-async
 nodejs-css-stringify
 nodejs-css-tree
 nodejs-doctrine
-nodejs-duplexer
-nodejs-duplexify
-nodejs-end-of-stream
 nodejs-espower-location-detector
 nodejs-esrecurse
 nodejs-faucet
-nodejs-from
 nodejs-fs-dot-notify
 nodejs-gauge
 nodejs-global-prefix
@@ -54,7 +49,6 @@ nodejs-node-static
 nodejs-nopt
 nodejs-option-cache
 nodejs-raw-body
-nodejs-readable-stream
 nodejs-rechoir
 nodejs-require-yaml
 nodejs-rfile
@@ -93,7 +87,4 @@ sonatype-oss-parent
 tesla-pom
 udunits
 umlgraph
-unison213
-unison227
-unison240
 xtv
