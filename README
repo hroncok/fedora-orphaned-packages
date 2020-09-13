@@ -8,6 +8,7 @@ gdesklets-goodweather
 geronimo-parent-poms
 golang-github-mholt-certmagic-0.9
 jbosscache-support
+jboss-interceptors-1.2-api
 joda-time
 js-jquery-iframe-transport
 js-jquery-knob
@@ -16,6 +17,7 @@ js-tag-it
 jvnet-parent
 libmatthew-java
 liquibase
+log4j12
 man-pages-de
 marble-widget
 mindi-busybox
