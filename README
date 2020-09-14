@@ -70,6 +70,7 @@ python-libtmux
 python-nnpy
 python-zope-configuration
 qrcode-generator
+rdesktop
 relaxngcc
 relaxngDatatype
 rmic-maven-plugin
