@@ -1,9 +1,7 @@
 apache-commons-dbcp
-dbus-java
 elementary
 fedora-icon-theme
 freight
-fst
 gdesklets-goodweather
 geronimo-parent-poms
 golang-github-mholt-certmagic-0.9
@@ -15,14 +13,9 @@ js-jquery-knob
 js-jquery-qrcode
 js-tag-it
 jvnet-parent
-libmatthew-java
-liquibase
 log4j12
-man-pages-de
 marble-widget
 mindi-busybox
-mozilla-iot-gateway-addon-node
-mozilla-iot-gateway-addon-python
 nodejs-babel-code-frame
 nodejs-base
 nodejs-bcrypt
@@ -67,10 +60,8 @@ python-jose
 python-kaptan
 python-lasagna
 python-libtmux
-python-nnpy
 python-zope-configuration
 qrcode-generator
-rdesktop
 relaxngcc
 relaxngDatatype
 rmic-maven-plugin
