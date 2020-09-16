@@ -8,10 +8,6 @@ golang-github-mholt-certmagic-0.9
 jbosscache-support
 jboss-interceptors-1.2-api
 joda-time
-js-jquery-iframe-transport
-js-jquery-knob
-js-jquery-qrcode
-js-tag-it
 jvnet-parent
 log4j12
 marble-widget
@@ -61,7 +57,6 @@ python-kaptan
 python-lasagna
 python-libtmux
 python-zope-configuration
-qrcode-generator
 relaxngcc
 relaxngDatatype
 rmic-maven-plugin
