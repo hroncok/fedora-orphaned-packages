@@ -64,6 +64,7 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-delayed_job
 rubygem-delayed_job_active_record
+rubygem-erubis
 rubygem-jgrep
 rubygem-org-ruby
 rubygem-paint
@@ -76,4 +77,5 @@ sonatype-oss-parent
 tesla-pom
 udunits
 umlgraph
+winetricks
 xtv
