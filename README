@@ -50,12 +50,11 @@ nodejs-socket-dot-io-parser
 nodejs-tap-mocha-reporter
 nodejs-tap-parser
 ntetris
+pipsi
 plexus-ant-factory
 plexus-component-factories-pom
 python-jose
-python-kaptan
 python-lasagna
-python-libtmux
 python-zope-configuration
 relaxngcc
 relaxngDatatype
@@ -64,7 +63,6 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-delayed_job
 rubygem-delayed_job_active_record
-rubygem-erubis
 rubygem-jgrep
 rubygem-org-ruby
 rubygem-paint
@@ -77,5 +75,6 @@ tesla-pom
 udunits
 umlgraph
 vdr-skinsoppalusikka
+vtun
 winetricks
 xtv
