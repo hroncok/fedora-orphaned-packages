@@ -1,4 +1,3 @@
-apache-commons-dbcp
 elementary
 fedora-icon-theme
 freight
@@ -7,7 +6,6 @@ geronimo-parent-poms
 golang-github-mholt-certmagic-0.9
 jbosscache-support
 jboss-interceptors-1.2-api
-joda-time
 jvnet-parent
 log4j12
 marble-widget
@@ -58,7 +56,6 @@ python-lasagna
 python-zope-configuration
 relaxngcc
 relaxngDatatype
-rmic-maven-plugin
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-delayed_job
