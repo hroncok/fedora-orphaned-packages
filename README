@@ -2,7 +2,6 @@ elementary
 fedora-icon-theme
 freight
 gdesklets-goodweather
-geronimo-parent-poms
 golang-github-mholt-certmagic-0.9
 jbosscache-support
 jboss-interceptors-1.2-api
@@ -53,6 +52,7 @@ plexus-ant-factory
 plexus-component-factories-pom
 python-jose
 python-lasagna
+python-XStatic-jQuery
 python-zope-configuration
 relaxngcc
 relaxngDatatype
@@ -65,7 +65,6 @@ rubygem-org-ruby
 rubygem-paint
 rubygem-rkerberos
 rubygem-rubypants
-rubygem-sigdump
 rubygem-wirb
 sonatype-oss-parent
 tesla-pom
