@@ -53,6 +53,7 @@ plexus-ant-factory
 plexus-component-factories-pom
 python-jose
 python-lasagna
+python-pytest-spec
 python-XStatic-jQuery
 python-zope-configuration
 relaxngcc
@@ -62,10 +63,8 @@ rubygem-boxgrinder-core
 rubygem-delayed_job
 rubygem-delayed_job_active_record
 rubygem-jgrep
-rubygem-org-ruby
 rubygem-paint
 rubygem-rkerberos
-rubygem-rubypants
 rubygem-wirb
 sonatype-oss-parent
 tesla-pom
