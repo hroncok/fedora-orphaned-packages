@@ -53,15 +53,12 @@ plexus-ant-factory
 plexus-component-factories-pom
 python-jose
 python-lasagna
-python-pytest-spec
 python-XStatic-jQuery
 python-zope-configuration
 relaxngcc
 relaxngDatatype
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-delayed_job
-rubygem-delayed_job_active_record
 rubygem-jgrep
 rubygem-paint
 rubygem-rkerberos
