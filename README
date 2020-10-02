@@ -7,6 +7,7 @@ hub
 jbosscache-support
 jboss-interceptors-1.2-api
 jvnet-parent
+lockdev
 log4j12
 marble-widget
 mindi-busybox
@@ -19,16 +20,12 @@ nodejs-cache-base
 nodejs-call-matcher
 nodejs-cross-spawn
 nodejs-cross-spawn-async
-nodejs-css-stringify
-nodejs-css-tree
 nodejs-doctrine
-nodejs-espower-location-detector
 nodejs-esrecurse
 nodejs-faucet
 nodejs-fs-dot-notify
 nodejs-gauge
 nodejs-global-prefix
-nodejs-grunt
 nodejs-grunt-legacy-util
 nodejs-http-signature
 nodejs-jsonm
@@ -43,7 +40,6 @@ nodejs-require-yaml
 nodejs-rfile
 nodejs-rollup-plugin-commonjs
 nodejs-rollup-plugin-node-resolve
-nodejs-snapdragon
 nodejs-socket-dot-io-parser
 nodejs-tap-mocha-reporter
 nodejs-tap-parser
@@ -51,9 +47,12 @@ ntetris
 pipsi
 plexus-ant-factory
 plexus-component-factories-pom
+pstoedit
+python-ansicolors
 python-jose
 python-lasagna
 python-XStatic-jQuery
+python-yattag
 python-zope-configuration
 relaxngcc
 relaxngDatatype
