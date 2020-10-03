@@ -6,7 +6,6 @@ golang-github-mholt-certmagic-0.9
 hub
 jbosscache-support
 jboss-interceptors-1.2-api
-jvnet-parent
 lockdev
 log4j12
 marble-widget
@@ -62,7 +61,6 @@ rubygem-jgrep
 rubygem-paint
 rubygem-rkerberos
 rubygem-wirb
-sonatype-oss-parent
 tesla-pom
 udunits
 umlgraph
