@@ -10,6 +10,7 @@ lockdev
 log4j12
 marble-widget
 mindi-busybox
+mockito
 nodejs-babel-code-frame
 nodejs-base
 nodejs-bcrypt
@@ -46,6 +47,7 @@ ntetris
 pipsi
 plexus-ant-factory
 plexus-component-factories-pom
+powermock
 pstoedit
 python-ansicolors
 python-jose
