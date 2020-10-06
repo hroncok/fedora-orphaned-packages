@@ -1,3 +1,4 @@
+apache-commons-configuration
 elementary
 fedora-icon-theme
 freight
@@ -6,11 +7,12 @@ golang-github-mholt-certmagic-0.9
 hub
 jbosscache-support
 jboss-interceptors-1.2-api
+jboss-jsf-2.1-api
 lockdev
 log4j12
 marble-widget
+metadata-extractor2
 mindi-busybox
-mockito
 nodejs-babel-code-frame
 nodejs-base
 nodejs-bcrypt
@@ -49,15 +51,7 @@ plexus-ant-factory
 plexus-component-factories-pom
 powermock
 python-ansicolors
-python-CacheControl
-python-cleo
-python-clikit
-python-crashtest
 python-lasagna
-python-lockfile
-python-pastel
-python-pkginfo
-python-pylev
 python-XStatic-jQuery
 python-yattag
 relaxngcc
