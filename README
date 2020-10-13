@@ -1,8 +1,6 @@
 apache-commons-configuration
 asciidoc
 at
-cronie
-crontabs
 elementary
 fedora-icon-theme
 freight
@@ -12,7 +10,6 @@ hub
 jbosscache-support
 jboss-interceptors-1.2-api
 jboss-jsf-2.1-api
-lockdev
 log4j12
 metadata-extractor2
 mindi-busybox
