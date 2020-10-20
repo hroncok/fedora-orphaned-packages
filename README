@@ -1,14 +1,17 @@
 apache-commons-configuration
 celt071
+dnscap
 elementary
 gdesklets-goodweather
 hub
 jbosscache-support
 jboss-interceptors-1.2-api
 jboss-jsf-2.1-api
+libbind
 log4j12
 metadata-extractor2
 mindi-busybox
+mingw-gtkglext
 nodejs-http-signature
 nodejs-node-static
 nodejs-nopt
@@ -27,5 +30,6 @@ rubygem-boxgrinder-core
 tesla-pom
 udunits
 vdr-skinsoppalusikka
+vrpn
 vtun
 xtv
