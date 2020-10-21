@@ -12,12 +12,8 @@ log4j12
 metadata-extractor2
 mindi-busybox
 mingw-gtkglext
-nodejs-http-signature
-nodejs-node-static
-nodejs-nopt
 ntetris
 pipsi
-powermock
 pyqtrailer
 python-beanbag
 python-dpath
