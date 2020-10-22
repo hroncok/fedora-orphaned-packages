@@ -4,6 +4,7 @@ dnscap
 elementary
 gdesklets-goodweather
 hub
+java-comment-preprocessor
 jbosscache-support
 jboss-interceptors-1.2-api
 jboss-jsf-2.1-api
@@ -16,7 +17,6 @@ ntetris
 pipsi
 pyqtrailer
 python-beanbag
-python-dpath
 python-lasagna
 python-libsass
 python-XStatic-jQuery
