@@ -8,7 +8,6 @@ dynafed
 elasticdump
 electrum
 elementary
-environment-modules
 gdesklets-goodweather
 ghc-pipes-safe
 gtatool
@@ -23,6 +22,8 @@ metadata-extractor2
 mindi-busybox
 mingw-gtkglext
 mocha
+mpir
+netty-tcnative
 neurord
 nodejs-assume
 nodejs-block-stream
@@ -84,6 +85,7 @@ nodejs-util-inspect
 nodejs-wrap-fn
 nodejs-write-file-atomic
 nodeunit
+normaliz
 ntetris
 numad
 peripety
@@ -96,7 +98,6 @@ python-libsass
 python-social-auth-core
 python-XStatic-jQuery
 pytrailer
-rofi
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-responders
@@ -106,7 +107,6 @@ sugar-starchart
 tesla-pom
 tuxcut
 udunits
-vdr-skinsoppalusikka
 vrpn
 vtun
 xinetd
