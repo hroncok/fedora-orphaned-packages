@@ -1,6 +1,7 @@
 ansible-collection-community-general
 apache-commons-configuration
 celt071
+checksec
 compat-guile18
 discord-irc
 dnscap
