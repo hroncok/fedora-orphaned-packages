@@ -9,6 +9,7 @@ dynafed
 elasticdump
 electrum
 elementary
+fedora-developer-portal
 gdesklets-goodweather
 ghc-pipes-safe
 gtatool
@@ -87,6 +88,7 @@ nodejs-wrap-fn
 nodejs-write-file-atomic
 nodeunit
 normaliz
+notepadqq
 ntetris
 numad
 peripety
@@ -94,7 +96,6 @@ pyqtrailer
 python-django-helpdesk
 python-django-storages
 python-lasagna
-python-social-auth-core
 python-XStatic-jQuery
 pytrailer
 rubygem-boxgrinder-build
