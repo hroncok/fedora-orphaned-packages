@@ -1,11 +1,11 @@
 ansible-collection-community-general
 apache-commons-configuration
 celt071
-checksec
+colorhug-client
 compat-guile18
+cros-guest-tools
 discord-irc
 dnscap
-dynafed
 elasticdump
 electrum
 elementary
@@ -22,6 +22,7 @@ legendsbrowser
 libbind
 metadata-extractor2
 mindi-busybox
+mingw-colorhug-client
 mingw-gtkglext
 mocha
 mpir
@@ -87,7 +88,6 @@ nodejs-util-inspect
 nodejs-wrap-fn
 nodejs-write-file-atomic
 nodeunit
-normaliz
 notepadqq
 ntetris
 numad
