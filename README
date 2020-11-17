@@ -1,5 +1,4 @@
 ansible-collection-community-general
-apache-commons-configuration
 celt071
 colorhug-client
 compat-guile18
@@ -15,12 +14,10 @@ ghc-pipes-safe
 gtatool
 hsqldb1
 jbosscache-support
-jboss-jsf-2.1-api
 jgraphx
 jsonp
 legendsbrowser
 libbind
-metadata-extractor2
 mindi-busybox
 mingw-colorhug-client
 mingw-gtkglext
@@ -52,7 +49,6 @@ nodejs-istanbul-lib-report
 nodejs-istanbul-reports
 nodejs-jade
 nodejs-multipipe
-nodejs-mz
 nodejs-nanomsg
 nodejs-needle
 nodejs-node-dot-extend
