@@ -39,12 +39,7 @@ gnome-code-assistance
 gnome-documents
 golang-contrib-opencensus-exporter-ocagent
 golang-github-casbin
-golang-github-cenkalti-backoff
-golang-github-cespare-xxhash
-golang-github-henvic-httpretty
-golang-github-paulbellamy-ratecounter
 golang-k8s-kubernetes
-goobook
 gridftp-ifce
 gtatool
 hsakmt
@@ -701,14 +696,10 @@ powermock
 pysendfile
 python-abclient
 python-blindspin
-python-django-helpdesk
-python-django-storages
-python-dmidecode
 python-epi
 python-iptables
 python-lasagna
 python-mdp
-python-mongoquery
 python-pika-pool
 python-ryu
 python-setuptools_git
