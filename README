@@ -1,6 +1,7 @@
 ansible-collection-community-general
 apiviz
 apper
+atanua
 bfast
 biblesync
 bifcl
@@ -42,6 +43,7 @@ golang-github-casbin
 golang-k8s-kubernetes
 gridftp-ifce
 gtatool
+guacamole-server
 hsakmt
 hsqldb1
 icemon
@@ -183,6 +185,7 @@ nodejs-boolbase
 nodejs-brace-expansion
 nodejs-braces
 nodejs-browser-stdout
+nodejs-busboy
 nodejs-byline
 nodejs-callback-stream
 nodejs-call-me-maybe
@@ -267,6 +270,7 @@ nodejs-detect-file
 nodejs-detect-newline
 nodejs-detect-node
 nodejs-dezalgo
+nodejs-dicer
 nodejs-diff
 nodejs-difflib
 nodejs-dirty-chai
@@ -464,6 +468,7 @@ nodejs-obuf
 nodejs-on-finished
 nodejs-on-headers
 nodejs-optjs
+nodejs-orchestrator
 nodejs-ordered-read-streams
 nodejs-os-shim
 nodejs-output-file-sync
@@ -504,6 +509,7 @@ nodejs-propget
 nodejs-proxy-addr
 nodejs-pseudomap
 nodejs-p-try
+nodejs-pump
 nodejs-pumpify
 nodejs-qs
 nodejs-qtdatastream
@@ -695,6 +701,7 @@ powermock
 pysendfile
 python-abclient
 python-blindspin
+python-django-storages
 python-epi
 python-iptables
 python-lasagna
@@ -721,12 +728,17 @@ rust-proc-quote
 rust-ws
 RxCpp
 rxtx
+samdump2
 sbinary
 scala
 scalacheck
 se-sandbox-runner
+shutter
 sir
 skinlf
+skipfish
+snownews
+sslscan
 steghide
 stxxl
 sugar-kuku
@@ -739,11 +751,13 @@ swami
 synergy
 tagainijisho
 taskd
+telepathy-salut
 tesla-pom
 tflogger
 tonto
 tuxcut
 udunits
+vdr-vnsiserver
 viennacl
 vrpn
 xalan-c
