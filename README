@@ -9,7 +9,6 @@ bmon
 celt071
 colorhug-client
 cook
-coolreader
 couchdb
 cros-guest-tools
 dc3dd
@@ -17,7 +16,6 @@ dep
 discord-irc
 dnscap
 dnsjava
-dumb-init
 dynaplugz
 edb
 elasticdump
@@ -43,7 +41,6 @@ golang-k8s-kubernetes
 gridftp-ifce
 gtatool
 guacamole-server
-hsakmt
 hsqldb1
 icemon
 innoextract
@@ -60,7 +57,6 @@ jnettop
 js-html5shiv
 js-jquery-file-upload
 jsl
-jsonp
 js-respond
 koschei
 legendsbrowser
@@ -696,7 +692,6 @@ peripety
 pforth
 pianobooster
 piglit
-powermock
 pysendfile
 python-abclient
 python-blindspin
@@ -712,8 +707,6 @@ qfaxreader
 qmpdclient
 qtweetlib
 resapplet
-rocminfo
-rocm-runtime
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-json_pure
@@ -735,8 +728,6 @@ se-sandbox-runner
 shutter
 sir
 skinlf
-snownews
-steghide
 stxxl
 sugar-kuku
 sugar-measure
@@ -745,7 +736,6 @@ sugar-visualmatch
 sugar-yupana
 svxlink
 swami
-synergy
 tagainijisho
 taskd
 telepathy-salut
