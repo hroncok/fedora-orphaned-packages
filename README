@@ -5,8 +5,7 @@ atanua
 bfast
 biblesync
 bifcl
-bmon
-celt071
+bip
 colorhug-client
 cook
 couchdb
@@ -14,7 +13,6 @@ cros-guest-tools
 dc3dd
 dep
 discord-irc
-dnscap
 dnsjava
 dynaplugz
 edb
@@ -35,6 +33,7 @@ glyr
 gmpc
 gnome-code-assistance
 gnome-documents
+gnome-shell-extension-desktop-icons
 golang-contrib-opencensus-exporter-ocagent
 golang-github-casbin
 golang-k8s-kubernetes
@@ -61,7 +60,6 @@ js-respond
 koschei
 legendsbrowser
 libad9361
-libbind
 libbtbb
 libemu
 libgcal
@@ -79,7 +77,6 @@ mindi-busybox
 mingw-celt051
 mingw-colorhug-client
 mingw-gstreamer-plugins-base
-mingw-gtkglext
 mingw-mediawriter
 mocha
 moos
@@ -734,7 +731,6 @@ sugar-measure
 sugar-starchart
 sugar-visualmatch
 sugar-yupana
-svxlink
 swami
 tagainijisho
 taskd
@@ -745,8 +741,6 @@ tonto
 tuxcut
 udunits
 viennacl
-vrpn
-xalan-c
 xerces-c27
 xinetd
 xtv
