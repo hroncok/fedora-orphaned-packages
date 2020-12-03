@@ -1,4 +1,5 @@
 ansible-collection-community-general
+apache-commons-chain
 apiviz
 apper
 atanua
@@ -8,7 +9,6 @@ bifcl
 bip
 colorhug-client
 cook
-couchdb
 cros-guest-tools
 dc3dd
 dep
@@ -725,6 +725,7 @@ se-sandbox-runner
 shutter
 sir
 skinlf
+skipfish
 stxxl
 sugar-kuku
 sugar-measure
