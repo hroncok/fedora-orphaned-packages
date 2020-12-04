@@ -42,7 +42,6 @@ gtatool
 guacamole-server
 hsqldb1
 icemon
-innoextract
 java-comment-preprocessor
 jaxodraw
 jblas
@@ -64,7 +63,6 @@ libbtbb
 libemu
 libgcal
 libjson-rpc-cpp
-libpri
 libquvi
 llvm5.0
 llvm6.0
@@ -693,7 +691,6 @@ pysendfile
 python-abclient
 python-blindspin
 python-django-storages
-python-epi
 python-iptables
 python-lasagna
 python-mdp
