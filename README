@@ -16,6 +16,7 @@ discord-irc
 dnsjava
 dynaplugz
 edb
+ekiga
 elasticdump
 electric
 elementary
@@ -672,6 +673,7 @@ nvi
 ocaml-rope
 oggvideotools
 ogre-pagedgeometry
+opal
 openav-luppp
 openboardview
 owncloud-client
@@ -683,6 +685,7 @@ peripety
 pforth
 pianobooster
 piglit
+ptlib
 pysendfile
 python-abclient
 python-blindspin
