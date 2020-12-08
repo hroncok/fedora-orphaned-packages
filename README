@@ -37,7 +37,6 @@ gnome-shell-extension-desktop-icons
 gridftp-ifce
 gtatool
 guacamole-server
-hsqldb1
 icemon
 java-comment-preprocessor
 jaxodraw
@@ -64,7 +63,6 @@ libquvi
 llvm5.0
 llvm6.0
 logisim
-lsyncd
 lv2-EQ10Q-plugins
 mcu8051ide
 meshmagick
@@ -680,7 +678,6 @@ pagila
 pam_abl
 pcp-pmda-cpp
 percona-xtrabackup
-peripety
 pforth
 pianobooster
 piglit
@@ -723,14 +720,11 @@ skinlf
 skipfish
 stxxl
 sugar-kuku
-sugar-measure
-sugar-starchart
 sugar-visualmatch
 sugar-yupana
 swami
 tagainijisho
 taskd
-telepathy-salut
 tesla-pom
 tflogger
 tonto
