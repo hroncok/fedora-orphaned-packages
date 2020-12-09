@@ -70,6 +70,7 @@ mindi-busybox
 mingw-celt051
 mingw-colorhug-client
 mingw-gstreamer-plugins-base
+mingw-libidn2
 mingw-mediawriter
 mocha
 moos
