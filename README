@@ -609,7 +609,6 @@ openav-luppp
 openboardview
 owncloud-client
 pagila
-pam_abl
 pcp-pmda-cpp
 pforth
 pianobooster
@@ -643,7 +642,6 @@ RxCpp
 rxtx
 samdump2
 sbinary
-scala
 scalacheck
 se-sandbox-runner
 shutter
