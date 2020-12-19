@@ -1,6 +1,7 @@
 apache-commons-chain
 apiviz
 apper
+aseman-qt-tools
 atanua
 atool
 bfast
@@ -48,6 +49,7 @@ js-html5shiv
 js-jquery-file-upload
 jsl
 js-respond
+jvyamlb
 koschei
 libad9361
 libbtbb
@@ -630,7 +632,6 @@ qtweetlib
 resapplet
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-json_pure
 rubygem-net-ssh-multi
 rust-block-cipher-trait
 rust-c2-chacha
@@ -648,7 +649,9 @@ shutter
 sir
 skinlf
 skipfish
+socnetv
 stxxl
+sugar-starchart
 sugar-visualmatch
 sugar-yupana
 swami
