@@ -4,6 +4,7 @@ apper
 aseman-qt-tools
 atanua
 atool
+banshee-community-extensions
 bfast
 biblesync
 bifcl
@@ -22,7 +23,6 @@ elementary
 eyesight
 fifechan
 fillets-ng
-flacon
 fmpp
 freetiger
 gdesklets-goodweather
@@ -32,7 +32,6 @@ gnome-code-assistance
 gnome-documents
 gnome-shell-extension-desktop-icons
 gridftp-ifce
-guacamole-server
 icemon
 java-comment-preprocessor
 jaxodraw
@@ -66,7 +65,6 @@ mindi-busybox
 mingw-celt051
 mingw-colorhug-client
 mingw-gstreamer-plugins-base
-mingw-libidn2
 mingw-mediawriter
 moos
 mutrace
@@ -617,7 +615,6 @@ ptlib
 pysendfile
 python-abclient
 python-blindspin
-python-cloudscraper
 python-django-storages
 python-iptables
 python-lasagna
@@ -658,6 +655,8 @@ tagainijisho
 tesla-pom
 tflogger
 tonto
+trac-accountmanager-plugin
+trac-spamfilter-plugin
 udunits
 viennacl
 xerces-c27
