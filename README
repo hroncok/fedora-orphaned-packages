@@ -9,9 +9,8 @@ bfast
 biblesync
 bifcl
 bip
-colorhug-client
+boo
 cook
-cros-guest-tools
 dc3dd
 dep
 dnsjava
@@ -63,7 +62,6 @@ mcu8051ide
 meshmagick
 mindi-busybox
 mingw-celt051
-mingw-colorhug-client
 mingw-gstreamer-plugins-base
 mingw-mediawriter
 moos
@@ -107,7 +105,6 @@ nodejs-ansi-white
 nodejs-ansi-wrap
 nodejs-ansi-yellow
 nodejs-any-path
-nodejs-any-promise
 nodejs-append-field
 nodejs-are-we-there-yet
 nodejs-argparse
@@ -521,6 +518,7 @@ nodejs-strip-color
 nodejs-strip-eof
 nodejs-success-symbol
 nodejs-suspend
+nodejs-svgo
 nodejs-symbol-observable
 nodejs-tapes
 nodejs-tar
@@ -528,8 +526,6 @@ nodejs-temp-dir
 nodejs-terst
 nodejs-testdata-w3c-json-form
 nodejs-text-extensions
-nodejs-thenify
-nodejs-thenify-all
 nodejs-thread-sleep
 nodejs-time-diff
 nodejs-timekeeper
@@ -629,6 +625,7 @@ qtweetlib
 resapplet
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-debug_inspector
 rubygem-net-ssh-multi
 rust-block-cipher-trait
 rust-c2-chacha
