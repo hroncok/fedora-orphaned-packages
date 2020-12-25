@@ -632,7 +632,6 @@ rust-c2-chacha
 rust-lockfree
 rust-nalgebra
 rust-proc-quote
-rust-ws
 RxCpp
 rxtx
 samdump2
@@ -658,5 +657,4 @@ udunits
 viennacl
 xerces-c27
 xtv
-zola
 zxing
