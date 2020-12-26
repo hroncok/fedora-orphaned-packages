@@ -629,7 +629,6 @@ rubygem-debug_inspector
 rubygem-net-ssh-multi
 rust-block-cipher-trait
 rust-c2-chacha
-rust-lockfree
 rust-nalgebra
 rust-proc-quote
 RxCpp
