@@ -618,7 +618,6 @@ python-lasagna
 python-mdp
 python-pika-pool
 python-pykafka
-python-ryu
 python-tinycss
 qfaxreader
 qmpdclient
