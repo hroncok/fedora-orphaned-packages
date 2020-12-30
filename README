@@ -5,6 +5,7 @@ apper
 aseman-qt-tools
 atanua
 atool
+auto-destdir
 azureus
 banshee-community-extensions
 bfast
@@ -34,7 +35,6 @@ gnome-documents
 gnome-shell-extension-desktop-icons
 gridftp-ifce
 icemon
-java-comment-preprocessor
 jaxodraw
 jblas
 jbosscache-support
@@ -50,7 +50,6 @@ js-respond
 jvyamlb
 koschei
 libad9361
-libbtbb
 libemu
 libgcal
 libjson-rpc-cpp
@@ -616,6 +615,7 @@ python-django-storages
 python-iptables
 python-lasagna
 python-mdp
+python-orderedset
 python-pika-pool
 python-pykafka
 python-tinycss
