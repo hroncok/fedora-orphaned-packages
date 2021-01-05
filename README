@@ -8,6 +8,8 @@ banshee-community-extensions
 bip
 boo
 clive
+cpp-hocon
+csync2
 ekiga
 elementary
 gdesklets-goodweather
@@ -15,6 +17,7 @@ gnome-shell-extension-desktop-icons
 grpc
 jbosscache-support
 jvyamlb
+lldpd
 mindi-busybox
 msv
 nim
@@ -22,7 +25,6 @@ nodejs-busboy
 nodejs-dicer
 nodejs-orchestrator
 nodejs-pump
-nodejs-set-value
 nodejs-shelljs
 nodejs-svgo
 nodoka-theme-gnome
@@ -31,11 +33,14 @@ opal
 ptlib
 python-abclient
 python-django-storages
+python-junit_xml
 python-lasagna
-python-orderedset
-python-pika-pool
+python-ntlm-auth
 python-pykafka
+python-requests-credssp
+python-requests_ntlm
 python-social-auth-core
+python-winrm
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-debug_inspector
@@ -43,6 +48,7 @@ samdump2
 shutter
 skipfish
 socnetv
+sslh
 sugar-starchart
 tesla-pom
 trac-accountmanager-plugin
