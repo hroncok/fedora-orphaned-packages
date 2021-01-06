@@ -31,7 +31,6 @@ nodoka-theme-gnome
 ntetris
 opal
 ptlib
-python-abclient
 python-django-storages
 python-junit_xml
 python-lasagna
@@ -47,7 +46,6 @@ rubygem-debug_inspector
 samdump2
 shutter
 skipfish
-socnetv
 sslh
 sugar-starchart
 tesla-pom
