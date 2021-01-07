@@ -31,6 +31,7 @@ nodoka-theme-gnome
 ntetris
 opal
 ptlib
+python-couchbase
 python-django-storages
 python-junit_xml
 python-lasagna
