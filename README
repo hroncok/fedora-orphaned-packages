@@ -8,13 +8,13 @@ banshee-community-extensions
 bip
 boo
 clive
-cpp-hocon
 csync2
 ekiga
 elementary
 gdesklets-goodweather
 gnome-shell-extension-desktop-icons
 grpc
+jabberpy
 jbosscache-support
 jvyamlb
 lldpd
@@ -30,10 +30,12 @@ nodejs-svgo
 nodoka-theme-gnome
 ntetris
 opal
+pg-semver
 ptlib
 python-couchbase
 python-django-storages
 python-junit_xml
+python-kyotocabinet
 python-lasagna
 python-ntlm-auth
 python-pykafka
