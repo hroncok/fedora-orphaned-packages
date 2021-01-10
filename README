@@ -1,7 +1,6 @@
 apache-commons-chain
 apache-log4j-extras
 aseman-qt-tools
-atanua
 auto-destdir
 azureus
 banshee-community-extensions
@@ -21,10 +20,6 @@ lldpd
 mindi-busybox
 msv
 nim
-nodejs-busboy
-nodejs-dicer
-nodejs-orchestrator
-nodejs-pump
 nodejs-shelljs
 nodejs-svgo
 nodoka-theme-gnome
@@ -33,7 +28,6 @@ opal
 pg-semver
 ptlib
 python-couchbase
-python-django-storages
 python-junit_xml
 python-kyotocabinet
 python-lasagna
@@ -46,8 +40,6 @@ python-winrm
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-debug_inspector
-samdump2
-shutter
 skipfish
 sslh
 sugar-starchart
