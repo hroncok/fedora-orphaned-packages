@@ -16,7 +16,6 @@ grpc
 jabberpy
 jbosscache-support
 jvyamlb
-lldpd
 mindi-busybox
 msv
 nim
@@ -24,18 +23,13 @@ nodejs-shelljs
 nodejs-svgo
 nodoka-theme-gnome
 ntetris
-opal
-pg-semver
-ptlib
 python-couchbase
 python-junit_xml
 python-kyotocabinet
 python-lasagna
-python-ntlm-auth
 python-pykafka
 python-requests-credssp
-python-requests_ntlm
-python-social-auth-core
+python-ryu
 python-winrm
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
