@@ -2,6 +2,7 @@ apache-commons-chain
 apache-log4j-extras
 aseman-qt-tools
 auto-destdir
+autojump
 azureus
 banshee-community-extensions
 bip
@@ -16,6 +17,7 @@ grpc
 jabberpy
 jbosscache-support
 jvyamlb
+libmypaint2
 mindi-busybox
 msv
 nim
@@ -30,7 +32,6 @@ python-lasagna
 python-pykafka
 python-requests-credssp
 python-ryu
-python-winrm
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-debug_inspector
