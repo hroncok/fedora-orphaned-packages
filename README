@@ -1,7 +1,6 @@
 apache-log4j-extras
 aseman-qt-tools
 auto-destdir
-autojump
 azureus
 banshee-community-extensions
 boo
@@ -23,13 +22,7 @@ nodejs-shelljs
 nodejs-svgo
 nodoka-theme-gnome
 ntetris
-perl-Math-Factor-XS
-perl-Math-Libm
-perl-Math-NumSeq
-perl-Math-PlanePath
-perl-XML-SAX-ExpatXS
 python-couchbase
-python-junit_xml
 python-kyotocabinet
 python-lasagna
 python-pykafka
