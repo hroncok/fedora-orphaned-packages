@@ -14,6 +14,8 @@ gdesklets-goodweather
 grpc
 jabberpy
 jbosscache-support
+jnr-enxio
+jnr-unixsocket
 jvyamlb
 libmypaint2
 mindi-busybox
@@ -34,6 +36,8 @@ rubygem-debug_inspector
 sslh
 sugar-starchart
 tesla-pom
+tomcat-taglibs-parent
+tomcat-taglibs-standard
 trac-accountmanager-plugin
 trac-spamfilter-plugin
 udunits
