@@ -7,7 +7,6 @@ boo
 clive
 csync2
 eclipse-remote
-ekiga
 elementary
 freemarker
 gdesklets-goodweather
@@ -25,11 +24,13 @@ nodejs-svgo
 nodoka-theme-gnome
 ntetris
 python-couchbase
+python-django-helpdesk
 python-kyotocabinet
 python-lasagna
 python-pykafka
 python-requests-credssp
 python-ryu
+python-XStatic-jquery-ui
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-debug_inspector
