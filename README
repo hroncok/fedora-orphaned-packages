@@ -6,8 +6,10 @@ banshee-community-extensions
 boo
 clive
 csync2
+eclipse-cdt
 eclipse-remote
 elementary
+fakeroot
 freemarker
 gdesklets-goodweather
 grpc
@@ -36,6 +38,7 @@ rubygem-boxgrinder-core
 rubygem-debug_inspector
 sslh
 sugar-starchart
+swt-chart
 tesla-pom
 tomcat-taglibs-parent
 tomcat-taglibs-standard
