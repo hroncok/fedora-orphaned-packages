@@ -22,7 +22,6 @@ libmypaint2
 mindi-busybox
 nim
 nodejs-shelljs
-nodejs-svgo
 nodoka-theme-gnome
 ntetris
 python-couchbase
@@ -36,6 +35,7 @@ python-XStatic-jquery-ui
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-debug_inspector
+squirrelmail
 sslh
 sugar-starchart
 swt-chart
