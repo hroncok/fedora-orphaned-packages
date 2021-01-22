@@ -35,6 +35,8 @@ python-XStatic-jquery-ui
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-debug_inspector
+rubygem-fog-aws
+rubygem-oauth
 squirrelmail
 sslh
 sugar-starchart
