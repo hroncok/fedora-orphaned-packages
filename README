@@ -17,6 +17,7 @@ jbosscache-support
 jnr-enxio
 jnr-unixsocket
 jvyamlb
+lcm
 libmypaint2
 mindi-busybox
 nim
@@ -31,6 +32,7 @@ python-pykafka
 python-requests-credssp
 python-ryu
 python-XStatic-jquery-ui
+radare2
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-debug_inspector
@@ -41,6 +43,7 @@ sslh
 sugar-starchart
 swt-chart
 tesla-pom
+tmw
 tomcat-taglibs-parent
 tomcat-taglibs-standard
 trac-accountmanager-plugin
