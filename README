@@ -11,6 +11,7 @@ eclipse-remote
 elementary
 freemarker
 gdesklets-goodweather
+golang-gvisor
 grpc
 jabberpy
 jbosscache-support
@@ -24,6 +25,7 @@ nim
 nodejs-shelljs
 nodoka-theme-gnome
 ntetris
+puppetlabs-stdlib
 python-couchbase
 python-django-helpdesk
 python-kyotocabinet
@@ -47,6 +49,13 @@ tmw
 tomcat-taglibs-parent
 tomcat-taglibs-standard
 trac-accountmanager-plugin
+trac-batchmodify-plugin
+trac-navadd-plugin
 trac-spamfilter-plugin
+trac-themeengine-plugin
+trac-tocmacro-plugin
+trac-vatar-plugin
+trac-workflowadmin-plugin
 udunits
+xmonad-log-applet
 xtv
