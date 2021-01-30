@@ -7,6 +7,7 @@ boo
 clive
 csync2
 eclipse-cdt
+eclipse-pydev
 eclipse-remote
 elementary
 freemarker
@@ -18,13 +19,16 @@ jbosscache-support
 jnr-enxio
 jnr-unixsocket
 jvyamlb
+jython
 lcm
 libmypaint2
 mindi-busybox
+netty
 nim
 nodejs-shelljs
 nodoka-theme-gnome
 ntetris
+os-maven-plugin
 puppetlabs-stdlib
 python-couchbase
 python-django-helpdesk
@@ -57,5 +61,6 @@ trac-tocmacro-plugin
 trac-vatar-plugin
 trac-workflowadmin-plugin
 udunits
+xmlrpc
 xmonad-log-applet
 xtv
