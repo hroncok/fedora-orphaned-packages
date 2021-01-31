@@ -1,5 +1,4 @@
 apache-log4j-extras
-aseman-qt-tools
 auto-destdir
 azureus
 banshee-community-extensions
@@ -14,11 +13,11 @@ freemarker
 gdesklets-goodweather
 golang-gvisor
 grpc
+guake
 jabberpy
 jbosscache-support
 jnr-enxio
 jnr-unixsocket
-jvyamlb
 jython
 lcm
 libmypaint2
@@ -34,7 +33,6 @@ python-couchbase
 python-django-helpdesk
 python-kyotocabinet
 python-lasagna
-python-pykafka
 python-requests-credssp
 python-ryu
 python-XStatic-jquery-ui
@@ -46,7 +44,6 @@ rubygem-fog-aws
 rubygem-oauth
 squirrelmail
 sslh
-sugar-starchart
 swt-chart
 tesla-pom
 tmw
