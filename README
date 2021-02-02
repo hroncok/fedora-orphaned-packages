@@ -1,7 +1,6 @@
 apache-log4j-extras
 auto-destdir
 azureus
-boo
 clive
 csync2
 eclipse-cdt
@@ -20,6 +19,7 @@ jnr-enxio
 jnr-unixsocket
 jython
 lcm
+libIDL
 libmypaint2
 mindi-busybox
 netty
@@ -38,7 +38,6 @@ python-XStatic-jquery-ui
 radare2
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-debug_inspector
 rubygem-fog-aws
 rubygem-oauth
 simple-jndi
@@ -47,12 +46,11 @@ sslh
 swt-chart
 tesla-pom
 tmw
+tmw-music
 tomcat-taglibs-parent
 tomcat-taglibs-standard
-trac-accountmanager-plugin
 trac-batchmodify-plugin
 trac-navadd-plugin
-trac-spamfilter-plugin
 trac-themeengine-plugin
 trac-tocmacro-plugin
 trac-vatar-plugin
