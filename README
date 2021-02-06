@@ -13,6 +13,7 @@ gaim-otr
 gdesklets-goodweather
 geronimo-jcdi-1.1-api
 geronimo-validation
+git-up
 golang-gvisor
 jabberpy
 jbosscache-support
@@ -22,14 +23,18 @@ jython
 lcm
 libmypaint2
 mindi-busybox
+nagios
+nagios-plugins
 netty
 nim
 nodejs-shelljs
 nodoka-theme-gnome
+nrpe
 ntetris
 ocaml-merlin
 ocaml-ocp-indent
 os-maven-plugin
+pipx
 puppetlabs-stdlib
 python-couchbase
 python-kyotocabinet
