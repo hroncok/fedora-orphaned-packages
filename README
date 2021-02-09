@@ -6,7 +6,6 @@ eclipse-pydev
 eclipse-remote
 elementary
 felix-bundlerepository
-freemarker
 gaim-otr
 gdesklets-goodweather
 geronimo-jcdi-1.1-api
@@ -33,13 +32,10 @@ os-maven-plugin
 pidgin-logviewer
 pipx
 puppetlabs-stdlib
-python-blinker
 python-couchbase
-python-django-annoying
 python-django-registration
 python-flask-assets
 python-flask-oauth
-python-flask-openid
 python-kyotocabinet
 python-lasagna
 python-requests-credssp
@@ -55,7 +51,6 @@ rubygem-fog-aws
 rubygem-oauth
 simple-jndi
 squirrelmail
-sslh
 swt-chart
 tesla-pom
 tetex
@@ -72,6 +67,7 @@ trac-vatar-plugin
 trac-workflowadmin-plugin
 transmission-remote-gtk
 udunits
+uw-imap
 v2strip
 xmlrpc
 xmonad-log-applet
