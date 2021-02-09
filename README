@@ -41,6 +41,7 @@ python-lasagna
 python-requests-credssp
 python-ryu
 python-setuptools_hg
+python-shadowsocks
 python-webassets
 python-XStatic-jquery-ui
 qroneko
