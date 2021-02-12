@@ -1,4 +1,3 @@
-auto-destdir
 clive
 csync2
 eclipse-cdt
@@ -24,6 +23,7 @@ jnr-unixsocket
 jython
 lcm
 libglademm24
+libinfinity
 libmypaint2
 libnotifymm
 mindi-busybox
