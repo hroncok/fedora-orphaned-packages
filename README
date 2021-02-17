@@ -1,3 +1,4 @@
+adf-accanthis-fonts
 arduino-builder
 arp-scan
 balance
@@ -8,6 +9,9 @@ bugzilla
 cri-tools
 ctorrent
 dianara
+drehatlas-warender-bibliothek-fonts
+drehatlas-widelands-fonts
+drehatlas-xaporho-fonts
 eclipse-cdt
 eclipse-pydev
 eclipse-remote
@@ -18,7 +22,6 @@ gaim-otr
 gdesklets-goodweather
 geronimo-jcdi-1.1-api
 geronimo-validation
-gftp
 git-up
 glom
 golang-gvisor
@@ -32,7 +35,9 @@ jfsutils
 jmdns
 jnr-enxio
 jnr-unixsocket
+jomolhari-fonts
 jython
+kanjistrokeorders-fonts
 knemo
 krb5-auth-dialog
 lcm
@@ -48,7 +53,6 @@ nagios
 nagios-plugins
 netty
 nload
-nrpe
 ntetris
 ocaml-merlin
 ocaml-ocp-indent
@@ -64,7 +68,6 @@ php-pecl-ssh2
 pidgin-logviewer
 plotmm
 pokerth
-proftpd
 puppetlabs-stdlib
 python-django-registration
 python-fastapi
@@ -93,16 +96,13 @@ python-starlette
 python-vcversioner
 python-webassets
 qroneko
-qt-creator
 redir
 reiserfs-utils
 ripmime
-rsyntaxtextarea
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-fog-aws
 rubygem-oauth
-ruby-gnome2
 simple-jndi
 sofia-sip
 squirrelmail
@@ -112,6 +112,8 @@ sylpheed
 tesla-pom
 tetex
 themonospot
+tibetan-machine-uni-fonts
+tlomt-junction-fonts
 tmw-music
 tomcat-taglibs-parent
 tomcat-taglibs-standard
@@ -123,13 +125,15 @@ trac-vatar-plugin
 trac-workflowadmin-plugin
 transmission-remote-gtk
 ttyd
+ubuntu-title-fonts
 udunits
 usbview
 v2strip
+vollkorn-fonts
 wput
 xmlrpc
 xmonad-log-applet
 xorg-x11-drv-i810
-xrdp
 xtv
+yanone-tagesschrift-fonts
 ytnef
