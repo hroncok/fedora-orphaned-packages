@@ -28,6 +28,7 @@ golang-gvisor
 goocanvasmm
 goocanvasmm2
 gstreamermm
+httpunit
 ifstat
 jabberpy
 jbosscache-support
@@ -87,7 +88,6 @@ python-kyotocabinet
 python-lasagna
 python-pg8000
 python-pgspecial
-python-pyrsistent
 python-ryu
 python-setuptools_hg
 python-shadowsocks
