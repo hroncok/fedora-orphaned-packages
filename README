@@ -50,8 +50,6 @@ libnotifymm
 libss7
 mindi-busybox
 mydns
-nagios
-nagios-plugins
 netty
 nload
 ntetris
@@ -84,7 +82,6 @@ python-flask-pymongo
 python-flask-security
 python-flask-sphinx-themes
 python-jose
-python-kyotocabinet
 python-lasagna
 python-pg8000
 python-pgspecial
