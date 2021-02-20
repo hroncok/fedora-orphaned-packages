@@ -30,7 +30,6 @@ goocanvasmm2
 gstreamermm
 httpunit
 ifstat
-jabberpy
 jbosscache-support
 jfsutils
 jmdns
@@ -61,7 +60,6 @@ pen
 perl-DBIx-Safe
 perl-pgsql_perl5
 pg_activity
-pgcli
 pg_top
 php-pecl-ssh2
 pidgin-logviewer
