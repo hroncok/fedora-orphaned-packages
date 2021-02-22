@@ -1,4 +1,3 @@
-adf-accanthis-fonts
 arduino-builder
 arp-scan
 balance
@@ -10,7 +9,6 @@ cri-tools
 ctorrent
 dianara
 drehatlas-warender-bibliothek-fonts
-drehatlas-widelands-fonts
 drehatlas-xaporho-fonts
 eclipse-cdt
 eclipse-pydev
@@ -38,7 +36,6 @@ jnr-unixsocket
 jomolhari-fonts
 jython
 kanjistrokeorders-fonts
-knemo
 krb5-auth-dialog
 lcm
 libglademm24
@@ -54,6 +51,7 @@ nload
 ntetris
 ocaml-merlin
 opendbx
+opendmarc
 os-maven-plugin
 pen
 perl-DBIx-Safe
@@ -82,7 +80,6 @@ python-jose
 python-lasagna
 python-pg8000
 python-pgspecial
-python-ryu
 python-setuptools_hg
 python-shadowsocks
 python-sshtunnel
@@ -92,7 +89,6 @@ python-webassets
 qroneko
 redir
 reiserfs-utils
-ripmime
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-fog-aws
@@ -109,8 +105,6 @@ themonospot
 tibetan-machine-uni-fonts
 tlomt-junction-fonts
 tmw-music
-tomcat-taglibs-parent
-tomcat-taglibs-standard
 trac-batchmodify-plugin
 trac-navadd-plugin
 trac-themeengine-plugin
@@ -121,7 +115,6 @@ transmission-remote-gtk
 ttyd
 ubuntu-title-fonts
 udunits
-usbview
 v2strip
 vollkorn-fonts
 wput
