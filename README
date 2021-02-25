@@ -12,7 +12,6 @@ drehatlas-warender-bibliothek-fonts
 drehatlas-xaporho-fonts
 eclipse-cdt
 eclipse-pydev
-eclipse-remote
 elementary
 ez-ipupdate
 felix-bundlerepository
@@ -37,7 +36,6 @@ jython
 kanjistrokeorders-fonts
 krb5-auth-dialog
 lcm
-libglademm24
 libinfinity
 libmirage
 libnotifymm
@@ -55,6 +53,7 @@ perl-pgsql_perl5
 pg_activity
 pg_top
 php-pecl-ssh2
+phpwapmail
 pidgin-logviewer
 plotmm
 pokerth
@@ -102,6 +101,7 @@ tlomt-junction-fonts
 tmw-music
 trac-batchmodify-plugin
 trac-navadd-plugin
+trac-privateticketsplugin
 trac-themeengine-plugin
 trac-tocmacro-plugin
 trac-vatar-plugin
