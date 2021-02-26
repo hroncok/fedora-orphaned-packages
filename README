@@ -77,7 +77,6 @@ python-pgspecial
 python-setuptools_hg
 python-shadowsocks
 python-sshtunnel
-python-starlette
 python-vcversioner
 python-webassets
 qroneko
