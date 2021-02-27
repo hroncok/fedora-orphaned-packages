@@ -71,7 +71,6 @@ python-flask-paranoid
 python-flask-pymongo
 python-flask-security
 python-flask-sphinx-themes
-python-jose
 python-lasagna
 python-pgspecial
 python-setuptools_hg
