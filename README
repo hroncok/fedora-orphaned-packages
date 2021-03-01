@@ -7,6 +7,8 @@ bucardo
 bugzilla
 cri-tools
 ctorrent
+CuraEngine-lulzbot
+cura-lulzbot
 dianara
 drehatlas-warender-bibliothek-fonts
 drehatlas-xaporho-fonts
@@ -29,16 +31,16 @@ httpunit
 jbosscache-support
 jfsutils
 jmdns
-jnr-enxio
-jnr-unixsocket
 jomolhari-fonts
 jython
 kanjistrokeorders-fonts
 krb5-auth-dialog
 lcm
+libarcus-lulzbot
 libinfinity
 libmirage
 libnotifymm
+lulzbot-marlin-firmware
 mindi-busybox
 mydns
 netty
@@ -76,6 +78,7 @@ python-pgspecial
 python-setuptools_hg
 python-shadowsocks
 python-sshtunnel
+python-uranium-lulzbot
 python-vcversioner
 python-webassets
 qroneko
