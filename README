@@ -12,7 +12,6 @@ cura-lulzbot
 dianara
 drehatlas-warender-bibliothek-fonts
 drehatlas-xaporho-fonts
-eclipse-cdt
 eclipse-pydev
 elementary
 ez-ipupdate
@@ -54,11 +53,14 @@ perl-DBIx-Safe
 perl-pgsql_perl5
 pg_activity
 pg_top
+php-deepdiver-zipstreamer
+php-opencloud-openstack
 php-pecl-ssh2
 phpwapmail
 pidgin-logviewer
 plotmm
 pokerth
+powermock
 puppetlabs-stdlib
 python-django-registration
 python-fastapi
@@ -74,7 +76,7 @@ python-flask-pymongo
 python-flask-security
 python-flask-sphinx-themes
 python-lasagna
-python-pgspecial
+python-pytest4
 python-setuptools_hg
 python-shadowsocks
 python-sshtunnel
@@ -92,7 +94,6 @@ simple-jndi
 sofia-sip
 squirrelmail
 sumwars
-swt-chart
 sylpheed
 tesla-pom
 tetex
