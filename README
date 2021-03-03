@@ -22,6 +22,8 @@ geronimo-jcdi-1.1-api
 geronimo-validation
 git-up
 glom
+gnome-clocks
+gnome-contacts
 golang-gvisor
 goocanvasmm
 goocanvasmm2
@@ -92,8 +94,8 @@ rubygem-fog-aws
 rubygem-oauth
 simple-jndi
 sofia-sip
-squirrelmail
 sumwars
+sushi
 sylpheed
 tesla-pom
 tetex
