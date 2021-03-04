@@ -29,7 +29,10 @@ goocanvasmm
 goocanvasmm2
 gstreamermm
 httpunit
+jakarta-messaging
 jbosscache-support
+jboss-el-3.0-api
+jboss-servlet-3.1-api
 jfsutils
 jmdns
 jomolhari-fonts
@@ -42,6 +45,7 @@ libinfinity
 libmirage
 libnotifymm
 lulzbot-marlin-firmware
+maven-verifier
 mindi-busybox
 mydns
 netty
@@ -91,7 +95,7 @@ reiserfs-utils
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-fog-aws
-rubygem-oauth
+saxpath
 simple-jndi
 sofia-sip
 sumwars
@@ -122,4 +126,3 @@ xmonad-log-applet
 xorg-x11-drv-i810
 xtv
 yanone-tagesschrift-fonts
-ytnef
