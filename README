@@ -4,7 +4,6 @@ balance
 bareftp
 bind-to-tinydns
 bucardo
-bugzilla
 cri-tools
 ctorrent
 CuraEngine-lulzbot
@@ -69,7 +68,6 @@ pokerth
 powermock
 puppetlabs-stdlib
 python-django-registration
-python-fastapi
 python-flask-assets
 python-flask-babelex
 python-flask-gravatar
@@ -94,7 +92,6 @@ redir
 reiserfs-utils
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-fog-aws
 saxpath
 simple-jndi
 sofia-sip
