@@ -1,5 +1,6 @@
 arduino-builder
 arp-scan
+avahi
 balance
 bareftp
 bind-to-tinydns
@@ -83,6 +84,7 @@ python-lasagna
 python-pytest4
 python-setuptools_hg
 python-shadowsocks
+python-shapely
 python-sshtunnel
 python-uranium-lulzbot
 python-vcversioner
