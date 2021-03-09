@@ -1,6 +1,5 @@
 arduino-builder
 arp-scan
-avahi
 balance
 bareftp
 bind-to-tinydns
@@ -26,11 +25,14 @@ geronimo-jcdi-1.1-api
 geronimo-validation
 git-up
 glom
-gnome-clocks
 gnome-contacts
-golang-gvisor
 goocanvasmm
 goocanvasmm2
+gsignond
+gsignond-plugin-lastfm
+gsignond-plugin-mail
+gsignond-plugin-oauth
+gsignond-plugin-sasl
 httpunit
 jakarta-messaging
 jbosscache-support
@@ -41,6 +43,7 @@ jython
 kanjistrokeorders-fonts
 krb5-auth-dialog
 lcm
+libaccounts-glib
 libarcus-lulzbot
 libinfinity
 libmirage
@@ -60,13 +63,13 @@ perl-DBIx-Safe
 perl-pgsql_perl5
 php-deepdiver-zipstreamer
 php-opencloud-openstack
-php-pecl-ssh2
 phpwapmail
 pidgin-logviewer
 plotmm
 pokerth
 powermock
 puppetlabs-stdlib
+python3-simplepam
 python-django-registration
 python-flask-assets
 python-flask-babelex
@@ -86,6 +89,7 @@ python-sshtunnel
 python-uranium-lulzbot
 python-vcversioner
 python-webassets
+pyxtrlock
 qroneko
 quvi
 redir
@@ -94,6 +98,7 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-raindrops
 saxpath
+signon-glib
 simple-jndi
 sofia-sip
 sump-analyzer
@@ -111,14 +116,12 @@ trac-themeengine-plugin
 trac-tocmacro-plugin
 trac-vatar-plugin
 trac-workflowadmin-plugin
-transmission-remote-gtk
 ttyd
 ubuntu-title-fonts
 udunits
 v2strip
 vollkorn-fonts
 wput
-xiphos
 xmlrpc
 xmonad-log-applet
 xorg-x11-drv-i810
