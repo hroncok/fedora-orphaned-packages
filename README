@@ -44,7 +44,6 @@ jmdns
 jython
 kanjistrokeorders-fonts
 krb5-auth-dialog
-lcm
 libaccounts-glib
 libarcus-lulzbot
 libinfinity
@@ -70,7 +69,6 @@ pidgin-logviewer
 plotmm
 pokerth
 powermock
-puppetlabs-stdlib
 python3-simplepam
 python-django-registration
 python-flask-assets
@@ -99,6 +97,7 @@ reiserfs-utils
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-raindrops
+rubygem-recaptcha
 saxpath
 signon-glib
 simple-jndi
@@ -111,13 +110,7 @@ tetex
 themonospot
 tlomt-junction-fonts
 tmw-music
-trac-batchmodify-plugin
-trac-navadd-plugin
 trac-privateticketsplugin
-trac-themeengine-plugin
-trac-tocmacro-plugin
-trac-vatar-plugin
-trac-workflowadmin-plugin
 ttyd
 ubuntu-title-fonts
 udunits
@@ -125,7 +118,6 @@ v2strip
 vollkorn-fonts
 wput
 xmlrpc
-xmonad-log-applet
 xorg-x11-drv-i810
 xtv
 yanone-tagesschrift-fonts
