@@ -12,7 +12,6 @@ dianara
 dionaea
 drehatlas-warender-bibliothek-fonts
 drehatlas-xaporho-fonts
-eclipse-pydev
 elementary
 ez-ipupdate
 felix-bundlerepository
@@ -29,6 +28,7 @@ glom
 gnome-contacts
 goocanvasmm
 goocanvasmm2
+grc
 gsignond
 gsignond-plugin-lastfm
 gsignond-plugin-mail
@@ -41,7 +41,6 @@ jbosscache-support
 jboss-el-3.0-api
 jboss-servlet-3.1-api
 jmdns
-jython
 kanjistrokeorders-fonts
 krb5-auth-dialog
 libaccounts-glib
@@ -53,12 +52,10 @@ lulzbot-marlin-firmware
 maven-verifier
 mindi-busybox
 mydns
-netty
 nload
 ntetris
 opendbx
 OpenIPMI
-os-maven-plugin
 pen
 perl-DBIx-Safe
 perl-pgsql_perl5
@@ -96,6 +93,7 @@ redir
 reiserfs-utils
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
+rubygem-net-ssh-gateway
 rubygem-raindrops
 rubygem-recaptcha
 saxpath
@@ -117,7 +115,6 @@ udunits
 v2strip
 vollkorn-fonts
 wput
-xmlrpc
 xorg-x11-drv-i810
 xtv
 yanone-tagesschrift-fonts
