@@ -2,7 +2,6 @@ arduino-builder
 arp-scan
 balance
 bareftp
-bind-to-tinydns
 bucardo
 cri-tools
 ctorrent
@@ -115,6 +114,7 @@ udunits
 v2strip
 vollkorn-fonts
 wput
+xiphos
 xorg-x11-drv-i810
 xtv
 yanone-tagesschrift-fonts
