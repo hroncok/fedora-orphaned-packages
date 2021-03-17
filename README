@@ -21,8 +21,6 @@ freeipmi
 gaim-otr
 gdesklets-goodweather
 gedit-code-assistance
-geronimo-jcdi-1.1-api
-geronimo-validation
 git-up
 glom
 gnome-contacts
@@ -100,7 +98,6 @@ rubygem-raindrops
 rubygem-recaptcha
 saxpath
 signon-glib
-simple-jndi
 sofia-sip
 sump-analyzer
 sumwars
@@ -109,7 +106,6 @@ tesla-pom
 tetex
 themonospot
 tlomt-junction-fonts
-tmw-music
 trac-privateticketsplugin
 ttyd
 ubuntu-title-fonts
