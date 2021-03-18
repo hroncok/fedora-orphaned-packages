@@ -4,6 +4,8 @@ balance
 bareftp
 bucardo
 ccls
+clipit
+connman
 cri-tools
 ctorrent
 CuraEngine-lulzbot
@@ -14,7 +16,6 @@ drehatlas-warender-bibliothek-fonts
 drehatlas-xaporho-fonts
 elementary
 ez-ipupdate
-felix-bundlerepository
 fillets-ng-data
 flexdock
 freeipmi
@@ -52,10 +53,12 @@ lulzbot-marlin-firmware
 maven-verifier
 mindi-busybox
 mydns
+netresolve
 nload
 ntetris
 opendbx
 OpenIPMI
+pasystray
 pen
 perl-DBIx-Safe
 perl-pgsql_perl5
@@ -72,7 +75,6 @@ python-flask-assets
 python-flask-babelex
 python-flask-gravatar
 python-flask-mail
-python-flask-migrate
 python-flask-oauth
 python-flask-paranoid
 python-flask-pymongo
@@ -89,8 +91,10 @@ python-webassets
 pyxtrlock
 qroneko
 quvi
+racoon2
 redir
 reiserfs-utils
+rnv
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-net-ssh-gateway
