@@ -4,7 +4,6 @@ balance
 bareftp
 bucardo
 ccls
-clipit
 connman
 cri-tools
 ctorrent
@@ -58,7 +57,6 @@ nload
 ntetris
 opendbx
 OpenIPMI
-pasystray
 pen
 perl-DBIx-Safe
 perl-pgsql_perl5
