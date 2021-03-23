@@ -22,7 +22,6 @@ gaim-otr
 gdesklets-goodweather
 gedit-code-assistance
 glom
-gnome-contacts
 goocanvasmm
 goocanvasmm2
 grc
@@ -41,7 +40,6 @@ jboss-jstl-1.2-api
 jboss-servlet-3.1-api
 jmdns
 kanjistrokeorders-fonts
-krb5-auth-dialog
 libaccounts-glib
 libarcus-lulzbot
 libinfinity
@@ -57,8 +55,6 @@ opendbx
 OpenIPMI
 pen
 perl-DBIx-Safe
-php-deepdiver-zipstreamer
-php-opencloud-openstack
 phpwapmail
 plotmm
 pokerth
@@ -73,7 +69,6 @@ python-flask-security
 python-flask-sphinx-themes
 python-lasagna
 python-pytest4
-python-shadowsocks
 python-sshtunnel
 python-uranium-lulzbot
 python-vcversioner
@@ -93,7 +88,6 @@ signon-glib
 sofia-sip
 sump-analyzer
 sumwars
-sushi
 tesla-pom
 tetex
 themonospot
