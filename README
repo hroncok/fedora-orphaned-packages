@@ -20,9 +20,6 @@ flexdock
 freeipmi
 gaim-otr
 gdesklets-goodweather
-glom
-goocanvasmm
-goocanvasmm2
 grc
 gsignond
 gsignond-plugin-lastfm
@@ -41,9 +38,7 @@ jmdns
 kanjistrokeorders-fonts
 libaccounts-glib
 libarcus-lulzbot
-libinfinity
 libmirage
-libnotifymm
 lulzbot-marlin-firmware
 maven-verifier
 mindi-busybox
@@ -54,7 +49,6 @@ OpenIPMI
 pen
 perl-DBIx-Safe
 phpwapmail
-plotmm
 powermock
 python3-simplepam
 python-cocotb
