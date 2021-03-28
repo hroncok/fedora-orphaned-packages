@@ -1,4 +1,3 @@
-arduino-builder
 arp-scan
 balance
 bareftp
@@ -34,7 +33,6 @@ jboss-el-3.0-api
 jboss-jsp-2.3-api
 jboss-jstl-1.2-api
 jboss-servlet-3.1-api
-jmdns
 kanjistrokeorders-fonts
 libaccounts-glib
 libarcus-lulzbot
