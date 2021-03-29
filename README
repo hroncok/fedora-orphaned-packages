@@ -1,4 +1,3 @@
-arp-scan
 balance
 bareftp
 bucardo
@@ -16,7 +15,6 @@ elementary
 ez-ipupdate
 fillets-ng-data
 flexdock
-freeipmi
 gaim-otr
 gdesklets-goodweather
 grc
@@ -26,7 +24,6 @@ gsignond-plugin-mail
 gsignond-plugin-oauth
 gsignond-plugin-sasl
 httpunit
-ipmitool
 jakarta-messaging
 jbosscache-support
 jboss-el-3.0-api
@@ -43,7 +40,6 @@ mindi-busybox
 mydns
 netresolve
 ntetris
-OpenIPMI
 pen
 perl-DBIx-Safe
 phpwapmail
@@ -60,7 +56,6 @@ python-flask-security
 python-flask-sphinx-themes
 python-lasagna
 python-pytest4
-python-sshtunnel
 python-uranium-lulzbot
 python-vcversioner
 pyxtrlock
@@ -88,7 +83,6 @@ ubuntu-title-fonts
 udunits
 v2strip
 vollkorn-fonts
-wput
 xiphos
 xorg-x11-drv-i810
 xtv
