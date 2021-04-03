@@ -1,5 +1,6 @@
 ccls
 connman
+ctk
 CuraEngine-lulzbot
 cura-lulzbot
 elementary
@@ -17,15 +18,19 @@ jboss-el-3.0-api
 jboss-jsp-2.3-api
 jboss-jstl-1.2-api
 jboss-servlet-3.1-api
+jrnl
 kpassgen
 lemonpos
 libaccounts-glib
 libarcus-lulzbot
 lulzbot-marlin-firmware
+luminance-hdr
 mailman
 maven-verifier
 mindi-busybox
+nightview
 ntetris
+openigtlink
 phpwapmail
 powermock
 python3-simplepam
