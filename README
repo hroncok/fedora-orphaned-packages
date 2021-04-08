@@ -4,6 +4,7 @@ ctk
 CuraEngine-lulzbot
 cura-lulzbot
 elementary
+fbreader
 gaim-otr
 gdesklets-goodweather
 grc
@@ -22,6 +23,7 @@ kpassgen
 lemonpos
 libaccounts-glib
 libarcus-lulzbot
+libunibreak
 lulzbot-marlin-firmware
 mailman
 maven-verifier
