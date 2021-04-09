@@ -7,6 +7,7 @@ elementary
 fbreader
 gaim-otr
 gdesklets-goodweather
+gnome-desktop
 grc
 gsignond
 gsignond-plugin-lastfm
@@ -53,6 +54,7 @@ tetex
 themonospot
 udunits
 v2strip
+wsl
 xorg-x11-drv-i810
 xtv
 zhu3d
