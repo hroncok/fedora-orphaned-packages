@@ -1,5 +1,6 @@
 Add64
 ccls
+clang9.0
 connman
 dssi
 dssi-vst
@@ -35,6 +36,7 @@ lemonpos
 libaccounts-glib
 libinstpatch
 libunibreak
+llvm9.0
 lv2-c++-tools
 lv2-fabla
 lv2-ll-plugins
@@ -51,11 +53,10 @@ nightview
 non-daw
 ntetris
 pgRouting
-powermock
 python3-simplepam
 python-cocotb
+python-gntp
 python-lasagna
-python-pytest4
 pyxtrlock
 quick-usb-formatter
 racoon2
