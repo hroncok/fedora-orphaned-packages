@@ -33,7 +33,6 @@ jboss-servlet-3.1-api
 jmeters
 kpassgen
 lemonpos
-libaccounts-glib
 libinstpatch
 libunibreak
 llvm9.0
@@ -69,7 +68,6 @@ rubygem-boxgrinder-core
 rubygem-net-ssh-gateway
 rubygem-recaptcha
 saxpath
-signon-glib
 tesla-pom
 tetex
 themonospot
