@@ -49,6 +49,7 @@ pgRouting
 python-cocotb
 python-gntp
 python-lasagna
+python-ttystatus
 quick-usb-formatter
 racoon2
 radium-compressor
