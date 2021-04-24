@@ -67,6 +67,7 @@ R-qcc
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-net-ssh-gateway
+screenruler
 tesla-pom
 tetex
 themonospot
@@ -78,7 +79,6 @@ whysynth-dssi
 wsl
 xbiff
 xconsole
-xload
 xlogo
 xorg-x11-drv-i810
 xpr
