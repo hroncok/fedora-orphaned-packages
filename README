@@ -10,7 +10,6 @@ cal10n
 cgdcbxd
 clang9.0
 connman
-cscope
 dain-snappy
 disruptor
 dpdk
@@ -47,11 +46,9 @@ jackson-bom
 jackson-core
 jackson-databind
 jackson-parent
-jakarta-activation
 jakarta-commons-httpclient
 jakarta-el
 jakarta-interceptors
-jakarta-mail
 jakarta-persistence
 jakarta-saaj
 jakarta-server-pages
@@ -76,7 +73,6 @@ jboss-modules
 jboss-servlet-3.0-api
 jctools
 jdependency
-jitterentropy
 jmeters
 jmock
 jna
@@ -120,6 +116,7 @@ ntetris
 objectweb-pom
 oclock
 pgRouting
+php-rmccue-requests
 plexus-i18n
 plexus-interactivity
 plexus-velocity
@@ -139,7 +136,6 @@ redfish-finder
 replacer
 rf
 rmd
-rng-tools
 rnv
 R-qcc
 rstp
@@ -167,6 +163,7 @@ wsl
 xbiff
 xconsole
 xfd
+xfontsel
 xmlstreambuffer
 xorg-x11-drv-i810
 xpp3
