@@ -9,7 +9,6 @@ cajun-jsonapi
 cal10n
 cgdcbxd
 clang9.0
-connman
 dain-snappy
 disruptor
 dpdk
@@ -105,12 +104,14 @@ maven-reporting-impl
 maven-script-interpreter
 maven-shade-plugin
 mcpp
+memavaild
 meterbridge
 mindi-busybox
 mkproject
 musca
 netdump-server
 nightview
+nohang
 non-daw
 ntetris
 objectweb-pom
@@ -120,6 +121,7 @@ php-rmccue-requests
 plexus-i18n
 plexus-interactivity
 plexus-velocity
+prelockd
 python-cocotb
 python-gntp
 python-lasagna
@@ -127,7 +129,6 @@ python-npyscreen
 python-pysctp
 python-ttystatus
 quick-usb-formatter
-racoon2
 radium-compressor
 rcrpanel
 rdkit
@@ -136,7 +137,6 @@ redfish-finder
 replacer
 rf
 rmd
-rnv
 R-qcc
 rstp
 rubygem-boxgrinder-build
@@ -164,6 +164,7 @@ xbiff
 xconsole
 xfd
 xfontsel
+xmag
 xmlstreambuffer
 xorg-x11-drv-i810
 xpp3
