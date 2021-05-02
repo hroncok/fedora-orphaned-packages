@@ -111,7 +111,6 @@ mkproject
 musca
 netdump-server
 nightview
-nohang
 non-daw
 ntetris
 objectweb-pom
@@ -141,7 +140,6 @@ R-qcc
 rstp
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-screenruler
 shrinkwrap
 snakeyaml
 snappy-java
