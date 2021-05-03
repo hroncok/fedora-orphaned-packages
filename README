@@ -1,4 +1,3 @@
-Add64
 ant-contrib
 aopalliance
 apache-ivy
@@ -11,12 +10,9 @@ cgdcbxd
 clang9.0
 dain-snappy
 disruptor
-dpdk
 dropwatch
-dssi
 dssi-vst
 elementary
-exec-maven-plugin
 fasterxml-oss-parent
 fbreader
 fedora-jam-backgrounds
@@ -33,7 +29,6 @@ gocomplete
 google-gson
 gtk-nodoka-engine
 hamcrest2
-hawtjni
 hexter-dssi
 hsqldb
 icfg
@@ -72,7 +67,6 @@ jboss-modules
 jboss-servlet-3.0-api
 jctools
 jdependency
-jmeters
 jmock
 jna
 kpassgen
@@ -81,14 +75,6 @@ libunibreak
 listres
 llvm9.0
 log4j
-lv2-c++-tools
-lv2-fabla
-lv2-ll-plugins
-lv2-mdaEPiano
-lv2-newtonator
-lv2-sorcer
-lv2-swh-plugins
-lv2-vocoder-plugins
 mailman
 maven-artifact-resolver
 maven-clean-plugin
@@ -102,10 +88,8 @@ maven-mapping
 maven-reporting-api
 maven-reporting-impl
 maven-script-interpreter
-maven-shade-plugin
 mcpp
 memavaild
-meterbridge
 mindi-busybox
 mkproject
 musca
@@ -116,8 +100,6 @@ ntetris
 objectweb-pom
 oclock
 pgRouting
-php-rmccue-requests
-plexus-i18n
 plexus-interactivity
 plexus-velocity
 prelockd
@@ -136,12 +118,10 @@ redfish-finder
 replacer
 rf
 rmd
-R-qcc
 rstp
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 shrinkwrap
-snakeyaml
 snappy-java
 spec-version-maven-plugin
 spice-parent
@@ -153,6 +133,7 @@ tw
 udunits
 univocity-output-tester
 v2strip
+vecmath
 viewres
 weld-parent
 whysynth-dssi
@@ -161,7 +142,6 @@ wsl
 xbiff
 xconsole
 xfd
-xmag
 xmlstreambuffer
 xorg-x11-drv-i810
 xpp3
