@@ -34,6 +34,7 @@ hsqldb
 icfg
 irqbalance
 isorelax
+jabrt
 jackctlmmc
 jackson-annotations
 jackson-bom
@@ -91,6 +92,7 @@ maven-script-interpreter
 mcpp
 memavaild
 mindi-busybox
+ming
 mkproject
 musca
 netdump-server
@@ -100,10 +102,13 @@ ntetris
 objectweb-pom
 oclock
 pgRouting
+php-pecl-radius
 plexus-interactivity
 plexus-velocity
 prelockd
 python-cocotb
+python-flask-principal
+python-flask-rstpages
 python-gntp
 python-lasagna
 python-npyscreen
@@ -115,6 +120,7 @@ rcrpanel
 rdkit
 realTimeConfigQuickScan
 redfish-finder
+redland-bindings
 replacer
 rf
 rmd
@@ -132,6 +138,7 @@ themonospot
 tw
 udunits
 univocity-output-tester
+uwsgi
 v2strip
 vecmath
 viewres
