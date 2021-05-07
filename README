@@ -92,7 +92,6 @@ llvm9.0
 lmms
 log4j
 mailman
-manifest-tool
 maven-artifact-resolver
 maven-clean-plugin
 maven-doxia
@@ -165,7 +164,10 @@ rubygem-boxgrinder-build
 rubygem-boxgrinder-core
 rubygem-haml
 rubygem-maruku
-rubygem-xml-simple
+rubygem-rspec2
+rubygem-rspec2-core
+rubygem-rspec2-expectations
+rubygem-rspec2-mocks
 shrinkwrap
 snappy-java
 spec-version-maven-plugin
