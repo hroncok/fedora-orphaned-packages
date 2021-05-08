@@ -83,7 +83,6 @@ kjots
 koules
 kpassgen
 lemonpos
-libclc
 libgta
 libunibreak
 listres
@@ -140,6 +139,7 @@ python-flask-principal
 python-flask-rstpages
 python-gntp
 python-holidays
+python-langdetect
 python-lasagna
 python-npyscreen
 python-pyriemann
