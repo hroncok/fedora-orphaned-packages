@@ -87,7 +87,6 @@ libgta
 listres
 llvm10
 llvm9.0
-lmms
 log4j
 mailman
 maven-artifact-resolver
@@ -106,7 +105,6 @@ mcpp
 mindi-busybox
 ming
 mkproject
-multi-git-status
 musca
 netdump-server
 nightview
@@ -123,6 +121,7 @@ openvas-scanner
 papaki
 paris-traceroute
 pass-pwned
+perl-Hardware-Vhdl-Tidy
 pgRouting
 php-composer-installers
 php-guzzlehttp-psr7
