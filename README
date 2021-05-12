@@ -81,7 +81,6 @@ jdependency
 jmock
 kjots
 koules
-libgta
 listres
 llvm10
 llvm9.0
@@ -92,6 +91,7 @@ maven-doxia-sitetools
 maven-install-plugin
 maven-invoker
 maven-invoker-plugin
+maven-javadoc-plugin
 maven-mapping
 maven-reporting-api
 maven-reporting-impl
@@ -106,7 +106,6 @@ nightview
 non-daw
 ntetris
 objectweb-pom
-oci-kvm-hook
 oclock
 opam
 openvas-gsa
