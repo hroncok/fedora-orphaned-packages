@@ -4,7 +4,6 @@ aopalliance
 apache-ivy
 arduino
 args4j
-biber
 cajun-jsonapi
 cal10n
 cgdcbxd
@@ -184,7 +183,6 @@ xconsole
 xfd
 xmlstreambuffer
 xorg-x11-drv-i810
-xorg-x11-drv-nouveau
 xpp3
 xpr
 xrefresh
