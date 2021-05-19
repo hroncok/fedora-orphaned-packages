@@ -1,4 +1,5 @@
 aespipe
+ant-antunit
 ant-contrib
 aopalliance
 apache-ivy
@@ -15,12 +16,10 @@ disruptor
 dropwatch
 dssi-vst
 elementary
-emacs-auctex
 emacs-haskell-mode
 emacs-lookup
 erlang-eper
 fasterxml-oss-parent
-fbreader
 fedora-jam-backgrounds
 fedora-jam-kde-theme
 flannel
@@ -78,11 +77,8 @@ jboss-servlet-3.0-api
 jctools
 jdependency
 jmock
-kjots
 koules
 listres
-llvm10
-llvm9.0
 log4j
 maven-artifact-resolver
 maven-doxia
@@ -116,8 +112,6 @@ pass-pwned
 perl-Hardware-Vhdl-Tidy
 pgRouting
 php-composer-installers
-php-guzzlehttp-psr7
-php-opencloud-openstack
 php-pecl-radius
 php-typo3-phar-stream-wrapper
 plasma-pass
@@ -131,7 +125,6 @@ python-holidays
 python-langdetect
 python-lasagna
 python-npyscreen
-python-pyriemann
 python-pysctp
 python-sphinxcontrib-issuetracker
 python-sshtunnel
@@ -149,7 +142,6 @@ rstp
 rtags
 rubygem-boxgrinder-build
 rubygem-boxgrinder-core
-rubygem-haml
 rubygem-maruku
 rubygem-rspec2
 rubygem-rspec2-core
@@ -157,7 +149,6 @@ rubygem-rspec2-expectations
 rubygem-rspec2-mocks
 shrinkwrap
 snappy-java
-sooperlooper
 spec-version-maven-plugin
 spice-parent
 stax2-api
