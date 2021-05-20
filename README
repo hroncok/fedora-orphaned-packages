@@ -2,6 +2,8 @@ aespipe
 ant-antunit
 ant-contrib
 aopalliance
+apache-commons-daemon
+apache-commons-lang
 apache-ivy
 arduino
 args4j
@@ -65,6 +67,7 @@ jansi-native
 javacc
 javacc-maven-plugin
 javaparser
+javassist
 jaxb
 jaxb-dtd-parser
 jaxb-fi
@@ -72,12 +75,12 @@ jaxb-istack-commons
 jaxb-stax-ex
 jbosscache-support
 jboss-el-2.2-api
+jboss-jms-1.1-api
 jboss-modules
 jboss-servlet-3.0-api
 jctools
 jdependency
 jmock
-koules
 listres
 log4j
 maven-artifact-resolver
@@ -107,6 +110,7 @@ openvas-libraries
 openvas-manager
 openvas-scanner
 papaki
+paranamer
 paris-traceroute
 pass-pwned
 perl-Hardware-Vhdl-Tidy
@@ -117,7 +121,6 @@ php-typo3-phar-stream-wrapper
 plasma-pass
 plexus-interactivity
 plexus-velocity
-python-aiomqtt
 python-flask-principal
 python-flask-rstpages
 python-gntp
