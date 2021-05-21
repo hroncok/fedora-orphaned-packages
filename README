@@ -21,7 +21,6 @@ elementary
 emacs-haskell-mode
 emacs-lookup
 erlang-eper
-fasterxml-oss-parent
 fedora-jam-backgrounds
 fedora-jam-kde-theme
 flannel
@@ -48,11 +47,6 @@ irqbalance
 isorelax
 jabrt
 jackctlmmc
-jackson-annotations
-jackson-bom
-jackson-core
-jackson-databind
-jackson-parent
 jakarta-commons-httpclient
 jakarta-el
 jakarta-interceptors
