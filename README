@@ -62,7 +62,6 @@ javacc
 javacc-maven-plugin
 javaparser
 javassist
-jaxb
 jaxb-dtd-parser
 jaxb-fi
 jaxb-istack-commons
@@ -127,6 +126,7 @@ python-sphinxcontrib-issuetracker
 python-sshtunnel
 python-transitions
 python-ttystatus
+qtpass
 radium-compressor
 rcrpanel
 rdkit
