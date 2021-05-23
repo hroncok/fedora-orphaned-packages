@@ -62,9 +62,6 @@ javacc
 javacc-maven-plugin
 javaparser
 javassist
-jaxb-dtd-parser
-jaxb-fi
-jaxb-istack-commons
 jaxb-stax-ex
 jbosscache-support
 jboss-el-2.2-api
