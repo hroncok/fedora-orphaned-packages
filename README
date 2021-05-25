@@ -10,7 +10,6 @@ args4j
 cajun-jsonapi
 cal10n
 cgdcbxd
-clang9.0
 coffee-script
 dain-snappy
 dayjournal
@@ -81,7 +80,6 @@ netdump-server
 ntetris
 objectweb-pom
 oclock
-opam
 openvas-gsa
 openvas-libraries
 openvas-manager
@@ -99,7 +97,6 @@ plexus-interactivity
 plexus-velocity
 python-flask-principal
 python-flask-rstpages
-python-gntp
 python-holidays
 python-langdetect
 python-lasagna
@@ -128,7 +125,6 @@ shrinkwrap
 snappy-java
 spec-version-maven-plugin
 spice-parent
-stax2-api
 subfinder
 sugar-measure
 tesla-pom
