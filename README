@@ -10,7 +10,6 @@ args4j
 cajun-jsonapi
 cal10n
 cgdcbxd
-chicken
 coffee-script
 dain-snappy
 dayjournal
@@ -33,7 +32,6 @@ google-gson
 hamcrest2
 hsqldb
 htmldoc
-httpie
 icebreaker
 icfg
 Inventor
@@ -99,7 +97,6 @@ plasma-pass
 plexus-interactivity
 plexus-velocity
 python-cmd2
-python-flask
 python-flask-principal
 python-flask-rstpages
 python-fn
@@ -112,7 +109,6 @@ python-sphinxcontrib-issuetracker
 python-sshtunnel
 python-transitions
 python-ttystatus
-python-werkzeug
 qtpass
 rcrpanel
 redfish-finder
