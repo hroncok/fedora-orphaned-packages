@@ -7,7 +7,6 @@ apache-commons-lang
 apache-ivy
 arduino
 args4j
-cajun-jsonapi
 cal10n
 cgdcbxd
 coffee-script
@@ -27,7 +26,6 @@ gaim-otr
 gdesklets-goodweather
 geronimo-osgi-support
 git-cal
-gocomplete
 google-gson
 hamcrest2
 hsqldb
@@ -155,6 +153,5 @@ xpp3
 xpr
 xrefresh
 xstdcmap
-xtuple-openrpt
 xtv
 xwota
