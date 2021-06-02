@@ -73,8 +73,6 @@ maven-reporting-impl
 maven-script-interpreter
 mindi-busybox
 ming
-mkproject
-musca
 netdump-server
 ntetris
 objectweb-pom
@@ -107,10 +105,8 @@ python-sshtunnel
 python-transitions
 python-ttystatus
 qtpass
-rcrpanel
 redfish-finder
 redland-bindings
-rf
 rmd
 rstp
 rtags
@@ -136,7 +132,6 @@ sugar-measure
 tesla-pom
 tetex
 themonospot
-tw
 udunits
 univocity-output-tester
 uwsgi
