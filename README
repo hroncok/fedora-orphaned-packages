@@ -7,6 +7,7 @@ apache-commons-lang
 apache-ivy
 arduino
 args4j
+automaton
 cal10n
 cgdcbxd
 coffee-script
@@ -49,6 +50,7 @@ janino
 jansi-native
 javacc
 javacc-maven-plugin
+javaparser
 javassist
 jbosscache-support
 jboss-el-2.2-api
@@ -60,6 +62,7 @@ jdependency
 jmock
 listres
 log4j
+luit
 maven-artifact-resolver
 maven-doxia
 maven-doxia-sitetools
