@@ -1,7 +1,6 @@
 aespipe
 ant-antunit
 ant-contrib
-aopalliance
 apache-commons-daemon
 apache-commons-lang
 arduino
@@ -36,16 +35,13 @@ isorelax
 jabrt
 jakarta-commons-httpclient
 jakarta-el
-jakarta-interceptors
 jakarta-persistence
 jakarta-saaj
-jakarta-server-pages
 jakarta-ws-rs
 jakarta-xml-rpc
 jakarta-xml-ws
 janino
 javacc-maven-plugin
-javaparser
 javassist
 jbosscache-support
 jboss-el-2.2-api
@@ -60,13 +56,9 @@ maven-artifact-resolver
 maven-doxia
 maven-doxia-sitetools
 maven-install-plugin
-maven-invoker
-maven-invoker-plugin
 maven-javadoc-plugin
-maven-mapping
 maven-reporting-api
 maven-reporting-impl
-maven-script-interpreter
 mindi-busybox
 ming
 netdump-server
@@ -86,7 +78,6 @@ php-pecl-radius
 php-typo3-phar-stream-wrapper
 plasma-pass
 plexus-interactivity
-plexus-velocity
 python-cmd2
 python-flask-principal
 python-flask-rstpages
@@ -123,7 +114,6 @@ rubygem-vegas
 shrinkwrap
 snappy-java
 spec-version-maven-plugin
-spice-parent
 subfinder
 sugar-measure
 tesla-pom
@@ -135,7 +125,6 @@ uwsgi
 v2strip
 vagrant-lxc
 vecmath
-weld-parent
 xfd
 xorg-x11-drv-i810
 xpp3
