@@ -1,6 +1,5 @@
 aespipe
 ant-antunit
-ant-contrib
 apache-commons-daemon
 apache-commons-lang
 arduino
@@ -25,7 +24,6 @@ gdesklets-goodweather
 geronimo-osgi-support
 git-cal
 hamcrest2
-hsqldb
 htmldoc
 icebreaker
 icfg
@@ -33,11 +31,8 @@ Inventor
 irqbalance
 isorelax
 jabrt
-jakarta-commons-httpclient
-jakarta-el
 jakarta-persistence
 jakarta-saaj
-jakarta-ws-rs
 jakarta-xml-rpc
 jakarta-xml-ws
 janino
@@ -113,7 +108,6 @@ rubygem-trollop
 rubygem-vegas
 shrinkwrap
 snappy-java
-spec-version-maven-plugin
 subfinder
 sugar-measure
 tesla-pom
