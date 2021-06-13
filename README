@@ -11,7 +11,6 @@ elementary
 emacs-haskell-mode
 emacs-lookup
 erlang-eper
-erlang-fast_xml
 erlang-riak_pipe
 flannel
 gaim-otr
@@ -53,7 +52,6 @@ python-fn
 python-holidays
 python-langdetect
 python-lasagna
-python-netifaces
 python-sshtunnel
 python-transitions
 python-ttystatus
