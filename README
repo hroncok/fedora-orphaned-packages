@@ -27,7 +27,6 @@ jboss-jms-1.1-api
 jboss-logmanager
 luit
 maven-javadoc-plugin
-maven-verifier-plugin
 mindi-busybox
 ming
 ntetris
@@ -52,7 +51,7 @@ python-fn
 python-holidays
 python-langdetect
 python-lasagna
-python-sshtunnel
+python-pytest-relaxed
 python-transitions
 python-ttystatus
 qtpass
@@ -84,6 +83,5 @@ v2strip
 vagrant-lxc
 vecmath
 xorg-x11-drv-i810
-xstdcmap
 xtv
 xwota
